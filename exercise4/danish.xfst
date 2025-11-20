@@ -1,0 +1,13 @@
+! Clear away any old data that might be in the system
+clear stack
+
+! Read Danish lexicon and make a finite-state network of it
+read lexc danish.lexc
+define Lexicon ;
+regex Lexicon ;
+
+! Output all lexical forms
+upper-words
+
+! Output all surface forms
+lower-words

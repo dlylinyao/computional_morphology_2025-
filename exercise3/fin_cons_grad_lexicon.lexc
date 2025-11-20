@@ -1,0 +1,70 @@
+Multichar_Symbols
+        +N       ! Noun tag
+        +Sg      ! Singular tag
+        +Ptv     ! Partitive
+        +Gen     ! Genitive
+
+LEXICON Root
+        NounStems ;
+
+LEXICON NounStems
+
+sika    N_BackVowel ;
+mörkö   N_FrontVowel ;
+papu    N_BackVowel ;
+kylpy   N_FrontVowel ;
+sota    N_BackVowel ;
+lähtö   N_FrontVowel ;
+
+kukka   N_BackVowel ;
+kyykky  n_FrontVowel ;
+loppu   N_BackVowel ;
+kymppi  N_FrontVowel ;
+matto   N_BackVowel ;
+nörtti  N_FrontVowel ;
+
+tiuku   N_BackVowel ;
+ruoko   N_BackVowel ;
+vaaka   N_BackVowel ;
+
+puku    N_BackVowel ;
+kyky    N_FrontVowel ;
+
+kurki:kurke     N_BackVowel ;
+kärki:kärke     N_FrontVowel ;
+
+vanki   N_BackVowel ;
+sänky   N_FrontVowel ;
+kumpu   N_BackVowel ;
+lämpö   N_FrontVowel ;
+ranta   N_BackVowel ;
+häntä   N_FrontVowel ;
+
+ilta    N_BackVowel ;
+kulta   N_BackVowel ;
+parta   N_BackVowel ;
+pyörtö  N_FrontVowel ;
+
+aika    N_BackVowel ;
+poika   N_BackVowel ;
+ruoka   N_BackVowel ;
+
+LEXICON N_BackVowel
++N+Sg:^         Case_BackVowel ;
+
+LEXICON N_FrontVowel
++N+Sg:^         Case_FrontVowel ;
+
+LEXICON Case_BackVowel
++Ptv:a          # ;
++Gen:n          # ;
++Ess:na         # ;
++Tra:ksi        # ;
+
+LEXICON Case_FrontVowel
++Ptv:ä          # ;
++Gen:n          # ;
++Ess:nä         # ;
++Tra:ksi        # ;
+
+END

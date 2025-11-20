@@ -1,0 +1,43 @@
+Multichar_Symbols
+        +Indef  ! indefinite form
+        +Def    ! definite form
+        ! Remember to list all your flag diacritics as multichar symbols, too
+        @U.ART.NONE@
+        @U.ART.INDEF@
+        @U.ART.DEF@
+        @U.ADJ.NO@
+        @U.ADJ.YES@
+
+LEXICON Root
+        Articles ;
+
+LEXICON Articles
+@U.ART.NONE@@U.ADJ.NO@        NounStems ;  ! no article
+@U.ART.INDEF@:@U.ART.INDEF@et_    AdjStems ;   ! indefinite article (a/an)
+@U.ART.DEF@:@U.ART.DEF@det_   AdjStems ;   ! definite article (the)
+
+LEXICON AdjStems
+@U.ADJ.NO@        NounStems ;     ! no adjective attribute
+@U.ADJ.YES@dejlig  AdjSuffixes ;   ! nice
+@U.ADJ.YES@god     AdjSuffixes ;   ! good
+@U.ADJ.YES@gul     AdjSuffixes ;   ! yellow
+@U.ADJ.YES@ny      AdjSuffixes ;   ! new
+@U.ADJ.YES@stor    AdjSuffixes ;   ! big
+
+LEXICON AdjSuffixes
+@U.ART.INDEF@t_      NounStems ;     ! indefinite adj. suffix
+@U.ART.DEF@t_:@U.ART.DEF@e_   NounStems ;     ! definite adj. suffix
+
+LEXICON NounStems
+brev    NounSuffixes ;  ! letter
+hegn    NounSuffixes ;  ! fence
+fly     NounSuffixes ;  ! plane
+hus     NounSuffixes ;  ! house
+tog     NounSuffixes ;  ! train
+
+LEXICON NounSuffixes
+@U.ART.INDEF@+Indef: # ;             ! no noun suffix                
+@U.ART.DEF@@U.ADJ.YES@+Def:@U.ART.DEF@@U.ADJ.YES@ # ;             ! no noun suffix                
+@U.ART.NONE@@U.ADJ.NO@+Def:@U.ART.NONE@@U.ADJ.NO@et # ;             ! definite suffix
+
+END

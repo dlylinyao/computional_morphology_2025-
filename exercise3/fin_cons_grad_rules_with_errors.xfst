@@ -1,0 +1,104 @@
+! A set of rules for Finnish consonant gradation
+! Copyright (c) 1987 by Lauri Karttunen for twolc,
+! adapted for xfst by Mathias Creutz
+
+! Clear away any old data that might be in the system
+clear stack
+
+! Read lexicon and make a finite-state network of it
+read lexc fin_cons_grad_lexicon.lexc
+define Lexicon ;
+regex Lexicon ;
+
+! Definitions
+define Cons         [ b | c | d | f | g | h | j | k | l | m |
+                      n | p | r | s | t | v | x | z | ' ] ;
+define Vowel        [ a | e | i | o | u | y | ä | ö ] ;
+define Liquid       [ l | r ] ;
+define ClosedOffset %^ Cons [ Cons | .#. ] ;
+
+! Rules
+
+! Consonant gradation:
+! Single k, p, and t are realized as zero, v, and d,
+! respectively, in the beginning of a closed syllable.
+define ConsGrad k -> 0,
+                p -> v,
+                t -> d || [ h | Liquid | Vowel ] _ Vowel ClosedOffset ;
+
+! Geminate gradation:
+! Geminate stops k, p and t are shortened to
+! single stops in a closed syllable.
+define GemGrad k -> 0 || k _ Vowel ClosedOffset .o.
+               p -> 0 || p _ Vowel ClosedOffset .o.
+               t -> 0 || t _ Vowel ClosedOffset ;
+
+! Gradation after nasals:
+! Stops k, p and t assimilate to the preceding nasal
+! consonant in the weak grade.
+define GradNasal k -> g || n _ Vowel ClosedOffset .o.
+                 p -> m || m _ Vowel ClosedOffset .o.
+                 t -> n || n _ Vowel ClosedOffset ;
+
+! Gradation of k after VV:
+! k weakens to a syllable boundary marker between
+! a pair of identical vowels following another vowel.
+define kGradAfterVV k -> ' || Vowel a _ a ClosedOffset .o.
+                    k -> ' || Vowel e _ e ClosedOffset .o.
+                    k -> ' || Vowel i _ i ClosedOffset .o.
+                    k -> ' || Vowel o _ o ClosedOffset .o.
+                    k -> ' || Vowel u _ u ClosedOffset .o.
+                    k -> ' || Vowel y _ y ClosedOffset .o.
+                    k -> ' || Vowel ä _ ä ClosedOffset .o.
+                    k -> ' || Vowel ö _ ö ClosedOffset ;
+
+! Gradation of k between u/y:
+! k weakens to v between u's and y's.
+define kGradHighLabials k -> v || Cons u _ u ClosedOffset .o.
+                        k -> v || Cons y _ y ClosedOffset ;
+
+! Gradation of k after liquids or h:
+! k weakens to j before e after a liquid or h.
+define kGradhLiquids k -> j || [ Liquid | h ] _ e ClosedOffset ;
+
+! Gradation of t after liquids:
+! t assimilates to the preceding liquid in the weak grade.
+define tGradLiquids t -> l || l _ Vowel ClosedOffset .o.
+                    t -> r || r _ Vowel ClosedOffset ;
+
+! Weak grade of poika, aika:
+! Exceptionally, poja.., aja.. instead of *poia.., *aia.. in the
+! weak grade of poika, aika.
+define poikaAikaGrad i -> j || .#. [ p o | a ] _ a ClosedOffset ; 
+
+! Weak grade of ruoka:
+! Exceptionally, either ruoa.. or ruua.. in the weak grade of
+! ruoka. The replacement is optional here (->) because the
+! o can also stay an o.
+define ruokaGrad o (->) u || .#. r u _ a ClosedOffset ;
+
+! Remove end of stem marker
+define CleanUp %^ -> 0 ;
+
+! Compose lexicon with the rules
+define LexiconWithRules Lexicon .o.
+                        ConsGrad .o.
+                        GemGrad .o.
+                        GradNasal .o.
+                        kGradAfterVV .o.
+                        kGradHighLabials .o.
+                        kGradhLiquids .o.
+                        tGradLiquids .o.
+                        GradNasal .o.
+                        ConsGrad .o.
+                        GemGrad .o.
+                        poikaAikaGrad .o.
+                        ruokaGrad .o.
+			            CleanUp ;
+regex LexiconWithRules ;
+
+! Output lexical forms
+upper-words
+
+! Output surface forms
+lower-words

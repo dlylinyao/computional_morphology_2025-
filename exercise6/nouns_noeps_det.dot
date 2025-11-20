@@ -1,0 +1,118 @@
+// This graph generated with hfst-fst2txt
+digraph H {
+charset = UTF8;
+rankdir = LR;
+node [shape=circle,style=filled,fillcolor=yellow]
+q0 [label="q0"] 
+q1 [label="q1"] 
+q2 [label="q2"] 
+q3 [label="q3"] 
+q4 [label="q4"] 
+q5 [label="q5"] 
+q6 [label="q6"] 
+q7 [label="q7"] 
+q8 [label="q8"] 
+q9 [label="q9"] 
+q10 [label="q10"] 
+q11 [label="q11"] 
+q12 [label="q12"] 
+q13 [label="q13"] 
+q14 [label="q14"] 
+q15 [shape=doublecircle,label="q15"] 
+q16 [label="q16"] 
+q17 [label="q17"] 
+q18 [label="q18"] 
+q19 [label="q19"] 
+q20 [label="q20"] 
+q21 [label="q21"] 
+q22 [shape=doublecircle,label="q22"] 
+q23 [shape=doublecircle,label="q23"] 
+q24 [label="q24"] 
+q25 [shape=doublecircle,label="q25"] 
+q26 [shape=doublecircle,label="q26"] 
+q27 [label="q27"] 
+q28 [shape=doublecircle,label="q28"] 
+q29 [shape=doublecircle,label="q29"] 
+q30 [shape=doublecircle,label="q30"] 
+q31 [shape=doublecircle,label="q31"] 
+q32 [label="q32"] 
+q33 [label="q33"] 
+q34 [shape=doublecircle,label="q34"] 
+q35 [shape=doublecircle,label="q35"] 
+q36 [shape=doublecircle,label="q36"] 
+q37 [shape=doublecircle,label="q37"] 
+q0 -> q1 [label="t "];
+q0 -> q2 [label="k "];
+q1 -> q3 [label="o "];
+q1 -> q4 [label="a "];
+q1 -> q5 [label="u "];
+q2 -> q6 [label="i "];
+q2 -> q7 [label="o "];
+q3 -> q8 [label="r "];
+q4 -> q9 [label="u "];
+q5 -> q10 [label="o "];
+q6 -> q11 [label="s "];
+q7 -> q12 [label="i "];
+q7 -> q13 [label="u "];
+q7 -> q14 [label="r "];
+q8 -> q15 [label="i "];
+q9 -> q16 [label="l "];
+q10 -> q17 [label="k "];
+q11 -> q18 [label="k "];
+q11 -> q19 [label="s "];
+q12 -> q20 [label="r "];
+q13 -> q21 [label="l "];
+q14 -> q22 [label="i "];
+q15 -> q1 [label="t "];
+q15 -> q2 [label="k "];
+q15 -> q23 [label="a "];
+q15 -> q24 [label="l "];
+q15 -> q25 [label="n "];
+q16 -> q26 [label="u "];
+q17 -> q27 [label="s "];
+q18 -> q28 [label="o "];
+q19 -> q29 [label="a "];
+q20 -> q30 [label="a "];
+q21 -> q31 [label="u "];
+q22 -> q1 [label="t "];
+q22 -> q2 [label="k "];
+q22 -> q23 [label="a "];
+q22 -> q24 [label="l "];
+q22 -> q25 [label="n "];
+q24 -> q32 [label="t "];
+q24 -> q33 [label="l "];
+q26 -> q1 [label="t "];
+q26 -> q2 [label="k "];
+q26 -> q23 [label="a "];
+q26 -> q24 [label="l "];
+q26 -> q25 [label="n "];
+q27 -> q34 [label="u "];
+q28 -> q1 [label="t "];
+q28 -> q2 [label="k "];
+q28 -> q23 [label="a "];
+q28 -> q24 [label="l "];
+q28 -> q25 [label="n "];
+q29 -> q1 [label="t "];
+q29 -> q2 [label="k "];
+q29 -> q23 [label="a "];
+q29 -> q24 [label="l "];
+q29 -> q25 [label="n "];
+q30 -> q1 [label="t "];
+q30 -> q2 [label="k "];
+q30 -> q23 [label="a "];
+q30 -> q24 [label="l "];
+q30 -> q25 [label="n "];
+q31 -> q1 [label="t "];
+q31 -> q2 [label="k "];
+q31 -> q23 [label="a "];
+q31 -> q24 [label="l "];
+q31 -> q25 [label="n "];
+q32 -> q35 [label="a "];
+q33 -> q36 [label="a "];
+q33 -> q37 [label="e "];
+q34 -> q1 [label="t "];
+q34 -> q2 [label="k "];
+q34 -> q23 [label="a "];
+q34 -> q24 [label="l "];
+q34 -> q25 [label="n "];
+}

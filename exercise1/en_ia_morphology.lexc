@@ -1,0 +1,145 @@
+Multichar_Symbols
+	+N	! Noun tag
+        +Sg	! Singular
+        +Pl	! Plural
+ 	+Poss	! Possessive form
+        +V      ! Verb tag
+        +Inf    ! Infinitive or present tense
+        +Pres3Sg ! 3rd person singular, present tense
+        +Past   ! Past tense
+        +Prog   ! Progressive
+
+
+LEXICON Root
+	Nouns ; ! No input, no output
+        Verbs ;     
+!
+! NOUNS start here
+!
+
+LEXICON Nouns
+
+cat	N ;
+dog	N ;
+book    N ;
+fan     N ;
+hill    N ;
+pet     N ;
+lexicon N ;
+
+church	  N_s ;
+kiss	  N_s ;
+mess      N_s ;
+search    N_s ;
+waitress  N_s ;
+wish      N_s ;
+
+beauty:beaut	N_y ;
+sky:sk		N_y ;
+doggy:dogg      N_y ;
+
+criterion:criteri   N_on ;
+lexicon:lexic       N_on ;
+phenomenon:phenomen N_on ;
+
+
+! The noun lexica N and Num are used for stems without any alternation
+
+LEXICON N
++N:0	Num ;
+
+LEXICON Num
++Sg:0	PossWithS ;
++Pl:s	PossWithoutS ;
+
+! The noun lexica N_s and Num_s are used for stems that end in a sibilant
+! and need an extra inserted "e"
+
+LEXICON N_s
++N:0	Num_s ;
+
+LEXICON Num_s
++Sg:0	PossWithS ;
++Pl:es	PossWithoutS ;
+
+! The noun lexica N_y and Num_y are used for stems with "y" -> "ie" alternation
+
+LEXICON N_y
++N:0	Num_y ;
+
+LEXICON Num_y
++Sg:y	PossWithS ;
++Pl:ies	PossWithoutS ;
+
+LEXICON N_on
++N:0    Num_on ;
+
+LEXICON Num_on 
++Sg:on   PossWithS ;
++Pl:a    PossWithS ;
+
+! Possessive endings: usually the singular is 's and the plural is '
+
+LEXICON PossWithS
++Poss:'s     # ;
+	     # ; ! No ending: no input, no output
+
+LEXICON PossWithoutS
++Poss:'	     # ;
+	     # ; ! No ending: no input, no output
+
+!
+! VERBS start here
+!
+
+LEXICON Verbs
+
+jump        V ;
+look        V ;
+talk        V ;
+walk        V ;
+
+bake:bak    V_e ;
+fake:fak    V_e ;
+like:lik    V_e ;
+pile:pil    V_e ;
+smile:smil  V_e ;
+
+crash       V_s ;
+hiss        V_s ;
+kiss        V_s ;
+miss        V_s ;
+search      V_s ;
+
+LEXICON V
++V:0    Tense ;
+
+LEXICON Tense
++Inf:0     # ;
++Pres3Sg:s # ;
++Past:ed   # ;
++Prog:ing  # ;
+
+! Verbs ending in e
+
+LEXICON V_e
++V:0    Tense_e ;
+
+LEXICON Tense_e
++Inf:e     # ;
++Pres3Sg:es # ;
++Past:ed    # ;
++Prog:ing  # ;
+
+! Verbs ending in s, sh, ch, x
+
+LEXICON V_s
++V:0    Tense_s ;
+
+LEXICON Tense_s
++Inf:0     # ;
++Pres3Sg:es # ;
++Past:ed   # ;
++Prog:ing  # ;
+
+END

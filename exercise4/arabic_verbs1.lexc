@@ -1,0 +1,25 @@
+Multichar_Symbols
+        FORM1 FORM2 FORM3 ACTIVE PASSIVE
+        +Verb +Form1 +Form2 +Form3 +Act +Pass +3P +Masc +Fem +Sg
+
+LEXICON Root
+        Stems ;
+
+LEXICON Stems
+drs:dVrCWs      Patterns ;
+ktb:kVtCWb      Patterns ;
+
+LEXICON Patterns
++Verb+Form1:FORM1       VerbVoice ;
++Verb+Form2:FORM2       VerbVoice ;
++Verb+Form3:FORM3       VerbVoice ;
+
+LEXICON VerbVoice
++Act:ACTIVE             VerbPerson ;
++Pass:PASSIVE           VerbPerson ;
+
+LEXICON VerbPerson
++3P+Masc+Sg:a   # ;
++3P+Fem+Sg:at   # ;
+
+END

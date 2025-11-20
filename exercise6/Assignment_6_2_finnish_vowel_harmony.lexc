@@ -1,0 +1,55 @@
+Multichar_Symbols
+        +Nom +Gen +Ade +Abl +All +Ine +Ela +Tra +Ess
+        +kin +kAAn +kO +hAn
+        ! TO DO: Add more multicharacter symbols as needed
+
+LEXICON Root
+Nouns "weight: 0.3" ;
+! TO DO: Add your compound-words lexicons here
+
+LEXICON Nouns
+kissa:kissa   Next "weight: 0.0002" ;
+koira:koira   Next "weight: 0.0002" ;
+melu:melu     Next "weight: 0.00001" ;
+metsä:metsä   Next "weight: 0.0001" ;
+peli:peli    Next "weight: 0.0001" ;
+päivä:päivä   Next "weight: 0.0002" ;
+pää:pää     Next "weight: 0.0002" ;
+sähkö:sähkö   Next "weight: 0.00001" ;
+talo:talo    Next "weight: 0.0001" ;
+tie:tie     Next "weight: 0.0002" ;
+tuoli:tuoli   Next "weight: 0.0001" ;
+työ:työ     Next "weight: 0.0002" ;
+väri:väri    Next "weight: 0.0001" ;
+yö:yö      Next "weight: 0.0002" ;
+
+LEXICON Next
+0:%^    Nouns "weight: 0.6" ;     
+        Case "weight: 0.05" ; 
+
+LEXICON Case
++Nom:0          kinkAAn "weight: 0.05" ;
++Gen:n          kinkAAn "weight: 0.03" ;
++Ade:llA        kinkAAn "weight: 0.02" ;
++Abl:ltA        kinkAAn "weight: 0.03" ;
++All:lle        kinkAAn "weight: 0.035" ;
++Ine:ssA        kinkAAn "weight: 0.04" ;
++Ela:stA        kinkAAn "weight: 0.02" ;
++Tra:ksi        kinkAAn "weight: 0.02" ;
++Ess:nA         kinkAAn "weight: 0.01" ;
+
+LEXICON kinkAAn
++kin:kin        kO "weight: 0.05" ;
++kAAn:kAAn      kO "weight: 0.03" ;
+                kO "weight: 0.003" ; ! continue without any suffix
+
+LEXICON kO
++kO:kO          hAn "weight: 0.05" ;
+                hAn "weight: 0.003" ; ! continue without any suffix
+! TO DO: Add the -han/-hän lexicon somewhere
+
+LEXICON hAn
++hAn:hAn        # "weight: 0.05" ;
+                # "weight: 0.003" ; ! continue without any suffix
+                
+END

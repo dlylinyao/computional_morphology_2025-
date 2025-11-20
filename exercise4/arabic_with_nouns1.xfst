@@ -1,0 +1,69 @@
+clear stack
+
+read lexc arabic_with_nouns1.lexc
+define Lexicon ;
+regex Lexicon ;
+
+define Form2DoubleCons C -> b || b _ ?* FORM2 .o.
+                       C -> t || t _ ?* FORM2 .o.
+                       C -> y || y _ ?* FORM2 .o.
+                       C -> k || k _ ?* FORM2 .o.
+                       C -> l || l _ ?* FORM2 .o.
+                       C -> m || m _ ?* FORM2 .o.
+                       C -> n || n _ ?* FORM2 .o.
+                       C -> f || f _ ?* FORM2 .o.
+                       C -> w || w _ ?* FORM2 .o.
+                       C -> r || r _ ?* FORM2 .o.
+                       C -> z || z _ ?* FORM2 .o.
+                       C -> d || d _ ?* FORM2 .o.
+                       C -> s || s _ ?* FORM2 ;
+
+define Form3DoubleVowelAct  V -> V V || _ ?* FORM3 ?* ACTIVE ;
+define Form3DoubleVowelPass V -> V V || _ ?* FORM3 ?* PASSIVE ;
+
+define ActiveVow1 V -> a || _ ?* ACTIVE ;
+define ActiveVow2 W -> a || _ ?* ACTIVE ;
+
+define PassiveVow1 V -> u || _ ?* PASSIVE ;
+define PassiveVow2 W -> i || _ ?* PASSIVE ;
+
+# Pattern 1: CaCiC (HUMAN + FORM3) → daaris / kaatib
+define Noun1Vtoaa1   V -> a a || _ ?* HUMAN ?* FORM3 ;
+define Noun1Vtoaa2   V -> a a || _ ?* FORM3 ?* HUMAN ;
+define NounHumanWtoi W -> i  || _ ?* HUMAN ;
+
+# Pattern 2: muCaCCiC (HUMAN + FORM2) → mudarris / mukattib
+define Noun2Vtoa1   V ->  a || _ ?* HUMAN ?* FORM2 ;
+define Noun2Vtoa2   V ->  a || _ ?* FORM2 ?* HUMAN ;
+
+# Pattern 3: maCCaCa (PLACE) → madrasa / maktaba
+
+define Noun3Vtoa V -> 0 || _ ?* PLACE ;
+define Noun3Wtoa W -> a || _ ?* PLACE ;
+
+# Combine noun-related rules
+define NounRules Noun1Vtoaa1 .o. Noun1Vtoaa2 .o. NounHumanWtoi .o.
+                 Noun2Vtoa1 .o. Noun2Vtoa2 .o.
+                 Noun3Vtoa .o. Noun3Wtoa ;
+
+define CleanUp C -> 0 .o.
+               ACTIVE -> 0 .o.
+               PASSIVE -> 0 .o.
+               FORM1 -> 0 .o.
+               FORM2 -> 0 .o.
+               FORM3 -> 0 .o.
+               HUMAN -> 0 .o.
+               PLACE -> 0 ;
+
+define LexiconWithRules Lexicon .o.
+                        Form2DoubleCons .o. Form3DoubleVowelAct .o. Form3DoubleVowelPass .o.
+                        ActiveVow1 .o. ActiveVow2 .o.
+                        PassiveVow1 .o. PassiveVow2 .o.
+                        NounRules .o.
+                        CleanUp ;                       
+
+regex LexiconWithRules ;
+
+upper-words
+
+lower-words

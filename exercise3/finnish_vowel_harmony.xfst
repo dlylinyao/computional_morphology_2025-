@@ -1,0 +1,15 @@
+clear stack
+read lexc finnish_vowel_harmony.lexc
+define Lexicon ;
+regex Lexicon ;
+
+define BackVowel    [ a | o | u ] ;
+define FrontVowelOrBoundary   [ ä | ö | y | %^ ] ;
+
+define SetBackVowel A -> a, O -> o || BackVowel ~$FrontVowelOrBoundary _ ;
+define SetFrontVowel A -> ä, O -> ö || _ ;
+
+define RemoveBoundaries %^ -> 0 ;
+
+define LexiconWithRules Lexicon .o. SetBackVowel .o. SetFrontVowel .o. RemoveBoundaries ;
+regex LexiconWithRules ;

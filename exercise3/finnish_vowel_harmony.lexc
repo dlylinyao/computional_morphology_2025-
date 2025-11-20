@@ -1,0 +1,55 @@
+Multichar_Symbols
+        +Nom +Gen +Ade +Abl +All +Ine +Ela +Tra +Ess
+        +kin +kAAn +kO +hAn
+        ! TO DO: Add more multicharacter symbols as needed
+
+LEXICON Root
+Nouns ;
+! TO DO: Add your compound-words lexicons here
+
+LEXICON Nouns
+kissa   Next ;
+koira   Next ;
+melu    Next ;
+metsä   Next ;
+peli    Next ;
+päivä   Next ;
+pää     Next ;
+sähkö   Next ;
+talo    Next ;
+tie     Next ;
+tuoli   Next ;
+työ     Next ;
+väri    Next ;
+yö      Next ;
+
+LEXICON Next
+0:%^    Nouns ;     
+        Case ; 
+
+LEXICON Case
++Nom:0          kinkAAn ;
++Gen:n          kinkAAn ;
++Ade:llA        kinkAAn ;
++Abl:ltA        kinkAAn ;
++All:lle        kinkAAn ;
++Ine:ssA        kinkAAn ;
++Ela:stA        kinkAAn ;
++Tra:ksi        kinkAAn ;
++Ess:nA         kinkAAn ;
+
+LEXICON kinkAAn
++kin:kin        kO ;
++kAAn:kAAn      kO ;
+                kO ; ! continue without any suffix
+
+LEXICON kO
++kO:kO          hAn ;
+                hAn ; ! continue without any suffix
+! TO DO: Add the -han/-hän lexicon somewhere
+
+LEXICON hAn
++hAn:hAn        # ;
+                # ; ! continue without any suffix
+                
+END

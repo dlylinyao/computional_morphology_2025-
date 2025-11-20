@@ -1,0 +1,44 @@
+clear stack
+read lexc /users/linyaodu/lda-t302/exercise6/Assignment_6_2_finnish_vowel_harmony.lexc
+define Lexicon ;
+regex Lexicon ;
+
+define BackVowel    [ a | o | u ] ;
+define FrontVowelOrBoundary   [ ä | ö | y | %^ ] ;
+
+define SetBackVowel A -> a, O -> o || BackVowel ~$FrontVowelOrBoundary _ ;
+define SetFrontVowel A -> ä, O -> ö || _ ;
+
+define RemoveBoundaries %^ -> 0 ;
+
+define LexiconWithRules Lexicon .o. SetBackVowel .o. SetFrontVowel .o. RemoveBoundaries ;
+
+define Vocabulary [ LexiconWithRules ].l ;
+
+define Noise1 [ k (->) j::0.5 ] ;
+
+define VocabPlusKJ LexiconWithRules .o. Noise1 ;
+define NoisyVocabularyKJ Vocabulary .o. Noise1 ;
+define SpellCheckerKJ [ NoisyVocabularyKJ ].i ;
+
+define Substitutions [ a (->) ä::0.3 ] .o. [ o (->) ö::0.3 ] .o.
+                     [ u (->) y::0.3 ] .o. [ t (->) d::0.3 ] .o. 
+                     [ m (->) n::0.3 ] ;
+
+define Insertions    [ 0 (->) a::0.5 ] .o. [ 0 (->) e::0.5 ] .o.
+                     [ 0 (->) i::0.5 ] .o. [ 0 (->) o::0.5 ] .o.
+                     [ 0 (->) u::0.5 ] ;
+
+define Deletions     [ h (->) 0::0.4 ] .o. [ p (->) 0::0.4 ] .o.
+                     [ j (->) 0::0.4 ] .o. [ k (->) 0::0.4 ] .o.
+                     [ l (->) 0::0.4 ] ;
+
+define Transpositions  [ i e (->) e i::0.6 ] .o. [ l a (->) a l::0.6 ] .o.
+                       [ k i (->) i k::0.6 ] .o. [ t a (->) a t::0.6 ] .o.
+                       [ p ä (->) ä p::0.6 ] ;
+                       
+define NoisyVocabulary Vocabulary .o. Noise1 .o. Substitutions .o. Insertions .o. Deletions .o. Transpositions ;
+
+define SpellChecker [ NoisyVocabulary ].i ;
+
+regex SpellChecker ;

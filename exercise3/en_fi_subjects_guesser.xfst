@@ -1,0 +1,15 @@
+clear stack
+
+define Vowel  a | e | i | o | u | y ;
+define Cons   b | c | d | f | g | h | j | k | l | m | n | p | r | s | t | v | w | x | z ;
+define EngWord (Cons | Vowel ) + ;
+
+define yToia         y -> i a || _ .#. ;
+define IcsToIikka    i c s -> i i k k a || _ .#. ;
+define IcToIikki     i c -> i i k k i || _ .#. ;
+
+define ChToK         c h -> k ;
+define PhToF         p h -> f ;
+define ThToT         t h -> t ;
+ 
+regex EngWord .o. ChToK .o. PhToF .o. ThToT .o. yToia .o. IcsToIikka .o. IcToIikki ;
