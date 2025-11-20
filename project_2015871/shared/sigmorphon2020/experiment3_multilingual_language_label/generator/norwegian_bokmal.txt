@@ -1,0 +1,2549 @@
+<nob> m i d j e +N +DEF +PL -> m i d j e n e: CORRECT!
+<nob> m i d j e +N +NDEF +PL -> m i d j e r: CORRECT!
+<nob> m i d j e +N +DEF +SG -> m i d j e n: CORRECT!
+<nob> s k o m a k e r +N +DEF +SG -> s k o m a k e r e n: CORRECT!
+<nob> s k o m a k e r +N +DEF +PL -> s k o m a k e r n e: CORRECT!
+<nob> s k o m a k e r +N +NDEF +PL -> s k o m a k e r e r: INCORRECT. Should be 's k o m a k e r e'
+<nob> h y p n o s e +N +NDEF +PL -> h y p n o s e r: CORRECT!
+<nob> h y p n o s e +N +DEF +SG -> h y p n o s e n: CORRECT!
+<nob> k j ø r e t ø y +N +DEF +PL -> k j ø r e t ø y e n e: CORRECT!
+<nob> k j ø r e t ø y +N +NDEF +PL -> k j ø r e t ø y e r: INCORRECT. Should be 'k j ø r e t ø y'
+<nob> k j ø r e t ø y +N +DEF +SG -> k j ø r e t ø y e n: INCORRECT. Should be 'k j ø r e t ø y e t'
+<nob> u b r u t t +ADJ +NEUT +SG -> u b r u t t: CORRECT!
+<nob> u b r u t t +ADJ +DEF +SG+PL -> u b r u t t e: CORRECT!
+<nob> e m i r a t +N +NDEF +PL -> e m i r a t: CORRECT!
+<nob> e m i r a t +N +DEF +PL -> e m i r a t a n e: INCORRECT. Should be 'e m i r a t e n e'
+<nob> e m i r a t +N +DEF +SG -> e m i r a t e t: CORRECT!
+<nob> i k k e - r ø y k e r +N +NDEF +PL -> i k k e - r ø y k e r e: CORRECT!
+<nob> i k k e - r ø y k e r +N +DEF +PL -> i k k e - r ø y k e r n e: CORRECT!
+<nob> i k k e - r ø y k e r +N +DEF +SG -> i k k e - r ø y k e r e n: CORRECT!
+<nob> b a r n e s o l d a t +N +DEF +PL -> b a r n e s o l d a t a n e: INCORRECT. Should be 'b a r n e s o l d a t e n e'
+<nob> b a r n e s o l d a t +N +DEF +SG -> b a r n e s o l d a t e n: CORRECT!
+<nob> s y n +N +NDEF +PL -> s y n e r: CORRECT!
+<nob> s y n +N +DEF +PL -> s y n n e n e: INCORRECT. Should be 's y n e n e'
+<nob> s y n +V +GEN -> s y n: INCORRECT. Should be 's y n e'
+<nob> l å n o r d +N +DEF +PL -> l å n o r d e n e: CORRECT!
+<nob> l å n o r d +N +NDEF +PL -> l å n o r d: CORRECT!
+<nob> l å n o r d +N +DEF +SG -> l å n o r d e t: CORRECT!
+<nob> l ø p e +V.PTCP +PST -> l ø p e t: CORRECT!
+<nob> l ø p +N +DEF +SG -> l ø p e n: INCORRECT. Should be 'l ø p e t'
+<nob> l ø p e +V +PST -> l ø p e t: INCORRECT. Should be 'l ø p'
+<nob> l ø p +N +NDEF +PL -> l ø p e r: INCORRECT. Should be 'l ø p'
+<nob> l ø p e +V +IMP -> l ø p: CORRECT!
+<nob> b æ r e k r a f t i g +ADJ +DEF +SG+PL -> b æ r e k r a f t i g e: CORRECT!
+<nob> b æ r e k r a f t i g +ADJ +NEUT +SG -> b æ r e k r a f t i g: CORRECT!
+<nob> f e r o m o n +N +NDEF +PL -> f e r o m o n e r: CORRECT!
+<nob> f e r o m o n +N +DEF +PL -> f e r o m o n e n e: CORRECT!
+<nob> b o s s +N +DEF +SG -> b o s s e t: INCORRECT. Should be 'b o s s e n'
+<nob> b o s s +N +DEF +PL -> b o s s a t e r n e: INCORRECT. Should be 'b o s s e n e'
+<nob> k v e l d +N +DEF +PL -> k v e l d e n e: CORRECT!
+<nob> k v e l d +N +NDEF +PL -> k v e l d e r: CORRECT!
+<nob> s t a t u e +N +DEF +PL -> s t a t u e n e: CORRECT!
+<nob> s t a t u e +N +DEF +SG -> s t a t u e n: CORRECT!
+<nob> s t e a r i n l y s +N +DEF +PL -> s t e a r i n l y s e n e: CORRECT!
+<nob> s t e a r i n l y s +N +NDEF +PL -> s t e a r i n l y s e r: INCORRECT. Should be 's t e a r i n l y s'
+<nob> s k o b u t i k k +N +DEF +SG -> s k o b u t i k k e n: CORRECT!
+<nob> s k o b u t i k k +N +NDEF +PL -> s k o b u t i k k e r: CORRECT!
+<nob> s k o b u t i k k +N +DEF +PL -> s k o b u t i k k e n e: CORRECT!
+<nob> n o b e l p r i s +N +DEF +PL -> n o b e l p r i s a r n e: INCORRECT. Should be 'n o b e l p r i s e n e'
+<nob> n o b e l p r i s +N +DEF +SG -> n o b e l p r i s e n: CORRECT!
+<nob> s o v e r o m +N +NDEF +PL -> s o v e r o m e r: INCORRECT. Should be 's o v e r o m'
+<nob> s o v e r o m +N +DEF +PL -> s o v e r o m e n e: INCORRECT. Should be 's o v e r o m m e n e'
+<nob> s o v e r o m +N +DEF +SG -> s o v e r o m e t: INCORRECT. Should be 's o v e r o m m e t'
+<nob> s a n g +N +NDEF +PL -> s a n g a r: INCORRECT. Should be 's a n g e r'
+<nob> s a n g +N +DEF +PL -> s a n g e n e: CORRECT!
+<nob> s a n g +N +DEF +SG -> s a n g e n: CORRECT!
+<nob> v r a k +N +NDEF +PL -> v r a k: CORRECT!
+<nob> v r a k +N +DEF +PL -> v r a k e n e: CORRECT!
+<nob> v r a k +N +DEF +SG -> v r a k e t: CORRECT!
+<nob> f o r p l i k t e l s e +N +DEF +SG -> f o r p l i k t e l s e n: CORRECT!
+<nob> f o r p l i k t e l s e +N +NDEF +PL -> f o r p l i k t e l s e r: CORRECT!
+<nob> f o r p l i k t e l s e +N +DEF +PL -> f o r p l i k t e l s e n e: CORRECT!
+<nob> g r a d +N +DEF +SG -> g r a d e n: CORRECT!
+<nob> g r a d +N +NDEF +PL -> g r a d e r: CORRECT!
+<nob> g r a d +N +DEF +PL -> g r a d e n e: CORRECT!
+<nob> o r d t a k +N +NDEF +PL -> o r d t a k e r: INCORRECT. Should be 'o r d t a k'
+<nob> o r d t a k +N +DEF +PL -> o r d t a k e n e: CORRECT!
+<nob> m u s k u l æ r +ADJ +DEF +SG -> m u s k u l æ r e: INCORRECT. Should be 'm u s k u l æ r t'
+<nob> m u s k u l æ r +ADJ +DEF +SG+PL -> m u s k u l æ r e: CORRECT!
+<nob> n a t u r l o v +N +NDEF +PL -> n a t u r l o v e r: CORRECT!
+<nob> n a t u r l o v +N +DEF +PL -> n a t u r l o v a n e: INCORRECT. Should be 'n a t u r l o v e n e'
+<nob> n a t u r l o v +N +DEF +SG -> n a t u r l o v e n: CORRECT!
+<nob> u d ø d e l i g +ADJ +NEUT +SG -> u d ø d e l i g: CORRECT!
+<nob> u d ø d e l i g +ADJ +DEF +SG+PL -> u d ø d e l i g e: CORRECT!
+<nob> b o r e +V +IMP -> b o r: CORRECT!
+<nob> b o r e +V +PST -> b o r e t: CORRECT!
+<nob> u t g i f t +N +NDEF +PL -> u t g i f t e r: CORRECT!
+<nob> u t g i f t +N +DEF +SG -> u t g i f t a: CORRECT!
+<nob> u t g i f t +N +DEF +PL -> u t g i f t a: INCORRECT. Should be 'u t g i f t e n e'
+<nob> l ø f t +N +NDEF +PL -> l ø f t e r: INCORRECT. Should be 'l ø f t'
+<nob> l ø f t e +N +DEF +PL -> l ø f t a: INCORRECT. Should be 'l ø f t e n e'
+<nob> l ø f t e +N +DEF +SG -> l ø f t a: INCORRECT. Should be 'l ø f t e t'
+<nob> l ø f t +N +DEF +PL -> l ø f t a: CORRECT!
+<nob> l ø f t e +N +NDEF +PL -> l ø f t e r: CORRECT!
+<nob> l ø f t e +V +PST -> l ø f t e: INCORRECT. Should be 'l ø f t e t'
+<nob> l ø f t +N +DEF +SG -> l ø f t a: INCORRECT. Should be 'l ø f t e t'
+<nob> l ø f t e +V +IMP -> l ø f t e: INCORRECT. Should be 'l ø f t'
+<nob> h ø g s k o l e +N +DEF +PL -> h ø g s k o l a n e: INCORRECT. Should be 'h ø g s k o l e n e'
+<nob> h ø g s k o l e +N +DEF +SG -> h ø g s k o l e n: CORRECT!
+<nob> h ø g s k o l e +N +NDEF +PL -> h ø g s k o l e r: CORRECT!
+<nob> m a l d i v e r +N +DEF +PL -> m a l d i v e r n e: CORRECT!
+<nob> m a l d i v e r +N +NDEF +PL -> m a l d i v e r e: CORRECT!
+<nob> m a l d i v e r +N +DEF +SG -> m a l d i v e r e n: CORRECT!
+<nob> t r y k k e +V +IMP -> t r y k k e: INCORRECT. Should be 't r y k k'
+<nob> t r y k k e +V +PRS -> t r y k k e r: CORRECT!
+<nob> t r y k k e +V +PST -> t r y k k e t: CORRECT!
+<nob> t r y k k +N +DEF +SG -> t r y k k e t: CORRECT!
+<nob> t r y k k e +V.PTCP +PST -> t r y k k e t: CORRECT!
+<nob> t r y k k +N +NDEF +PL -> t r y k k e r: INCORRECT. Should be 't r y k k'
+<nob> r e p a r a s j o n +N +DEF +SG -> r e p a r a s j o n e n: CORRECT!
+<nob> i n n g a n g +N +NDEF +PL -> i n n g a n g a r: INCORRECT. Should be 'i n n g a n g e r'
+<nob> i n n g a n g +N +DEF +PL -> i n n g a n g a n e: INCORRECT. Should be 'i n n g a n g e n e'
+<nob> u t f o r d r i n g +N +NDEF +PL -> u t f o r d r i n g e r: CORRECT!
+<nob> u t f o r d r i n g +N +DEF +SG -> u t f o r d r i n g a: CORRECT!
+<nob> u t f o r d r i n g +N +DEF +PL -> u t f o r d r i n g e n e: CORRECT!
+<nob> k j ø p e s e n t e r +N +DEF +SG -> k j ø p e s e n t e r e n: INCORRECT. Should be 'k j ø p e s e n t e r e t'
+<nob> k j ø p e s e n t e r +N +NDEF +PL -> k j ø p e s e n t e r e r: INCORRECT. Should be 'k j ø p e s e n t r e'
+<nob> k j ø p e s e n t e r +N +DEF +PL -> k j ø p e s e n t e r n e: INCORRECT. Should be 'k j ø p e s e n t r e n e'
+<nob> s t e n g e +V.PTCP +PST -> s t e n g e d d: INCORRECT. Should be 's t e n g t'
+<nob> s t e n g e +V +IMP -> s t e n g: CORRECT!
+<nob> s t e n g e +V +PST -> s t e n g e: INCORRECT. Should be 's t e n g t e'
+<nob> s t e n g e +V +PRS -> s t e n g e r: CORRECT!
+<nob> k a t e d r a l +N +DEF +PL -> k a t e d r a l e n e: CORRECT!
+<nob> k a t e d r a l +N +DEF +SG -> k a t e d r a l e n: CORRECT!
+<nob> k a t e d r a l +N +NDEF +PL -> k a t e d r a l e r: CORRECT!
+<nob> a s i a t i s k +ADJ +NEUT +SG -> a s i a t i s k: CORRECT!
+<nob> a s i a t i s k +ADJ +DEF +SG+PL -> a s i a t i s k e: CORRECT!
+<nob> g r u v e +N +DEF +PL -> g r u v a: INCORRECT. Should be 'g r u v e n e'
+<nob> g r u v e +N +DEF +SG -> g r u v a: CORRECT!
+<nob> g r u v e +N +NDEF +PL -> g r u v e r: CORRECT!
+<nob> s e k s d e l +N +NDEF +PL -> s e k s d e l a r: INCORRECT. Should be 's e k s d e l e r'
+<nob> s e k s d e l +N +DEF +SG -> s e k s d e l e n: CORRECT!
+<nob> s t a m t r e +N +DEF +SG -> s t a m t r e e t: CORRECT!
+<nob> s t a m t r e +N +DEF +PL -> s t a m t r e n e: INCORRECT. Should be 's t a m t r æ r n e'
+<nob> a n g r i p e +V +PRS -> a n g r i p e r: CORRECT!
+<nob> a n g r i p e +V +PST -> a n g r e p: INCORRECT. Should be 'a n g r e i p'
+<nob> a n g r i p e +V +IMP -> a n g r i p: CORRECT!
+<nob> a n g r i p e +V.PTCP +PRS -> a n g r i p e n d e: CORRECT!
+<nob> a n g r i p e +V.PTCP +PST -> a n g r i p e n: INCORRECT. Should be 'a n g r e p e t'
+<nob> d r a f t +N +DEF +SG -> d r a f t a: INCORRECT. Should be 'd r a f t e t'
+<nob> d r a f t +N +DEF +PL -> d r a f t a n e: INCORRECT. Should be 'd r a f t e n e'
+<nob> s e l v m o r d s o f f e r +N +DEF +SG -> s e l v m o r d s o f f e r e n: INCORRECT. Should be 's e l v m o r d s o f f e r e t'
+<nob> s e l v m o r d s o f f e r +N +DEF +PL -> s e l v m o r d s o f f e r e n e: INCORRECT. Should be 's e l v m o r d s o f r e n e'
+<nob> s e l v m o r d s o f f e r +N +NDEF +PL -> s e l v m o r d s o f f e r e: INCORRECT. Should be 's e l v m o r d s o f f e r'
+<nob> k o n d e n s e r e +V.PTCP +PRS -> k o n d e n s e r e t n e: INCORRECT. Should be 'k o n d e n s e r e n d e'
+<nob> k o n d e n s e r e +V +PRS -> k o n d e n s e r e r: CORRECT!
+<nob> k o n d e n s e r e +V.PTCP +PST -> k o n d e n s e r e t: INCORRECT. Should be 'k o n d e n s e r t'
+<nob> k o n d e n s e r e +V +PST -> k o n d e n s e r t e: CORRECT!
+<nob> i d é +N +DEF +SG -> i d é e t: INCORRECT. Should be 'i d é e n'
+<nob> i d é +N +DEF +PL -> i d é e n e: INCORRECT. Should be 'i d e e n e'
+<nob> i d é +N +NDEF +PL -> i d é e r: CORRECT!
+<nob> i n v a s j o n +N +DEF +PL -> i n v a s j o n a n e: INCORRECT. Should be 'i n v a s j o n e n e'
+<nob> i n v a s j o n +N +DEF +SG -> i n v a s j o n e n: CORRECT!
+<nob> i n v a s j o n +N +NDEF +PL -> i n v a s j o n e r: CORRECT!
+<nob> t i d e v a n n +N +DEF +SG -> t i d e v a n n e n: INCORRECT. Should be 't i d e v a n n e t'
+<nob> s y m b o l +N +DEF +SG -> s y m b o l e n: INCORRECT. Should be 's y m b o l e t'
+<nob> s y m b o l +N +DEF +PL -> s y m b o l e n e: INCORRECT. Should be 's y m b o l a'
+<nob> s y m b o l +N +NDEF +PL -> s y m b o l e r: CORRECT!
+<nob> k o n k u b i n e +N +DEF +SG -> k o n k u b i n a: CORRECT!
+<nob> k o n k u b i n e +N +NDEF +PL -> k o n k u b i n e r: CORRECT!
+<nob> k o n k u b i n e +N +DEF +PL -> k o n k u b i n a a: INCORRECT. Should be 'k o n k u b i n e n e'
+<nob> m o r s e a l f a b e t +N +DEF +SG -> m o r s e a l f a b e t a: INCORRECT. Should be 'm o r s e a l f a b e t e t'
+<nob> v a r s e l +N +NDEF +PL -> v a r s e l e r: INCORRECT. Should be 'v a r s e l'
+<nob> v a r s e l +N +DEF +PL -> v a r s e l e n e: INCORRECT. Should be 'v a r s l a'
+<nob> v a r s l e +V +IMP -> v a r s l e: CORRECT!
+<nob> v a r s l e +V +PRS -> v a r s l e r: CORRECT!
+<nob> v a r s e l +N +DEF +SG -> v a r s e l e n: INCORRECT. Should be 'v a r s l e t'
+<nob> v a r s l e +V.PTCP +PRS -> v a r s l e e n d e: INCORRECT. Should be 'v a r s l e n d e'
+<nob> v a r s l e +V +PST -> v a r s l e t: CORRECT!
+<nob> t r o m p e t i s t +N +DEF +SG -> t r o m p e t i s t e n: CORRECT!
+<nob> t r o m p e t i s t +N +DEF +PL -> t r o m p e t i s t e n e: CORRECT!
+<nob> h j e m l a n d +N +DEF +PL -> h j e m l a n d e n e: CORRECT!
+<nob> h j e m l a n d +N +DEF +SG -> h j e m l a n d e t: CORRECT!
+<nob> h j e m l a n d +N +NDEF +PL -> h j e m l a n d: CORRECT!
+<nob> s i g n a l +N +NDEF +PL -> s i g n a l a r: INCORRECT. Should be 's i g n a l'
+<nob> s i g n a l +N +DEF +SG -> s i g n a l e n: INCORRECT. Should be 's i g n a l e t'
+<nob> b a r n e s y k d o m +N +NDEF +PL -> b a r n e s y k d o m: INCORRECT. Should be 'b a r n e s y k d o m m e r'
+<nob> b a r n e s y k d o m +N +DEF +PL -> b a r n e s y k d o m e n e: INCORRECT. Should be 'b a r n e s y k d o m m e n e'
+<nob> b u s s e r u l l +N +NDEF +PL -> b u s s e r u l l e r: CORRECT!
+<nob> b u s s e r u l l +N +DEF +SG -> b u s s e r u l l e n: CORRECT!
+<nob> t r e n e +V.PTCP +PST -> t r e n e d d: INCORRECT. Should be 't r e n a'
+<nob> t r e n e +V +IMP -> t r e n e: INCORRECT. Should be 't r e n'
+<nob> t r e n e +V +PST -> t r e n e t: INCORRECT. Should be 't r e n t e'
+<nob> b j ø r n +N +NDEF +PL -> b j ø r n a r: INCORRECT. Should be 'b j ø r n e r'
+<nob> b j ø r n +N +DEF +PL -> b j ø r n a n e: INCORRECT. Should be 'b j ø r n e n e'
+<nob> b j ø r n +N +DEF +SG -> b j ø r n e n: CORRECT!
+<nob> h e l g e n +N +NDEF +PL -> h e l g e n e r: CORRECT!
+<nob> h e l g e n +N +DEF +SG -> h e l g n e t: INCORRECT. Should be 'h e l g e n e n'
+<nob> h e l g e n +N +DEF +PL -> h e l g e n e n e: CORRECT!
+<nob> t r o l l +N +DEF +SG -> t r o l l e n: INCORRECT. Should be 't r o l l e t'
+<nob> t r o l l +N +DEF +PL -> t r o l l e n e: CORRECT!
+<nob> s u b s t a n t i v +N +DEF +SG -> s u b s t a n t i v e n: INCORRECT. Should be 's u b s t a n t i v e t'
+<nob> s u b s t a n t i v +N +NDEF +PL -> s u b s t a n t i v: CORRECT!
+<nob> s u b s t a n t i v +N +DEF +PL -> s u b s t a n t i v e n e: INCORRECT. Should be 's u b s t a n t i v a'
+<nob> u o p p m e r k s o m h e t +N +NDEF +PL -> u o p p m e r k s o m h e t e r: CORRECT!
+<nob> u o p p m e r k s o m h e t +N +DEF +SG -> u o p p m e r k s o m h e t e n: CORRECT!
+<nob> u o p p m e r k s o m h e t +N +DEF +PL -> u o p p m e r k s o m h e t a n e: INCORRECT. Should be 'u o p p m e r k s o m h e t e n e'
+<nob> d i a m e t e r +N +NDEF +PL -> d i a m e t e r e: CORRECT!
+<nob> d i a m e t e r +N +DEF +PL -> d i a m e t r e n e: INCORRECT. Should be 'd i a m e t e r n e'
+<nob> u n d e r s ø k e +V +PST -> u n d e r s ø k t: INCORRECT. Should be 'u n d e r s ø k t e'
+<nob> u n d e r s ø k e +V.PTCP +PST -> u n d e r s ø k t: CORRECT!
+<nob> u n d e r s ø k e +V +PRS -> u n d e r s ø k e r: CORRECT!
+<nob> k a k e +N +DEF +SG -> k a k a: CORRECT!
+<nob> k a k e +N +DEF +PL -> k a k a: INCORRECT. Should be 'k a k e n e'
+<nob> k a k e +N +NDEF +PL -> k a k e r: CORRECT!
+<nob> l i s e n s +N +DEF +PL -> l i s e n s e n e: CORRECT!
+<nob> l i s e n s +N +NDEF +PL -> l i s e n s e r: CORRECT!
+<nob> l i s e n s +N +DEF +SG -> l i s e n s e n: CORRECT!
+<nob> a r g e n t i n e r +N +DEF +PL -> a r g e n t i n e r n e: CORRECT!
+<nob> a r g e n t i n e r +N +DEF +SG -> a r g e n t i n e r e n: CORRECT!
+<nob> a k t i v +ADJ +DEF +SG+PL -> a k t i v e: CORRECT!
+<nob> a k t i v +ADJ +NEUT +SG -> a k t i v: INCORRECT. Should be 'a k t i v t'
+<nob> b a r n e h a g e +N +NDEF +PL -> b a r n e h a g e r: CORRECT!
+<nob> b a r n e h a g e +N +DEF +PL -> b a r n e h a g a n e: INCORRECT. Should be 'b a r n e h a g e n e'
+<nob> a g e n d a +N +DEF +SG -> a g e n d a n: INCORRECT. Should be 'a g e n d a e n'
+<nob> a g e n d a +N +NDEF +PL -> a g e n d a r: INCORRECT. Should be 'a g e n d a e r'
+<nob> a g e n d a +N +DEF +PL -> a g e n d o n e: INCORRECT. Should be 'a g e n d a e n e'
+<nob> l a s t e +V +IMP -> l a s t e: INCORRECT. Should be 'l a s t'
+<nob> l a s t +N +NDEF +PL -> l a s t e r: CORRECT!
+<nob> l a s t +N +DEF +PL -> l a s t a n e: INCORRECT. Should be 'l a s t e n e'
+<nob> l a s t +N +DEF +SG -> l a s t e n: CORRECT!
+<nob> l a s t e +V +PRS -> l a s t e r: CORRECT!
+<nob> l a s t e +V.PTCP +PRS -> l a s t e n d e: CORRECT!
+<nob> t e r r a s s e +N +DEF +SG -> t e r r a s s e n: CORRECT!
+<nob> t e r r a s s e +N +DEF +PL -> t e r r a s s e n e: CORRECT!
+<nob> r e g u l e r i n g +N +DEF +PL -> r e g u l e r i n g e n e: CORRECT!
+<nob> r e g u l e r i n g +N +DEF +SG -> r e g u l e r i n g a: CORRECT!
+<nob> r e g u l e r i n g +N +NDEF +PL -> r e g u l e r i n g e r: CORRECT!
+<nob> u n d e r s t e l l +N +NDEF +PL -> u n d e r s t e l l e r: INCORRECT. Should be 'u n d e r s t e l l'
+<nob> u n d e r s t e l l +N +DEF +PL -> u n d e r s t e l l e n e: INCORRECT. Should be 'u n d e r s t e l l a'
+<nob> f r i h a n d e l +N +DEF +SG -> f r i h a n d e l e n: CORRECT!
+<nob> a m f i t e a t e r +N +DEF +SG -> a m f i t e a t e r e n: INCORRECT. Should be 'a m f i t e a t e r e t'
+<nob> a m f i t e a t e r +N +NDEF +PL -> a m f i t e a t e r e: INCORRECT. Should be 'a m f i t e a t e r'
+<nob> a m f i t e a t e r +N +DEF +PL -> a m f i t e a t r e n e: INCORRECT. Should be 'a m f i t e a t r a'
+<nob> p r ø v e +N +DEF +SG -> p r ø v e t: INCORRECT. Should be 'p r ø v e n'
+<nob> p r ø v e +V.PTCP +PRS -> p r ø v e n d e: CORRECT!
+<nob> p r ø v e +N +DEF +PL -> p r ø v a: INCORRECT. Should be 'p r ø v e n e'
+<nob> p r ø v e +V.PTCP +PST -> p r ø v e t: INCORRECT. Should be 'p r ø v d'
+<nob> p r ø v e +N +NDEF +PL -> p r ø v e r: CORRECT!
+<nob> p r ø v e +V +IMP -> p r ø v e: INCORRECT. Should be 'p r ø v'
+<nob> p r ø v e +V +PRS -> p r ø v e r: CORRECT!
+<nob> p i g m e n t +N +DEF +SG -> p i g m e n t e t: CORRECT!
+<nob> p i g m e n t +N +DEF +PL -> p i g m e n t e n e: INCORRECT. Should be 'p i g m e n t a'
+<nob> p i g m e n t +N +NDEF +PL -> p i g m e n t: CORRECT!
+<nob> ø k o n o m i s e r e +V +PST -> ø k o n o m i s e r t e: CORRECT!
+<nob> ø k o n o m i s e r e +V +IMP -> ø k o n o m i s e r: CORRECT!
+<nob> ø k o n o m i s e r e +V.PTCP +PST -> ø k o n o m i s e r t: CORRECT!
+<nob> ø k o n o m i s e r e +V +PRS -> ø k o n o m i s e r e r: CORRECT!
+<nob> l a t t e r l i g g j ø r e +V +IMP -> l a t t e r l i g g j ø r: CORRECT!
+<nob> l a t t e r l i g g j ø r e +V +PST -> l a t t e r l e g j ø r d e: INCORRECT. Should be 'l a t t e r l i g g j o r d e'
+<nob> l a t t e r l i g g j ø r e +V.PTCP +PRS -> l a t t e r l i g g j ø r e n d e: CORRECT!
+<nob> l a t t e r l i g g j ø r e +V.PTCP +PST -> l a t t e r l i g g j ø r e t: INCORRECT. Should be 'l a t t e r l i g g j o r t'
+<nob> u t g a n g +N +DEF +PL -> u t g a n g a n e: INCORRECT. Should be 'u t g a n g e n e'
+<nob> u t g a n g +N +NDEF +PL -> u t g a n g a r: INCORRECT. Should be 'u t g a n g e r'
+<nob> b æ r +N +DEF +SG -> b æ r e n: INCORRECT. Should be 'b æ r e t'
+<nob> b æ r +N +DEF +PL -> b æ r e n e: CORRECT!
+<nob> b æ r +N +NDEF +PL -> b æ r: CORRECT!
+<nob> f æ r ø y s k +ADJ +NEUT +SG -> f æ r ø y s k: CORRECT!
+<nob> f æ r ø y s k +ADJ +DEF +SG+PL -> f æ r ø y s k e: CORRECT!
+<nob> f æ r ø y s k +N +DEF +SG -> f æ r ø y s k e t: INCORRECT. Should be 'f æ r ø y s k e n'
+<nob> b r a t s j +N +NDEF +PL -> b r a t s j e r: CORRECT!
+<nob> b r a t s j +N +DEF +PL -> b r a t s j e n e: CORRECT!
+<nob> g r e n s e s n i t t +N +NDEF +PL -> g r e n s e s n i t t: CORRECT!
+<nob> g r e n s e s n i t t +N +DEF +PL -> g r e n s e s n i t t e t e: INCORRECT. Should be 'g r e n s e s n i t t e n e'
+<nob> g r e n s e s n i t t +N +DEF +SG -> g r e n s e s n i t t e t: CORRECT!
+<nob> f o r l o v e d e +N +NDEF +PL -> f o r l o v e d e r: CORRECT!
+<nob> f o r l o v e d e +N +DEF +SG -> f o r l o v e d e t: INCORRECT. Should be 'f o r l o v e d e n'
+<nob> f o r l o v e d e +N +DEF +PL -> f o r l o v e d e t e: INCORRECT. Should be 'f o r l o v e d e n e'
+<nob> m i d d e l +N +DEF +PL -> m i d d e l a n e: INCORRECT. Should be 'm i d l e n e'
+<nob> m i d d e l +N +DEF +SG -> m i d d e l e n: INCORRECT. Should be 'm i d l e t'
+<nob> m i d d e l +N +NDEF +PL -> m i d d e l a r: INCORRECT. Should be 'm i d d e l'
+<nob> b a n e +N +NDEF +PL -> b a n a r: INCORRECT. Should be 'b a n e r'
+<nob> b a n e +N +DEF +SG -> b a n e n: CORRECT!
+<nob> k a m e l +N +DEF +PL -> k a m l a n e: INCORRECT. Should be 'k a m e l e n e'
+<nob> k a m e l +N +NDEF +PL -> k a m e l a r: INCORRECT. Should be 'k a m e l e r'
+<nob> k a m e l +N +DEF +SG -> k a m e l e n: CORRECT!
+<nob> h ø n s +N +DEF +PL -> h ø n s a: CORRECT!
+<nob> i l l u s t r a s j o n +N +DEF +PL -> i l l u s t r a s j o n a n e: INCORRECT. Should be 'i l l u s t r a s j o n e n e'
+<nob> i l l u s t r a s j o n +N +DEF +SG -> i l l u s t r a s j o n e n: CORRECT!
+<nob> t u n g e +N +DEF +SG -> t u n g a: CORRECT!
+<nob> t u n g e +N +NDEF +PL -> t u n g e r: CORRECT!
+<nob> g e v æ r +N +DEF +SG -> g e v æ r e n: INCORRECT. Should be 'g e v æ r e t'
+<nob> g e v æ r +N +NDEF +PL -> g e v æ r: CORRECT!
+<nob> g e v æ r +N +DEF +PL -> g e v æ r e n e: CORRECT!
+<nob> k o s t b a r +ADJ +DEF +SG+PL -> k o s t b a r e: CORRECT!
+<nob> k o s t b a r +ADJ +NEUT +SG -> k o s t b a r t: CORRECT!
+<nob> f ø l l +N +NDEF +PL -> f ø l l e r: INCORRECT. Should be 'f ø l l'
+<nob> f ø l l +N +DEF +PL -> f ø l l e n e: CORRECT!
+<nob> s c e n e +N +NDEF +PL -> s c e n e r: CORRECT!
+<nob> s c e n e +N +DEF +PL -> s c e n a: INCORRECT. Should be 's c e n e n e'
+<nob> s c e n e +N +DEF +SG -> s c e n e n: CORRECT!
+<nob> b i o k j e m i +N +DEF +SG -> b i o k j e m i e t: INCORRECT. Should be 'b i o k j e m i e n'
+<nob> n y t t e l a s t +N +NDEF +PL -> n y t t e l a s t e r: CORRECT!
+<nob> n y t t e l a s t +N +DEF +SG -> n y t t e l a s t e n: CORRECT!
+<nob> n y t t e l a s t +N +DEF +PL -> n y t t e l a s t e n e: CORRECT!
+<nob> m o t o r k j ø r e t ø y +N +DEF +PL -> m o t o r k j ø r e t ø y a n e: INCORRECT. Should be 'm o t o r k j ø r e t ø y a'
+<nob> m o t o r k j ø r e t ø y +N +NDEF +PL -> m o t o r k j ø r e t ø y: CORRECT!
+<nob> h e k k e s e s o n g +N +NDEF +PL -> h e k k e s e s o n g e r: CORRECT!
+<nob> h e k k e s e s o n g +N +DEF +PL -> h e k k e s e s o n g e n e: CORRECT!
+<nob> h e k k e s e s o n g +N +DEF +SG -> h e k k e s e s o n g e n: CORRECT!
+<nob> s t e i n r a s +N +DEF +PL -> s t e i n r a s e n e: CORRECT!
+<nob> s t e i n r a s +N +DEF +SG -> s t e i n r a s e n: INCORRECT. Should be 's t e i n r a s e t'
+<nob> a v g j ø r e l s e +N +DEF +SG -> a v g j ø r e l s e n: CORRECT!
+<nob> a v g j ø r e l s e +N +NDEF +PL -> a v g j ø r e l s e r: CORRECT!
+<nob> f o r v i r r i n g +N +NDEF +PL -> f o r v i r r i n g e r: CORRECT!
+<nob> f o r v i r r i n g +N +DEF +SG -> f o r v i r r i n g a: CORRECT!
+<nob> s j a k a l +N +DEF +SG -> s j a k a l e n: CORRECT!
+<nob> s j a k a l +N +DEF +PL -> s j a k a l e n e: CORRECT!
+<nob> h u e +N +DEF +PL -> h u e n e: CORRECT!
+<nob> h u e +N +DEF +SG -> h u e n: INCORRECT. Should be 'h u a'
+<nob> h u e +N +NDEF +PL -> h u e r: CORRECT!
+<nob> a t a v i s m e +N +DEF +PL -> a t a v i s m e n e: CORRECT!
+<nob> a t a v i s m e +N +NDEF +PL -> a t a v i s m e r: CORRECT!
+<nob> a t a v i s m e +N +DEF +SG -> a t a v i s m e n: CORRECT!
+<nob> v e n n +N +NDEF +PL -> v e n n e r: CORRECT!
+<nob> v e n n +N +DEF +SG -> v e n n e n: CORRECT!
+<nob> d r e i e +V.PTCP +PST -> d r e i e t: INCORRECT. Should be 'd r e i d'
+<nob> d r e i e +V +PST -> d r e i e t: CORRECT!
+<nob> d r e i e +V +IMP -> d r e i e r: INCORRECT. Should be 'd r e i'
+<nob> d r e i e +V +PRS -> d r e i e r: CORRECT!
+<nob> d r e i e +V.PTCP +PRS -> d r e i e n d e: CORRECT!
+<nob> l ø g n +N +DEF +PL -> l ø g n e n e: CORRECT!
+<nob> l ø g n +N +DEF +SG -> l ø g n e t: INCORRECT. Should be 'l ø g n e n'
+<nob> l ø g n +N +NDEF +PL -> l ø g n e r: CORRECT!
+<nob> v e n +ADJ +CMPR -> v e n: INCORRECT. Should be 'v e n e r e'
+<nob> v e n +ADJ +NEUT +SG -> v e n t: CORRECT!
+<nob> v e n +ADJ +DEF +SG+PL -> v e n e: CORRECT!
+<nob> v e n t e +V +IMP -> v e n t: CORRECT!
+<nob> s t ø p s e l +N +DEF +SG -> s t ø p s e l e n: INCORRECT. Should be 's t ø p s l e t'
+<nob> s t ø p s e l +N +NDEF +PL -> s t ø p s e l e: INCORRECT. Should be 's t ø p s l e r'
+<nob> s t ø p s e l +N +DEF +PL -> s t ø p s e l e n e: INCORRECT. Should be 's t ø p s l e n e'
+<nob> m e s t e r s k a p +N +DEF +PL -> m e s t e r s k a p e n e: CORRECT!
+<nob> m e s t e r s k a p +N +NDEF +PL -> m e s t e r s k a p: CORRECT!
+<nob> h ø s t +N +DEF +PL -> h ø s t a: INCORRECT. Should be 'h ø s t e n e'
+<nob> h ø s t +N +NDEF +PL -> h ø s t e r: CORRECT!
+<nob> s t r å l i n g +N +NDEF +PL -> s t r å l i n g a r: INCORRECT. Should be 's t r å l i n g e r'
+<nob> s t r å l i n g +N +DEF +SG -> s t r å l i n g a: CORRECT!
+<nob> s t a v e +V +IMP -> s t a v e: INCORRECT. Should be 's t a v'
+<nob> s t a v e +V +PST -> s t a v e t: CORRECT!
+<nob> s t a v e +V +PRS -> s t a v e r: CORRECT!
+<nob> h å p +N +NDEF +PL -> h å p: CORRECT!
+<nob> h å p +N +DEF +SG -> h å p e n: INCORRECT. Should be 'h å p e t'
+<nob> v e p s +N +DEF +SG -> v e p s e t: INCORRECT. Should be 'v e p s e n'
+<nob> v e p s +N +NDEF +PL -> v e p s a r: INCORRECT. Should be 'v e p s e r'
+<nob> v e p s +N +DEF +PL -> v e p s a: INCORRECT. Should be 'v e p s e n e'
+<nob> s p i s e p i n n e +N +DEF +SG -> s p i s e p i n n a: INCORRECT. Should be 's p i s e p i n n e n'
+<nob> k o m e t +N +DEF +SG -> k o m e t e t: INCORRECT. Should be 'k o m e t e n'
+<nob> k o m e t +N +DEF +PL -> k o m e t e n e: CORRECT!
+<nob> k o m e t +N +NDEF +PL -> k o m e t e r: CORRECT!
+<nob> h u l l +N +DEF +PL -> h u l l e n e: CORRECT!
+<nob> h u l l +N +NDEF +PL -> h u l l: CORRECT!
+<nob> h u l l e +V +PST -> h u l l e t: CORRECT!
+<nob> d a n n e +V +PRS -> d a n n e r: CORRECT!
+<nob> d a n n e +V +PST -> d o n n: INCORRECT. Should be 'd a n n e t'
+<nob> d a n n e +V +IMP -> d a n n e: INCORRECT. Should be 'd a n n'
+<nob> o p p h e v e +V +PRS -> o p p h e v e r: CORRECT!
+<nob> o p p h e v e +V.PTCP +PST -> o p p h e v e t: INCORRECT. Should be 'o p p h e v d'
+<nob> o p p h e v e +V +PST -> o p p h e v e t: CORRECT!
+<nob> o p p h e v e +V +IMP -> o p p h e v e: INCORRECT. Should be 'o p p h e v'
+<nob> h e l g +N +DEF +PL -> h e l g e n e: CORRECT!
+<nob> h e l g +N +DEF +SG -> h e l g e n: CORRECT!
+<nob> h e l g +N +NDEF +PL -> h e l g e r: CORRECT!
+<nob> k r y s s +N +DEF +PL -> k r y s s a t s: INCORRECT. Should be 'k r y s s a'
+<nob> k r y s s +N +NDEF +PL -> k r y s s: CORRECT!
+<nob> k r y s s +N +DEF +SG -> k r y s s e t: CORRECT!
+<nob> k r y s s e +V +PST -> k r y s s t: INCORRECT. Should be 'k r y s s e t'
+<nob> m o t s t a n d +N +DEF +PL -> m o t s t a n d e n e: CORRECT!
+<nob> m a k r e l l +N +NDEF +PL -> m a k r e l l e r: CORRECT!
+<nob> m a k r e l l +N +DEF +SG -> m a k r e l l e n: CORRECT!
+<nob> m a k r e l l +N +DEF +PL -> m a k r e l l e r n e: INCORRECT. Should be 'm a k r e l l e n e'
+<nob> p o l i t i +N +DEF +SG -> p o l i t i e n: CORRECT!
+<nob> p o l i t i +N +NDEF +PL -> p o l i t i e r: CORRECT!
+<nob> t r e e n i g h e t +N +DEF +SG -> t r e e n i g h e t e n: CORRECT!
+<nob> t r e e n i g h e t +N +DEF +PL -> t r e e n i g h e t a n e: INCORRECT. Should be 't r e e n i g h e t e n e'
+<nob> t r e e n i g h e t +N +NDEF +PL -> t r e e n i g h e t e r: CORRECT!
+<nob> n ø y t r o n +N +DEF +PL -> n ø y t r o n a n e: INCORRECT. Should be 'n ø y t r o n e n e'
+<nob> n ø y t r o n +N +NDEF +PL -> n ø y t r o n e r: INCORRECT. Should be 'n ø y t r o n'
+<nob> f r i t t e +N +NDEF +PL -> f r i t t e r: CORRECT!
+<nob> f r i t t e +N +DEF +PL -> f r i t t e n e: CORRECT!
+<nob> f r i t t e +N +DEF +SG -> f r i t t e n: CORRECT!
+<nob> å r s t i d +N +DEF +PL -> å r s t i d e n e: CORRECT!
+<nob> å r s t i d +N +DEF +SG -> å r s t i d e n: CORRECT!
+<nob> å r s t i d +N +NDEF +PL -> å r s t i d e r: CORRECT!
+<nob> m u l t i p l i s e r e +V +PST -> m u l t i p l i s e r t e: CORRECT!
+<nob> m u l t i p l i s e r e +V +PRS -> m u l t i p l i s e r e r: CORRECT!
+<nob> m u l t i p l i s e r e +V.PTCP +PRS -> m u l t i p l i s e r e n d e: CORRECT!
+<nob> m u l t i p l i s e r e +V.PTCP +PST -> m u l t i p l i s e r t: CORRECT!
+<nob> f o r d ø m m e l s e +N +DEF +SG -> f o r d ø m m e l s e n: CORRECT!
+<nob> p a p u a n e r +N +DEF +SG -> p a p u a n e r e n: CORRECT!
+<nob> f l a g g s t a n g +N +DEF +PL -> f l a g g s t a n g e n e: INCORRECT. Should be 'f l a g g s t e n g e n e'
+<nob> f l a g g s t a n g +N +DEF +SG -> f l a g g s t a n g e n: CORRECT!
+<nob> f l a g g s t a n g +N +NDEF +PL -> f l a g g s t a n g e r: INCORRECT. Should be 'f l a g g s t e n g e r'
+<nob> m i s l y k k e t +ADJ +NEUT +SG -> m i s l y k k e t: CORRECT!
+<nob> m i s l y k k e t +ADJ +DEF +SG+PL -> m i s l y k k e t e: CORRECT!
+<nob> o p t i m i s t i s k +ADJ +DEF +SG+PL -> o p t i m i s t i s k e: CORRECT!
+<nob> a l t e r +N +DEF +SG -> a l t e r e n: INCORRECT. Should be 'a l t e r e t'
+<nob> a l t e r +N +DEF +PL -> s l l e r n e: INCORRECT. Should be 'a l t e r a'
+<nob> a l t e r +N +NDEF +PL -> m e s: INCORRECT. Should be 'a l t e r'
+<nob> d a n s e +V +PST -> d a n s å g e: INCORRECT. Should be 'd a n s e t'
+<nob> d a n s e +V +IMP -> d a n s e: INCORRECT. Should be 'd a n s'
+<nob> d a n s e +V.PTCP +PRS -> d a n s e e n d e: INCORRECT. Should be 'd a n s e n d e'
+<nob> d a n s +N +NDEF +PL -> d a n s a r: INCORRECT. Should be 'd a n s e r'
+<nob> d a n s e +V +PRS -> d a n s e r: CORRECT!
+<nob> d i v i s j o n s t e g n +N +DEF +SG -> d i v i s j o n s t e g n a: INCORRECT. Should be 'd i v i s j o n s t e g n e t'
+<nob> d i v i s j o n s t e g n +N +DEF +PL -> d i v i s j o n s t e g n e n e: INCORRECT. Should be 'd i v i s j o n s t e g n a'
+<nob> f u s j o n e r e +V.PTCP +PST -> f u s j o n e r e t: INCORRECT. Should be 'f u s j o n e r t'
+<nob> f u s j o n +N +NDEF +PL -> f u s j o n e r: CORRECT!
+<nob> f u s j o n e r e +V +PRS -> f u s j o n e r e r: CORRECT!
+<nob> f u s j o n e r e +V +PST -> f u s j o n e r t e: CORRECT!
+<nob> f u s j o n e r e +V +IMP -> f u s j o n e r: CORRECT!
+<nob> s a m l e +V +IMP -> s a m l e: CORRECT!
+<nob> s a m l e +V +PRS -> s a m l e r: CORRECT!
+<nob> s a m l e +V +PST -> s a m l e t: CORRECT!
+<nob> s a m l e +V.PTCP +PRS -> s a m l e e n d e: INCORRECT. Should be 's a m l e n d e'
+<nob> h e l l e +N +DEF +SG -> h e l l e n: CORRECT!
+<nob> h e l l e +V +PST -> h e l l e t: INCORRECT. Should be 'h e l t e'
+<nob> h e l l e +V +PRS -> h e l l e r: CORRECT!
+<nob> h e l l e +V +IMP -> h e l l e: INCORRECT. Should be 'h e l l'
+<nob> h e l l e +N +NDEF +PL -> h e l l e r: CORRECT!
+<nob> p s y k i a t r i s k +ADJ +NEUT +SG -> p s y k i a t r i s k: CORRECT!
+<nob> p s y k i a t r i s k +ADJ +DEF +SG+PL -> p s y k i a t r i s k e: CORRECT!
+<nob> t i l l e g g +N +DEF +PL -> t i l l e g g e n e: CORRECT!
+<nob> t i l l e g g +N +DEF +SG -> t i l l e g g e n: INCORRECT. Should be 't i l l e g g e t'
+<nob> a n g s t b i t i n g +N +NDEF +PL -> a n g s t b i t i n g e r: CORRECT!
+<nob> a n g s t b i t i n g +N +DEF +SG -> a n g s t b i t i n g a: INCORRECT. Should be 'a n g s t b i t i n g e n'
+<nob> a n g s t b i t i n g +N +DEF +PL -> a n g s t b i t i n g e n e: CORRECT!
+<nob> s t r a n d +N +DEF +PL -> s t r a n d e n e: INCORRECT. Should be 's t r e n d e n e'
+<nob> s t r a n d +N +DEF +SG -> s t r a n d e t: INCORRECT. Should be 's t r a n d e n'
+<nob> s t r a n d +N +NDEF +PL -> s t r a n d: INCORRECT. Should be 's t r e n d e r'
+<nob> g r e n s e +N +DEF +SG -> g r e n s e n: CORRECT!
+<nob> g r e n s e +N +DEF +PL -> g r e n s e a: INCORRECT. Should be 'g r e n s e n e'
+<nob> å r s a k +N +DEF +PL -> å r s a k e n e: CORRECT!
+<nob> å r s a k +N +DEF +SG -> å r s a k e n: CORRECT!
+<nob> å r s a k +N +NDEF +PL -> å r s a k e r: CORRECT!
+<nob> s j u k e b i l +N +DEF +SG -> s j u k e b i l e n: CORRECT!
+<nob> s j u k e b i l +N +DEF +PL -> s j u k e b i l e n e: CORRECT!
+<nob> i n n k a s t +N +DEF +PL -> i n n k a s t e n e: CORRECT!
+<nob> i n n k a s t +N +NDEF +PL -> i n n k a s t e r: INCORRECT. Should be 'i n n k a s t'
+<nob> k a k t u s +N +NDEF +PL -> k a k t u s a r: INCORRECT. Should be 'k a k t u s e r'
+<nob> k a k t u s +N +DEF +PL -> k a k t u s a: INCORRECT. Should be 'k a k t u s e n e'
+<nob> v i e +V +PST -> v i e t: CORRECT!
+<nob> v i e +V.PTCP +PST -> v i e d: INCORRECT. Should be 'v i a'
+<nob> v i e +V +PRS -> v i e r: CORRECT!
+<nob> p a n t e r +N +NDEF +PL -> p a n t e r e: CORRECT!
+<nob> p a n t e r +N +DEF +SG -> p a n t e r e n: CORRECT!
+<nob> p a n t e r +N +DEF +PL -> p a n t e r n e: CORRECT!
+<nob> s p i k e r +N +NDEF +PL -> s p i k e r e: CORRECT!
+<nob> s p i k e r +N +DEF +PL -> s p i k e r n e: CORRECT!
+<nob> v e r t s m a s k i n +N +DEF +SG -> v e r t s m a s k i n a: INCORRECT. Should be 'v e r t s m a s k i n e n'
+<nob> v e r t s m a s k i n +N +NDEF +PL -> v e r t s m a s k i n e r: CORRECT!
+<nob> v e r t s m a s k i n +N +DEF +PL -> v e r t s m a s k i n a n e: INCORRECT. Should be 'v e r t s m a s k i n e n e'
+<nob> n y t t å r +N +DEF +SG -> n y t t å r e n: INCORRECT. Should be 'n y t t å r e t'
+<nob> f a r m a k o l o g i +N +DEF +SG -> f a r m a k o l o g i e t: INCORRECT. Should be 'f a r m a k o l o g i e n'
+<nob> k o k e p u n k t +N +NDEF +PL -> k o k e p u n k t e r: CORRECT!
+<nob> k o k e p u n k t +N +DEF +PL -> k o k e p u n k t e n e: CORRECT!
+<nob> t r ø b l e t +ADJ +NEUT +SG -> t r ø b l e t: CORRECT!
+<nob> t r ø b l e t +ADJ +DEF +SG+PL -> t r ø b l e t e: CORRECT!
+<nob> m ø b e l +N +DEF +SG -> m ø b e l e n: INCORRECT. Should be 'm ø b l e t'
+<nob> m ø b e l +N +DEF +PL -> m ø b l e n e: CORRECT!
+<nob> m ø b e l +N +NDEF +PL -> m ø b l e r: CORRECT!
+<nob> f l e r t a l l +N +DEF +PL -> f l e r t a l l e n e: CORRECT!
+<nob> f l e r t a l l +N +NDEF +PL -> f l e r t a l l a r: INCORRECT. Should be 'f l e r t a l l'
+<nob> f l e r t a l l +N +DEF +SG -> f l e r t a l l e n: INCORRECT. Should be 'f l e r t a l l e t'
+<nob> a k t u e l l +ADJ +DEF +SG+PL -> a k t u e l l e: CORRECT!
+<nob> a k t u e l l +ADJ +NEUT +SG -> a k t u e l l: INCORRECT. Should be 'a k t u e l t'
+<nob> b e t e n n e l s e +N +NDEF +PL -> b e t e n n e l s e r: CORRECT!
+<nob> b e t e n n e l s e +N +DEF +PL -> b e t e n n e l s e n e: CORRECT!
+<nob> b e t e n n e l s e +N +DEF +SG -> b e t e n n e l s e n: CORRECT!
+<nob> m e l o d i +N +DEF +PL -> m e l o d i e t e: INCORRECT. Should be 'm e l o d i e n e'
+<nob> m e l o d i +N +NDEF +PL -> m e l o d i e r: CORRECT!
+<nob> m e l o d i +N +DEF +SG -> m e l o d i e t: INCORRECT. Should be 'm e l o d i e n'
+<nob> z o o m l i n s e +N +DEF +SG -> z o o m l i n s a: CORRECT!
+<nob> z o o m l i n s e +N +DEF +PL -> z o o m i n s e n e: INCORRECT. Should be 'z o o m l i n s e n e'
+<nob> z o o m l i n s e +N +NDEF +PL -> z o o m l i n s e r: CORRECT!
+<nob> f o r s t i l l e l s e +N +NDEF +PL -> f o r s t i l l e l s e r: CORRECT!
+<nob> g e i t +N +NDEF +PL -> g e i t e r: CORRECT!
+<nob> g e i t +N +DEF +SG -> g e i t e n: CORRECT!
+<nob> t e k n i k k +N +NDEF +PL -> t e k n i k k e r: CORRECT!
+<nob> t e k n i k k +N +DEF +SG -> t e k n i k k a: INCORRECT. Should be 't e k n i k k e n'
+<nob> t ø r k e t r o m m e l +N +DEF +PL -> t ø r k e t r o m l l e n e: INCORRECT. Should be 't ø r k e t r o m l e n e'
+<nob> t ø r k e t r o m m e l +N +NDEF +PL -> t ø r k e t r o m m l e r: INCORRECT. Should be 't ø r k e t r o m l e r'
+<nob> g l a s s m e s t e r +N +NDEF +PL -> g l a s s m e s t e r e: CORRECT!
+<nob> k o o r d i n a s j o n +N +DEF +PL -> k o o r d i n a s j o n a n e: INCORRECT. Should be 'k o o r d i n a s j o n e n e'
+<nob> k o o r d i n a s j o n +N +NDEF +PL -> k o o r d i n a s j o n e r: CORRECT!
+<nob> k o o r d i n a s j o n +N +DEF +SG -> k o o r d i n a s j o n e n: CORRECT!
+<nob> f i l l e t i n g +N +NDEF +PL -> f i l l e t i n g e r: CORRECT!
+<nob> d a t a s i m u l e r i n g +N +NDEF +PL -> d a t a s i m u l e r i n g a r: INCORRECT. Should be 'd a t a s i m u l e r i n g e r'
+<nob> d a t a s i m u l e r i n g +N +DEF +SG -> d a t a s i m u l e r i n g a n: INCORRECT. Should be 'd a t a s i m u l e r i n g e n'
+<nob> d a t a s i m u l e r i n g +N +DEF +PL -> d a t a s i m u l e r i n g a n e: INCORRECT. Should be 'd a t a s i m u l e r i n g e n e'
+<nob> f o r f a t t e r +N +DEF +PL -> f o r f a t t e r n e: CORRECT!
+<nob> f o r f a t t e r +N +NDEF +PL -> f o r f a t t e r e: CORRECT!
+<nob> f o r f a t t e r +N +DEF +SG -> f o r f a t t e r e n: CORRECT!
+<nob> r e n n e s n a r e +N +DEF +SG -> r e n n e s n a r e n: INCORRECT. Should be 'r e n n e s n a r a'
+<nob> r e n n e s n a r e +N +NDEF +PL -> r e n n e s n a r e: INCORRECT. Should be 'r e n n e s n a r e r'
+<nob> r e n n e s n a r e +N +DEF +PL -> r e n n e s n a r e n e: CORRECT!
+<nob> i n n e r s t +ADJ +DEF +SG+PL -> i n n e r s t e: CORRECT!
+<nob> b l o g g +N +DEF +SG -> b l o g g e n: CORRECT!
+<nob> b l o g g +N +NDEF +PL -> b l o g g a r: INCORRECT. Should be 'b l o g g e r'
+<nob> a p r i k o s +N +DEF +SG -> a p r i k o s e n: CORRECT!
+<nob> a p r i k o s +N +DEF +PL -> a p r i k o s e n e: CORRECT!
+<nob> u t s t i l l i n g s v i n d u +N +DEF +SG -> u t s t i l l i n g s v i n d u n: INCORRECT. Should be 'u t s t i l l i n g s v i n d u e t'
+<nob> u t s t i l l i n g s v i n d u +N +DEF +PL -> u t s t i l l i n g s v i n d u n e: INCORRECT. Should be 'u t s t i l l i n g s v i n d u a'
+<nob> u t s t i l l i n g s v i n d u +N +NDEF +PL -> u t s t i l l i n g s v i n d u: INCORRECT. Should be 'u t s t i l l i n g s v i n d u e r'
+<nob> v a r i a n t +N +DEF +PL -> v a r i a n t e n e: CORRECT!
+<nob> k a f f e k o p p +N +NDEF +PL -> k a f f e k o p p a r: INCORRECT. Should be 'k a f f e k o p p e r'
+<nob> k a f f e k o p p +N +DEF +SG -> k a f f e k o p p e n: CORRECT!
+<nob> k a f f e k o p p +N +DEF +PL -> k a f f e k o p p a: INCORRECT. Should be 'k a f f e k o p p e n e'
+<nob> f o r u r e n s n i n g +N +NDEF +PL -> f o r u r e n s n i n g e r: CORRECT!
+<nob> f o r u r e n s n i n g +N +DEF +SG -> f o r u r e n s n i n g a: CORRECT!
+<nob> f o r u r e n s n i n g +N +DEF +PL -> f o r u r e n s n i n g e n e: CORRECT!
+<nob> t y g g e +V.PTCP +PST -> t y g g e t: CORRECT!
+<nob> t y g g e +V +PST -> t y g g e t: INCORRECT. Should be 't y g d e'
+<nob> t y g g e +V +PRS -> t y g g e r: CORRECT!
+<nob> t y g g e +V +IMP -> t y g g e: INCORRECT. Should be 't y g g'
+<nob> k r o a t +N +DEF +PL -> k r o a t e n e: CORRECT!
+<nob> k r o a t +N +NDEF +PL -> k r o a t e r: CORRECT!
+<nob> b l å +ADJ +SPRL +DEF -> b l å a s t e: INCORRECT. Should be 'b l å e s t e'
+<nob> b l å +ADJ +NEUT +SG -> b l å t t: CORRECT!
+<nob> b l å +ADJ +SPRL +NDEF -> b l å a s t: INCORRECT. Should be 'b l å e s t'
+<nob> d e s i m a l +N +DEF +SG -> d e s i m a l e n: CORRECT!
+<nob> d e s i m a l +N +NDEF +PL -> d e s i m a l e r: CORRECT!
+<nob> a n g r e p +N +DEF +PL -> a n g r e p e t e: INCORRECT. Should be 'a n g r e p a'
+<nob> i s l a n d s k +N +DEF +SG -> i s l a n d s k a t: INCORRECT. Should be 'i s l a n d s k e n'
+<nob> i s l a n d s k +ADJ +NEUT +SG -> i s l a n d s k: CORRECT!
+<nob> s m a l +ADJ +DEF +SG+PL -> s m a l e: CORRECT!
+<nob> s m a l +ADJ +CMPR -> s m a l a: INCORRECT. Should be 's m a l e r e'
+<nob> s m a l +ADJ +SPRL +NDEF -> s m a l e s t: CORRECT!
+<nob> d u s j h o d e +N +DEF +PL -> d u s j h o d e n e: CORRECT!
+<nob> d u s j h o d e +N +DEF +SG -> d u s j h o d e t: CORRECT!
+<nob> c o l o m b i a n e r +N +NDEF +PL -> c o l o m b i a n e r e: CORRECT!
+<nob> c o l o m b i a n e r +N +DEF +SG -> c o l o m b i a n e r e n: CORRECT!
+<nob> k j æ l e d y r +N +DEF +PL -> k j æ l e d y r e n e: CORRECT!
+<nob> k j æ l e d y r +N +DEF +SG -> k j æ l e d y r e t: CORRECT!
+<nob> k j æ l e d y r +N +NDEF +PL -> k j æ l e d y r: CORRECT!
+<nob> t a k +N +DEF +PL -> t a k e n e: CORRECT!
+<nob> t a k +N +DEF +SG -> t a k e n: INCORRECT. Should be 't a k e t'
+<nob> t a k +N +NDEF +PL -> t a k a r: INCORRECT. Should be 't a k'
+<nob> a n s l a g +N +NDEF +PL -> a n s l a g: CORRECT!
+<nob> a n s l a g +N +DEF +PL -> a n s l a g e n e: CORRECT!
+<nob> h a r p e +N +DEF +SG -> h a r p a: CORRECT!
+<nob> s a n d s t r a n d +N +DEF +SG -> s a n d s t r a n d e n: CORRECT!
+<nob> s a n d s t r a n d +N +NDEF +PL -> s a n d s t r a n d: INCORRECT. Should be 's a n d s t r e n d e r'
+<nob> h a s t i g h e t +N +NDEF +PL -> h a s t i g h e t e r: CORRECT!
+<nob> h a s t i g h e t +N +DEF +PL -> h a s t i g h e t a n e: INCORRECT. Should be 'h a s t i g h e t e n e'
+<nob> h a s t i g h e t +N +DEF +SG -> h a s t i g h e t e n: INCORRECT. Should be 'h a s t i g h e t a'
+<nob> j e n t e +N +DEF +SG -> j e n t e: INCORRECT. Should be 'j e n t a'
+<nob> j e n t e +N +DEF +PL -> j e n t e: INCORRECT. Should be 'j e n t e n e'
+<nob> t y k k e l s e +N +DEF +PL -> t y k k e l s e a: INCORRECT. Should be 't y k k e l s e n e'
+<nob> u k r a i n s k +ADJ +NEUT +SG -> u k r a i n s k: CORRECT!
+<nob> s m e r t e +N +DEF +SG -> s m e r t a: INCORRECT. Should be 's m e r t e n'
+<nob> s m e r t e +N +NDEF +PL -> s m e r t e r: CORRECT!
+<nob> s m e r t e +N +DEF +PL -> s m e r t a: INCORRECT. Should be 's m e r t e n e'
+<nob> s p e s i a l i t e t +N +DEF +SG -> s p e s i a l i t e t e n: CORRECT!
+<nob> g u l r o t +N +DEF +PL -> g u l r ö t e n e: INCORRECT. Should be 'g u l r ø t t e n e'
+<nob> g u l r o t +N +NDEF +PL -> g u l r o t e r: INCORRECT. Should be 'g u l r ø t t e r'
+<nob> g u l r o t +N +DEF +SG -> g u l r o t e n: CORRECT!
+<nob> n æ r +ADJ +NEUT +SG -> n æ r t: CORRECT!
+<nob> n æ r +ADJ +CMPR -> n æ r a r: INCORRECT. Should be 'n æ r e r e'
+<nob> n æ r +ADJ +SPRL +DEF -> n æ r e s t e: CORRECT!
+<nob> n æ r +ADJ +SPRL +NDEF -> n æ r e s t: CORRECT!
+<nob> n æ r +ADJ +DEF +SG+PL -> n æ r e: CORRECT!
+<nob> u t t a l e +N +DEF +SG -> u t t a l e t: INCORRECT. Should be 'u t t a l e n'
+<nob> u t t a l e +V +PST -> u t t a l e t: INCORRECT. Should be 'u t t a l t e'
+<nob> u t t a l e +V.PTCP +PST -> u t t a l e t: INCORRECT. Should be 'u t t a l t'
+<nob> g e o l o g i +N +DEF +SG -> g e o l o g i e t: INCORRECT. Should be 'g e o l o g i e n'
+<nob> s e m e n t +N +DEF +PL -> s e m e n t e n e: CORRECT!
+<nob> s e m e n t +N +DEF +SG -> s e m e n t e t: INCORRECT. Should be 's e m e n t e n'
+<nob> s e m e n t +N +NDEF +PL -> s e m e n t e r: CORRECT!
+<nob> q u i s l i n g +N +NDEF +PL -> q u i s l i n g e r: CORRECT!
+<nob> q u i s l i n g +N +DEF +PL -> q u i s l i n g e n e: CORRECT!
+<nob> k l i m a +N +DEF +SG -> k l i m a n: INCORRECT. Should be 'k l i m a e t'
+<nob> k l i m a +N +DEF +PL -> k l i m o n e: INCORRECT. Should be 'k l i m a e n e'
+<nob> k l i m a +N +NDEF +PL -> k l i m a r: INCORRECT. Should be 'k l i m a e r'
+<nob> k o l o n n e +N +DEF +SG -> k o l o n n e n: CORRECT!
+<nob> v e r n e h j e l m +N +NDEF +PL -> v e r n e h j e l m e r: CORRECT!
+<nob> v e r n e h j e l m +N +DEF +SG -> v e r n e h j e l m e n: CORRECT!
+<nob> k u +N +NDEF +PL -> k u s e r: INCORRECT. Should be 'k u e r'
+<nob> k u +N +DEF +SG -> k u s e n: INCORRECT. Should be 'k u a'
+<nob> g r u n n v a n n +N +DEF +SG -> g r u n n v a n n e n: INCORRECT. Should be 'g r u n n v a n n e t'
+<nob> s y k e b i l +N +DEF +PL -> s y k e b i l e n e: CORRECT!
+<nob> s y k e b i l +N +DEF +SG -> s y k e b i l e n: CORRECT!
+<nob> l i l j e +N +DEF +PL -> l i l j e n e: CORRECT!
+<nob> l i l j e +N +DEF +SG -> l i l j e n: INCORRECT. Should be 'l i l j a'
+<nob> l i l j e +N +NDEF +PL -> l i l j e r: CORRECT!
+<nob> k u r v +N +DEF +SG -> k u r v e n: CORRECT!
+<nob> k u r v +N +DEF +PL -> k u r v e n e: CORRECT!
+<nob> e g e n s k a p +N +DEF +PL -> e g e n s k a p e n e: CORRECT!
+<nob> e g e n s k a p +N +DEF +SG -> e g e n s k a p e n: CORRECT!
+<nob> e g e n s k a p +N +NDEF +PL -> e g e n s k a p: INCORRECT. Should be 'e g e n s k a p e r'
+<nob> g a r d i n +N +NDEF +PL -> g a r d i n e r: CORRECT!
+<nob> g a r d i n +N +DEF +SG -> g a r d i n e t: INCORRECT. Should be 'g a r d i n a'
+<nob> g a r d i n +N +DEF +PL -> g a r d i n e n e: CORRECT!
+<nob> j u l e t r e +N +DEF +SG -> j u l e t r e e t: CORRECT!
+<nob> j u l e t r e +N +DEF +PL -> j u l e t r e e t e: INCORRECT. Should be 'j u l e t r æ r n e'
+<nob> j u l e t r e +N +NDEF +PL -> j u l e t r e t: INCORRECT. Should be 'j u l e t r e'
+<nob> s a b b a t s å r +N +NDEF +PL -> s a b b a t s å r: CORRECT!
+<nob> s a b b a t s å r +N +DEF +SG -> s a b b a t s å r e t: CORRECT!
+<nob> s a b b a t s å r +N +DEF +PL -> s a b b a t s å r e n e: CORRECT!
+<nob> h ø n e +N +NDEF +PL -> h ø n e r: CORRECT!
+<nob> h ø n e +N +DEF +PL -> h ø n a n e: INCORRECT. Should be 'h ø n e n e'
+<nob> h ø n e +N +DEF +SG -> h ø n e n: CORRECT!
+<nob> f u k t i g h e t s k r e m +N +NDEF +PL -> f u k t i g h e t s k r e m m e r: INCORRECT. Should be 'f u k t i g h e t s k r e m e r'
+<nob> f u k t i g h e t s k r e m +N +DEF +SG -> f u k t i g h e t s k r e m m e t: INCORRECT. Should be 'f u k t i g h e t s k r e m e n'
+<nob> p å v i r k n i n g +N +DEF +SG -> p å v i r k n i n g a: CORRECT!
+<nob> p å v i r k n i n g +N +DEF +PL -> p å v i r k n i n g a n e: INCORRECT. Should be 'p å v i r k n i n g e n e'
+<nob> r u s k +N +DEF +PL -> r u s k a n e: INCORRECT. Should be 'r u s k e n e'
+<nob> r u s k +N +NDEF +PL -> r u s k a r: INCORRECT. Should be 'r u s k'
+<nob> r u s k +N +DEF +SG -> r u s k a t: INCORRECT. Should be 'r u s k e t'
+<nob> f l y k r o p p +N +NDEF +PL -> f l y k r o p p a r: INCORRECT. Should be 'f l y k r o p p e r'
+<nob> f l y k r o p p +N +DEF +SG -> f l y k r o p p e n: CORRECT!
+<nob> h y k l e r i +N +NDEF +PL -> h y k l e r i e r: CORRECT!
+<nob> h y k l e r i +N +DEF +SG -> h y k l e r i e t: CORRECT!
+<nob> h y k l e r i +N +DEF +PL -> h y k l e r i e t e: INCORRECT. Should be 'h y k l e r i a'
+<nob> k l o +N +DEF +PL -> k l o n e: INCORRECT. Should be 'k l ø r n e'
+<nob> k l o +N +DEF +SG -> k l o e t: INCORRECT. Should be 'k l o e n'
+<nob> k l o +N +NDEF +PL -> k l o e r: INCORRECT. Should be 'k l ø r'
+<nob> g o d k j e n n i n g +N +DEF +SG -> g o d k j e n n i n g a: CORRECT!
+<nob> s e n g e t i d +N +DEF +SG -> s e n g e t i d e n: INCORRECT. Should be 's e n g e t i d a'
+<nob> s e n g e t i d +N +DEF +PL -> s e n g e t i d e n e: CORRECT!
+<nob> s e n g e t i d +N +NDEF +PL -> s e n g e t i d e r: CORRECT!
+<nob> f a b r i k a n t +N +DEF +PL -> f a b r i k a n t e n e: CORRECT!
+<nob> u d e l e l i g +ADJ +NEUT +SG -> u d e l e l i g: CORRECT!
+<nob> u d e l e l i g +ADJ +DEF +SG+PL -> u d e l e l i g e: CORRECT!
+<nob> v e l s t a n d +N +DEF +SG -> v e l s t a n d e t: INCORRECT. Should be 'v e l s t a n d e n'
+<nob> d i s k u t e r e +V.PTCP +PRS -> d i s k u t e r e n d e: CORRECT!
+<nob> d i s k u t e r e +V +PRS -> d i s k u t e r e r: CORRECT!
+<nob> d i s k u t e r e +V +PST -> d i s k u t e r t e: CORRECT!
+<nob> s p i l l k o r t +N +DEF +PL -> s p i l l k o r t a n e: INCORRECT. Should be 's p i l l k o r t a'
+<nob> d e t o n e r e +V +PRS -> d e t o n e r e r: CORRECT!
+<nob> d e t o n e r e +V +IMP -> d e t o n e r: CORRECT!
+<nob> d e t o n e r e +V +PST -> d e t o n e r t e: CORRECT!
+<nob> d e t o n e r e +V.PTCP +PST -> d e t o n e r e t: INCORRECT. Should be 'd e t o n e r t'
+<nob> d e t o n e r e +V.PTCP +PRS -> d e t o n e r e n d e: CORRECT!
+<nob> t ø r s t +ADJ +SPRL +NDEF -> t ø r s t a s t: INCORRECT. Should be 't ø r s t e s t'
+<nob> t ø r s t +ADJ +CMPR -> t ø r s t a: INCORRECT. Should be 't ø r s t e r e'
+<nob> t ø r s t +ADJ +DEF +SG+PL -> t ø r s t e: CORRECT!
+<nob> t ø r s t +N +DEF +SG -> t ø r s t e t: INCORRECT. Should be 't ø r s t e n'
+<nob> t ø r s t +ADJ +SPRL +DEF -> t ø r s t a s t e: INCORRECT. Should be 't ø r s t e s t e'
+<nob> t ø r s t e +V +IMP -> t ø r s t e: INCORRECT. Should be 't ø r s t'
+<nob> t ø r s t e +V +PRS -> t ø r s t e r: CORRECT!
+<nob> t ø r s t e +V +PST -> t ø r s t e t: CORRECT!
+<nob> t ø r s t +ADJ +NEUT +SG -> t ø r s t: CORRECT!
+<nob> k a l k +N +NDEF +PL -> k a l k a r: INCORRECT. Should be 'k a l k e r'
+<nob> k a l k +N +DEF +SG -> k a l k e n: CORRECT!
+<nob> r e s t a u r e r i n g +N +DEF +SG -> r e s t a u r e r i n g a n: INCORRECT. Should be 'r e s t a u r e r i n g a'
+<nob> r e s t a u r e r i n g +N +DEF +PL -> r e s t a u r e r i n g a n e: INCORRECT. Should be 'r e s t a u r e r i n g e n e'
+<nob> s m e l t e +V +IMP -> s m e l t e: INCORRECT. Should be 's m e l t'
+<nob> s m e l t e +V +PRS -> s m e l t e r: CORRECT!
+<nob> s m e l t e +V +PST -> s m e l t e t: CORRECT!
+<nob> p o l i t i m a n n +N +DEF +PL -> p o l i t i m a n n e n e: INCORRECT. Should be 'p o l i t i m a n n e n'
+<nob> b l å s e +V.PTCP +PST -> b l å s e d d: INCORRECT. Should be 'b l å s t'
+<nob> b l å s e +V +IMP -> b l å s e: INCORRECT. Should be 'b l å s'
+<nob> b l å s e +V +PST -> b l å s t e: CORRECT!
+<nob> t a b l e t t +N +DEF +PL -> t a b l e t t e n e: CORRECT!
+<nob> t a b l e t t +N +NDEF +PL -> t a b l e t t e r: CORRECT!
+<nob> g j e n k j e n n e +V.PTCP +PST -> g j e n k j e n n e n: INCORRECT. Should be 'g j e n k j e n t'
+<nob> g j e n k j e n n e +V +PST -> g j e n k j e n n a d e: INCORRECT. Should be 'g j e n k j e n t e'
+<nob> g j e n k j e n n e +V +PRS -> g j e n k j e n n e r: CORRECT!
+<nob> g j e n k j e n n e +V +IMP -> g j e n k j e n n e: INCORRECT. Should be 'g j e n k j e n n'
+<nob> s p i l l k o n s o l l +N +DEF +SG -> s p i l l k o n s o l l e n: CORRECT!
+<nob> v o k a l +N +NDEF +PL -> v o k a l e r: CORRECT!
+<nob> v o k a l +N +DEF +SG -> v o k a l e n: CORRECT!
+<nob> g r e p +N +DEF +SG -> g r e p e t: CORRECT!
+<nob> g r e p +N +NDEF +PL -> g r e p: CORRECT!
+<nob> g r e p +N +DEF +PL -> g r e p e n e: CORRECT!
+<nob> h i s t o r i s k +ADJ +DEF +SG+PL -> h i s t o r i s k e: CORRECT!
+<nob> h i s t o r i s k +ADJ +NEUT +SG -> h i s t o r i s k: CORRECT!
+<nob> m o n u m e n t +N +NDEF +PL -> m o n u m e n t e r: CORRECT!
+<nob> m o n u m e n t +N +DEF +SG -> m o n u m e n t e t: CORRECT!
+<nob> m o n u m e n t +N +DEF +PL -> m o n u m e n t e n e: CORRECT!
+<nob> å p n e +V +PRS -> å p n e r: CORRECT!
+<nob> å p n e +V +IMP -> å p n e: CORRECT!
+<nob> å p n e +V +PST -> å p n e: INCORRECT. Should be 'å p n a'
+<nob> p r e p o s i s j o n +N +NDEF +PL -> p r e p o s i s j o n e r: CORRECT!
+<nob> p r e p o s i s j o n +N +DEF +SG -> p r e p o s i s j o n e n: CORRECT!
+<nob> h e l t i n n e +N +DEF +PL -> h e l t i n n e n e: CORRECT!
+<nob> h e l t i n n e +N +NDEF +PL -> h e l t i n n e r: CORRECT!
+<nob> h e l t i n n e +N +DEF +SG -> h e l t i n n e t: INCORRECT. Should be 'h e l t i n n a'
+<nob> t o r s j o n +N +DEF +SG -> t o r s j o n e n: CORRECT!
+<nob> t o r s j o n +N +DEF +PL -> t o r s j o n e n e: CORRECT!
+<nob> t o r s j o n +N +NDEF +PL -> t o r s j o n e r: CORRECT!
+<nob> v i r u s +N +DEF +PL -> v i r u s: INCORRECT. Should be 'v i r u s a'
+<nob> v i r u s +N +NDEF +PL -> v i r u s: CORRECT!
+<nob> v i r u s +N +DEF +SG -> v i r u s e t: CORRECT!
+<nob> t i l b y +V.PTCP +PST -> t i l b y d d: CORRECT!
+<nob> t i l b y +V +IMP -> t i l b y: CORRECT!
+<nob> t i l b y +V +PST -> t i l b y t t: INCORRECT. Should be 't i l b ø y'
+<nob> k o m e d i e +N +NDEF +PL -> k o m e d i e r: CORRECT!
+<nob> k o m e d i e +N +DEF +PL -> k o m e d i e n e: CORRECT!
+<nob> n e t t s i d e +N +DEF +PL -> n e t t s i d e n e: CORRECT!
+<nob> n e t t s i d e +N +DEF +SG -> n e t t s i d e n: INCORRECT. Should be 'n e t t s i d a'
+<nob> n e t t s i d e +N +NDEF +PL -> n e t t s i d e r: CORRECT!
+<nob> g j e n n o m h u l l e +V +IMP -> g j e n n o m h u l l e: INCORRECT. Should be 'g j e n n o m h u l l'
+<nob> g j e n n o m h u l l e +V +PST -> g j e n n o m h e n: INCORRECT. Should be 'g j e n n o m h u l l a'
+<nob> f u n g e r e +V +PRS -> f u n g e r e r: CORRECT!
+<nob> f u n g e r e +V +IMP -> f u n g e r: CORRECT!
+<nob> f u n g e r e +V +PST -> f u n g e r t e: CORRECT!
+<nob> g å +V +IMP -> g å: CORRECT!
+<nob> g å +V.PTCP +PRS -> g å g g å e n d e: INCORRECT. Should be 'g å e n d e'
+<nob> g å +V +PRS -> g å: INCORRECT. Should be 'g å r'
+<nob> g å +V +PST -> g å d d e: INCORRECT. Should be 'g i k k'
+<nob> g å +V.PTCP +PST -> g å d d: INCORRECT. Should be 'g å t t'
+<nob> v æ r v a r s e l +N +NDEF +PL -> v æ r v a r s e l e r: INCORRECT. Should be 'v æ r v a r s e l'
+<nob> v æ r v a r s e l +N +DEF +SG -> v æ r v a r s e l e n: INCORRECT. Should be 'v æ r v a r s e l e t'
+<nob> k o n n o t a s j o n +N +DEF +SG -> k o n n o t a s j o n e n: CORRECT!
+<nob> k o n n o t a s j o n +N +NDEF +PL -> k o n n o t a s j o n e r: CORRECT!
+<nob> k o n n o t a s j o n +N +DEF +PL -> k o n n o t a s j o n a n e: INCORRECT. Should be 'k o n n o t a s j o n e n e'
+<nob> r e d a k t ø r +N +DEF +PL -> r e d a k t ø r e n e: CORRECT!
+<nob> r e d a k t ø r +N +DEF +SG -> r e d a k t ø r e n: CORRECT!
+<nob> f o r u m +N +DEF +SG -> f o r u m e t: CORRECT!
+<nob> f o r u m +N +DEF +PL -> f o r u m e n e: CORRECT!
+<nob> f o r u m +N +NDEF +PL -> f o r u m: INCORRECT. Should be 'f o r a'
+<nob> k o m p o n e n t +N +DEF +SG -> k o m p o n e n t e n: CORRECT!
+<nob> k o m p o n e n t +N +NDEF +PL -> k o m p o n e n t e r: CORRECT!
+<nob> k o m p o n e n t +N +DEF +PL -> k o m p o n e n t e n e: CORRECT!
+<nob> u r i n e r e +V +PRS -> u r i n e r e r: CORRECT!
+<nob> u r i n e r e +V +IMP -> u r i n e r: CORRECT!
+<nob> u r i n e r e +V +PST -> u r i n e r t e: CORRECT!
+<nob> u r i n e r e +V.PTCP +PST -> u r i n e r e t: INCORRECT. Should be 'u r i n e r t'
+<nob> p u l v e r a k t i g +ADJ +NEUT +SG -> p u l v e r a k t i g: CORRECT!
+<nob> p u l v e r a k t i g +ADJ +DEF +SG+PL -> p u l v e r a k t i g e: CORRECT!
+<nob> s å p e +N +DEF +PL -> s å p a: INCORRECT. Should be 's å p e n e'
+<nob> s å p e +N +DEF +SG -> s å p a: CORRECT!
+<nob> s j o k k +N +DEF +SG -> s j o k k e n: INCORRECT. Should be 's j o k k e t'
+<nob> s j o k k +N +DEF +PL -> s j o k k e n e: CORRECT!
+<nob> s j o k k +N +NDEF +PL -> s j o k k e r: INCORRECT. Should be 's j o k k'
+<nob> l e g e m l i g +ADJ +NEUT +SG -> l e g e m l i g: CORRECT!
+<nob> u t g j ø r e +V +IMP -> u t g j ø r: CORRECT!
+<nob> u t g j ø r e +V.PTCP +PST -> u t g j ø r e t: INCORRECT. Should be 'u t g j o r t'
+<nob> u t g j ø r e +V +PRS -> u t g j ø r e r: INCORRECT. Should be 'u t g j ø r'
+<nob> s p e d b a r n +N +DEF +PL -> s p e d b a r n e n e: CORRECT!
+<nob> s p e d b a r n +N +DEF +SG -> s p e d b a r n e t: CORRECT!
+<nob> b r i s l i n g +N +DEF +PL -> b r i s l i n g e n e: CORRECT!
+<nob> b r i s l i n g +N +DEF +SG -> b r i s l i n g a: INCORRECT. Should be 'b r i s l i n g e n'
+<nob> b r i s l i n g +N +NDEF +PL -> b r i s l i n g e r: CORRECT!
+<nob> i n f i s e r e +V.PTCP +PST -> i n f i s e r e t: INCORRECT. Should be 'i n f i s e r t'
+<nob> i n f i s e r e +V +PST -> i n f i s e r t e: CORRECT!
+<nob> i n f i s e r e +V +IMP -> i n f i s e r: CORRECT!
+<nob> i n f i s e r e +V.PTCP +PRS -> i n f i s e r e n d e: CORRECT!
+<nob> e k k o l o d d +N +DEF +SG -> e k k o l o d d a t: INCORRECT. Should be 'e k k o l o d d e t'
+<nob> e k k o l o d d +N +DEF +PL -> e k k o l o d d a t e n e: INCORRECT. Should be 'e k k o l o d d a'
+<nob> e k k o l o d d +N +NDEF +PL -> e k k o l o d d: CORRECT!
+<nob> s o m m e r t i d +N +DEF +SG -> s o m m e r t i d e n: INCORRECT. Should be 's o m m e r t i d a'
+<nob> s o m m e r t i d +N +NDEF +PL -> s o m m e r t i d e r: CORRECT!
+<nob> m u s k e l +N +DEF +PL -> m u s k l e n e: CORRECT!
+<nob> m u s k e l +N +DEF +SG -> m u s k e l e n: CORRECT!
+<nob> m u s k e l +N +NDEF +PL -> m u s k l a r: INCORRECT. Should be 'm u s k l e r'
+<nob> b e g r e n s e +V +PST -> b e g r e n s e t: CORRECT!
+<nob> b e g r e n s e t +ADJ +DEF +SG+PL -> b e g r e n s e t e: CORRECT!
+<nob> b e g r e n s e t +ADJ +NEUT +SG -> b e g r e n s e t: CORRECT!
+<nob> m ø n e +N +DEF +PL -> m ø n a n e: INCORRECT. Should be 'm ø n e n e'
+<nob> m ø n e +N +DEF +SG -> m ø n e n: INCORRECT. Should be 'm ø n e t'
+<nob> t o å r i n g +N +DEF +PL -> t o å r i n g e n e: CORRECT!
+<nob> t o å r i n g +N +DEF +SG -> t o å r i n g a: INCORRECT. Should be 't o å r i n g e n'
+<nob> b o t a n i s k +ADJ +DEF +SG+PL -> b o t a n i s k e: CORRECT!
+<nob> b o t a n i s k +ADJ +NEUT +SG -> b o t a n i s k: CORRECT!
+<nob> b r u k e r n a v n +N +DEF +SG -> b r u k e r n a v n e t: CORRECT!
+<nob> b r u k e r n a v n +N +NDEF +PL -> b r u k e r n a v n a r: INCORRECT. Should be 'b r u k e r n a v n'
+<nob> b r u k e r n a v n +N +DEF +PL -> b r u k e r n a v n e n e: CORRECT!
+<nob> s e r v a n t +N +DEF +SG -> s e r v a n t e n: CORRECT!
+<nob> s e r v a n t +N +DEF +PL -> s e r v a n t e n e: CORRECT!
+<nob> s e r v a n t +N +NDEF +PL -> s e r v a n t e r: CORRECT!
+<nob> v i n t e r s o l v e r v +N +NDEF +PL -> v i n t e r s o l v e r v e r: INCORRECT. Should be 'v i n t e r s o l v e r v'
+<nob> v i n t e r s o l v e r v +N +DEF +PL -> v i n t e r s o l v e r v e t e: INCORRECT. Should be 'v i n t e r s o l v e r v a'
+<nob> v i n t e r s o l v e r v +N +DEF +SG -> v i n t e r s o l v e r v e t: CORRECT!
+<nob> b l u n k e +V +PRS -> b l u n k e r: CORRECT!
+<nob> b l u n k e +V +PST -> b l u n k e: INCORRECT. Should be 'b l u n k e t'
+<nob> b l u n k e +V +IMP -> b l u n k e: INCORRECT. Should be 'b l u n k'
+<nob> k o r k e t r e k k e r +N +NDEF +PL -> k o r k e t r e k k e r e: CORRECT!
+<nob> k o r k e t r e k k e r +N +DEF +PL -> k o r k e t r e k k e r n e: CORRECT!
+<nob> k o m m u n i s e r e +V.PTCP +PST -> k o m m u n i s e r t: CORRECT!
+<nob> k o m m u n i s e r e +V +PRS -> k o m m u n i s e r e r: CORRECT!
+<nob> k o m m u n i s e r e +V +IMP -> k o m m u n i s e r: CORRECT!
+<nob> k o m m u n i s e r e +V +PST -> k o m m u n i s e r t e: CORRECT!
+<nob> g e v i r +N +DEF +SG -> g e v i r e t: CORRECT!
+<nob> g e v i r +N +DEF +PL -> g e v i r e n e: INCORRECT. Should be 'g e v i r a'
+<nob> g e v i r +N +NDEF +PL -> g e v i r: CORRECT!
+<nob> h i e r a r k i +N +NDEF +PL -> h i e r a r k i e r: CORRECT!
+<nob> h i e r a r k i +N +DEF +PL -> h i e r a r k i e t e: INCORRECT. Should be 'h i e r a r k i e n e'
+<nob> b o k h o l d e r +N +DEF +PL -> b o k h o l d r a n e: INCORRECT. Should be 'b o k h o l d e r n e'
+<nob> o m f a t t e +V +PST -> o m f a t t e: INCORRECT. Should be 'o m f a t t e t'
+<nob> o m f a t t e +V +PRS -> o m f a t t e r: CORRECT!
+<nob> e k s p o n e r i n g +N +DEF +SG -> e k s p o n e r i n g a: CORRECT!
+<nob> e k s p o n e r i n g +N +DEF +PL -> e k s p o n e r i n g e n e: CORRECT!
+<nob> e k s p o n e r i n g +N +NDEF +PL -> e k s p o n e r i n g e r: CORRECT!
+<nob> k o n t r o l l e r e +V.PTCP +PRS -> k o n t r o l l e r e n d e: CORRECT!
+<nob> k o n t r o l l e r e +V +PRS -> k o n t r o l l e r e r: CORRECT!
+<nob> k o n t r o l l e r e +V.PTCP +PST -> k o n t r o l l e r e t: INCORRECT. Should be 'k o n t r o l l e r t'
+<nob> i s l e n d i n g +N +DEF +PL -> i s l e n d i n g a n e: INCORRECT. Should be 'i s l e n d i n g e n e'
+<nob> i s l e n d i n g +N +DEF +SG -> i s l e n d i n g a: INCORRECT. Should be 'i s l e n d i n g e n'
+<nob> i s l e n d i n g +N +NDEF +PL -> i s l e n d i n g a r: INCORRECT. Should be 'i s l e n d i n g e r'
+<nob> t e a t e r +N +DEF +PL -> t e a t r e n e: INCORRECT. Should be 't e a t r a'
+<nob> t e a t e r +N +NDEF +PL -> t e a t e r e: INCORRECT. Should be 't e a t e r'
+<nob> t e a t e r +N +DEF +SG -> t e a t e r e n: INCORRECT. Should be 't e a t e r e t'
+<nob> f o r v i r r e +V.PTCP +PRS -> f o r v i r r e n d e: CORRECT!
+<nob> f o r v i r r e +V +IMP -> f o r v i r: INCORRECT. Should be 'f o r v i r r'
+<nob> f o r v i r r e +V +PST -> f o r v i r d e: INCORRECT. Should be 'f o r v i r r a'
+<nob> g a f f e l t r u c k +N +DEF +SG -> g a f f e l t r u c k a: INCORRECT. Should be 'g a f f e l t r u c k e n'
+<nob> g a f f e l t r u c k +N +DEF +PL -> g a f f e l t r u c k a a: INCORRECT. Should be 'g a f f e l t r u c k e n e'
+<nob> g a f f e l t r u c k +N +NDEF +PL -> g a f f e l t r u c k a r: INCORRECT. Should be 'g a f f e l t r u c k e r'
+<nob> m a n n s k a p +N +DEF +PL -> m a n n s k a p e n e: CORRECT!
+<nob> m a n n s k a p +N +NDEF +PL -> m a n n s k a p: CORRECT!
+<nob> e t t e r l i g n i n g +N +DEF +SG -> e t t e r l i g n i n g a: INCORRECT. Should be 'e t t e r l i g n i n g e n'
+<nob> e t t e r l i g n i n g +N +NDEF +PL -> e t t e r l i g n i n g a r: INCORRECT. Should be 'e t t e r l i g n i n g e r'
+<nob> e t t e r l i g n i n g +N +DEF +PL -> e t t e r l i g n i n g a n e: INCORRECT. Should be 'e t t e r l i g n i n g e n e'
+<nob> v a n n s e n g +N +DEF +SG -> v a n n s e n g e n: CORRECT!
+<nob> v a n n s e n g +N +DEF +PL -> v a n n s e n g e n e: CORRECT!
+<nob> b o r d e l l +N +DEF +SG -> b o r d e l l e n: INCORRECT. Should be 'b o r d e l l e t'
+<nob> b o r d e l l +N +NDEF +PL -> b o r d e l l e r: CORRECT!
+<nob> b o r d e l l +N +DEF +PL -> b o r d e l l e n e: CORRECT!
+<nob> b i o l o g i +N +DEF +SG -> b i o l o g i e t: INCORRECT. Should be 'b i o l o g i e n'
+<nob> h e m m e l i g h e t s f u l l +ADJ +NEUT +SG -> h e m m e l i g h e t s f u l l: INCORRECT. Should be 'h e m m e l i g h e t s f u l l t'
+<nob> a v d r a g +N +DEF +SG -> a v d r a g e t: CORRECT!
+<nob> a v d r a g +N +DEF +PL -> a v d r a g e n e: CORRECT!
+<nob> k a l k u l a t o r +N +DEF +PL -> k a l k u l a t o r e n e: CORRECT!
+<nob> k a l k u l a t o r +N +NDEF +PL -> k a l k u l a t o r a r: INCORRECT. Should be 'k a l k u l a t o r e r'
+<nob> u m o d e n +ADJ +NEUT +SG -> u m o d e n: INCORRECT. Should be 'u m o d e n t'
+<nob> u m o d e n +ADJ +DEF +SG+PL -> u m o d n e: CORRECT!
+<nob> i n n f l y t e l s e +N +DEF +SG -> i n n f l y t e l s e n: CORRECT!
+<nob> i n n f l y t e l s e +N +DEF +PL -> i n n f l y t e l s e n e: CORRECT!
+<nob> i n n f l y t e l s e +N +NDEF +PL -> i n n f l y t e l s e r: CORRECT!
+<nob> p a r +N +DEF +PL -> p a r e n e: CORRECT!
+<nob> p a r +N +DEF +SG -> p a r e n: INCORRECT. Should be 'p a r e t'
+<nob> s u k k e r r o e +N +NDEF +PL -> s u k k e r r o e r: CORRECT!
+<nob> s u k k e r r o e +N +DEF +PL -> s u k k e r r o e n e: CORRECT!
+<nob> f o r s t a d +N +DEF +PL -> f o r s t a d e n e: INCORRECT. Should be 'f o r s t e d e n e'
+<nob> f o r s t a d +N +DEF +SG -> f o r s t a d e n: CORRECT!
+<nob> f o r s t a d +N +NDEF +PL -> f o r s t a d e r: INCORRECT. Should be 'f o r s t e d e r'
+<nob> e n d e l s e +N +NDEF +PL -> e n d e l s e r: CORRECT!
+<nob> r y p e +N +NDEF +PL -> r y p e r: CORRECT!
+<nob> r y p e +N +DEF +SG -> r y p e n: CORRECT!
+<nob> r y p e +N +DEF +PL -> r y p e n e: CORRECT!
+<nob> b r a k k +ADJ +NEUT +SG -> b r a k k: INCORRECT. Should be 'b r a k t'
+<nob> s p r e +V +PST -> s p r e t: INCORRECT. Should be 's p r e d d e'
+<nob> s p r e +V.PTCP +PST -> s p r e d d: CORRECT!
+<nob> s p r e +V +PRS -> s p r e r: CORRECT!
+<nob> r a m m e +V +PST -> r a m m e t: CORRECT!
+<nob> r a m m e +V +IMP -> r a m m e: INCORRECT. Should be 'r a m'
+<nob> r a m m e +N +NDEF +PL -> r a m m e r: CORRECT!
+<nob> r a m m e +N +DEF +SG -> r a m m e n: CORRECT!
+<nob> r a m m e +N +DEF +PL -> r a m m e n e: CORRECT!
+<nob> n ø y a k t i g h e t +N +DEF +SG -> n ø y a k t i g h e t e n: CORRECT!
+<nob> s j e k k e +V +PST -> s j e k k e t: CORRECT!
+<nob> s j e k k e +V +IMP -> s j e k k e: INCORRECT. Should be 's j e k k'
+<nob> s j e k k e +V +PRS -> s j e k k e r: CORRECT!
+<nob> s a m a r b e i d +N +DEF +PL -> s a m a r b e i d e n e: CORRECT!
+<nob> s a m a r b e i d +N +NDEF +PL -> s a m a r b e i d e r: CORRECT!
+<nob> å m e +N +DEF +SG -> å m e n: CORRECT!
+<nob> å m e +N +DEF +PL -> å m e n e: CORRECT!
+<nob> å m e +N +NDEF +PL -> å m e r: CORRECT!
+<nob> r å o l j e +N +NDEF +PL -> r å o l j e r: CORRECT!
+<nob> r å o l j e +N +DEF +PL -> r å o l j e n e: CORRECT!
+<nob> g a s s p e d a l +N +DEF +SG -> g a s s p e d a l e n: CORRECT!
+<nob> g a s s p e d a l +N +DEF +PL -> g a s s p e d a l e n e: CORRECT!
+<nob> g a s s p e d a l +N +NDEF +PL -> g a s s p e d a l e r: CORRECT!
+<nob> v a n s k e l i g g j ø r e +V +PST -> v a n s k e l i g g e l i g g e n: INCORRECT. Should be 'v a n s k e l i g g j o r d e'
+<nob> v a n s k e l i g g j ø r e +V.PTCP +PST -> v a n s k e l i g g j ø r d: INCORRECT. Should be 'v a n s k e l i g g j o r t'
+<nob> v a n s k e l i g g j ø r e +V.PTCP +PRS -> v a n s k e l i g g j ø r e n d e: CORRECT!
+<nob> g r a n d _ d a n o i s +N +DEF +SG -> g r a n d _ d a n o i s e n: CORRECT!
+<nob> g r a n d _ d a n o i s +N +DEF +PL -> g r a n d _ d a n o i s e n e: CORRECT!
+<nob> g r a n d _ d a n o i s +N +NDEF +PL -> g r a n d _ d a n o i s e r: CORRECT!
+<nob> i n n t e k t s s k a t t +N +DEF +SG -> i n n t e k t s s k a t t e n: CORRECT!
+<nob> i n n t e k t s s k a t t +N +NDEF +PL -> i n n t e k t s s k a t t a r: INCORRECT. Should be 'i n n t e k t s s k a t t e r'
+<nob> a d v e n t s k a l e n d e r +N +DEF +PL -> a d v e n t s k a l e n d r a n e: INCORRECT. Should be 'a d v e n t s k a l e n d e r n e'
+<nob> a d v e n t s k a l e n d e r +N +NDEF +PL -> a d v e n t s k a l e n d e r e: CORRECT!
+<nob> a s j e t t +N +NDEF +PL -> a s j e t t e r: CORRECT!
+<nob> a s j e t t +N +DEF +PL -> a s j e t t e n e: CORRECT!
+<nob> a s j e t t +N +DEF +SG -> a s j e t t e n: CORRECT!
+<nob> f a l l o s +N +DEF +PL -> f a l l o s: INCORRECT. Should be 'f a l l o s e n e'
+<nob> f a l l o s +N +DEF +SG -> f a l l o s e t: INCORRECT. Should be 'f a l l o s e n'
+<nob> f a l l o s +N +NDEF +PL -> f a l l o s e r: CORRECT!
+<nob> p u p p +N +NDEF +PL -> p u p p a r: INCORRECT. Should be 'p u p p e r'
+<nob> b o m +N +NDEF +PL -> b o m m e r: CORRECT!
+<nob> b o m +N +DEF +PL -> b o m m e n e: CORRECT!
+<nob> b l i n d h e t +N +DEF +SG -> b l i n d h e t e n: INCORRECT. Should be 'b l i n d h e t a'
+<nob> a r g u m e n t +N +DEF +PL -> a r g u m e n t e n e: INCORRECT. Should be 'a r g u m e n t a'
+<nob> a r g u m e n t +N +NDEF +PL -> a r g u m e n t e r: CORRECT!
+<nob> a r g u m e n t +N +DEF +SG -> a r g u m e n t e t: CORRECT!
+<nob> p l o m m e +N +DEF +SG -> p l o m m e n: CORRECT!
+<nob> p l o m m e +N +DEF +PL -> p l o m m e n e: CORRECT!
+<nob> m i s l i k e +V +PST -> m i s l i k e t: INCORRECT. Should be 'm i s l i k t e'
+<nob> m i s l i k e +V.PTCP +PST -> m i s l i k e n: INCORRECT. Should be 'm i s l i k t'
+<nob> m i s l i k e +V +IMP -> m i s l i k e: INCORRECT. Should be 'm i s l i k'
+<nob> m i s l i k e +V.PTCP +PRS -> m i s l i k e n d e: CORRECT!
+<nob> t o m m e l +N +DEF +PL -> t o m l l e n e: INCORRECT. Should be 't o m l e n e'
+<nob> s n ø s t o r m +N +DEF +SG -> s n ø s t o r m e n: CORRECT!
+<nob> s n ø s t o r m +N +DEF +PL -> s n ø s t o r m e n e: CORRECT!
+<nob> s n ø s t o r m +N +NDEF +PL -> s n ø s t o r m e r: CORRECT!
+<nob> f o r s k j e l l +N +NDEF +PL -> f o r s k j e l l: INCORRECT. Should be 'f o r s k j e l l e r'
+<nob> f o r s k j e l l +N +DEF +PL -> f o r s k j e l l e n e: CORRECT!
+<nob> p u t e t r e k k +N +DEF +PL -> p u t e t r e k k e n e: CORRECT!
+<nob> p u t e t r e k k +N +DEF +SG -> p u t e t r e k k e t: CORRECT!
+<nob> s a l o m o n e r +N +DEF +PL -> s a l o m o n e r n e: CORRECT!
+<nob> s a l o m o n e r +N +NDEF +PL -> s a l o m o n e r e r: INCORRECT. Should be 's a l o m o n e r e'
+<nob> s a l o m o n e r +N +DEF +SG -> s a l o m o n e r e n: CORRECT!
+<nob> t u r n e r +N +NDEF +PL -> t u r n e r e: CORRECT!
+<nob> t u r n e r +N +DEF +SG -> t u r n e r e n: CORRECT!
+<nob> b u r u n d i e r +N +DEF +SG -> b u r u n d i e r e n: CORRECT!
+<nob> b u r u n d i e r +N +NDEF +PL -> b u r u n d i e r e: CORRECT!
+<nob> f o r m å l +N +DEF +SG -> f o r m å l e t: CORRECT!
+<nob> f o r m å l +N +DEF +PL -> f o r m å l e n e: CORRECT!
+<nob> f o r m å l +N +NDEF +PL -> f o r m å l e r: INCORRECT. Should be 'f o r m å l'
+<nob> f r e m t i d +N +DEF +PL -> f r e m t i d e n e: CORRECT!
+<nob> f r e m t i d +N +DEF +SG -> f r e m t i d e n: CORRECT!
+<nob> h a l v a u t o m a t i s k +ADJ +DEF +SG+PL -> h a l v a u t o m a t i s k e: CORRECT!
+<nob> h a l v a u t o m a t i s k +ADJ +NEUT +SG -> h a l v a u t o m a t i s k: CORRECT!
+<nob> f r y s e r +N +DEF +SG -> f r y s e r e n: CORRECT!
+<nob> s v a r t +ADJ +NEUT +SG -> s v a r t: CORRECT!
+<nob> s v a r t +ADJ +SPRL +NDEF -> s v a r t e s t: CORRECT!
+<nob> s v a r t +ADJ +DEF +SG+PL -> s v a r t e: CORRECT!
+<nob> b y g g e +V +PST -> b y g g e t: CORRECT!
+<nob> b y g g e +V +PRS -> b y g g e r: CORRECT!
+<nob> b y g g e +V.PTCP +PST -> b y g g e t: CORRECT!
+<nob> b y g g e +V +IMP -> b y g g e: INCORRECT. Should be 'b y g g'
+<nob> b y g g +N +DEF +SG -> b y g g e n: INCORRECT. Should be 'b y g g e t'
+<nob> l y s +ADJ +CMPR -> l y s a r e: INCORRECT. Should be 'l y s e r e'
+<nob> l y s +ADJ +DEF +SG+PL -> l y s e: CORRECT!
+<nob> l y s +N +NDEF +PL -> l y s: CORRECT!
+<nob> l y s +N +DEF +PL -> l y s e n e: CORRECT!
+<nob> l y s +N +DEF +SG -> l y s e t: CORRECT!
+<nob> a r b e i d e +V +PST -> a r b e i d e t: CORRECT!
+<nob> a r b e i d e +V.PTCP +PST -> a r b e i d e t: INCORRECT. Should be 'a r b e i d a'
+<nob> a r b e i d e +V.PTCP +PRS -> a r b e i d e n d e: CORRECT!
+<nob> b a d e k a r +N +DEF +PL -> b a d e k a r e n e: CORRECT!
+<nob> b a d e k a r +N +DEF +SG -> b a d e k a r e n: INCORRECT. Should be 'b a d e k a r e t'
+<nob> b a d e k a r +N +NDEF +PL -> b a d e k a r a r: INCORRECT. Should be 'b a d e k a r'
+<nob> s e p a r a t +ADJ +NEUT +SG -> s e p a r a t: CORRECT!
+<nob> s e p a r a t +ADJ +DEF +SG+PL -> s e p a r a t e: CORRECT!
+<nob> m e r k e l i g +ADJ +NEUT +SG -> m e r k e l i g: CORRECT!
+<nob> m e r k e l i g +ADJ +DEF +SG+PL -> m e r k e l i g e: CORRECT!
+<nob> f a r g e s t o f f +N +DEF +PL -> f a r g e s t o f f a: CORRECT!
+<nob> f a r g e s t o f f +N +NDEF +PL -> f a r g e s t o f f a r: INCORRECT. Should be 'f a r g e s t o f f e r'
+<nob> s t r y k e j e r n +N +DEF +PL -> s t r y k e j e r n e n e: CORRECT!
+<nob> s t r y k e j e r n +N +NDEF +PL -> s t r y k e j e r n: CORRECT!
+<nob> s t r y k e j e r n +N +DEF +SG -> s t r y k e j e r n e t: CORRECT!
+<nob> f o r o r d +N +DEF +SG -> f o r o r d e t: CORRECT!
+<nob> f o r o r d +N +NDEF +PL -> f o r o r d: CORRECT!
+<nob> f o r o r d +N +DEF +PL -> f o r o r d e n e: INCORRECT. Should be 'f o r o r d a'
+<nob> b u e s k y t t e r +N +DEF +SG -> b u e s k y t t e r e n: CORRECT!
+<nob> b u e s k y t t e r +N +NDEF +PL -> b u e s k y t t e r e: CORRECT!
+<nob> b u e s k y t t e r +N +DEF +PL -> b u e s k y t t e r n e: CORRECT!
+<nob> e l e m e n t æ r +ADJ +NEUT +SG -> e l e m e n t æ r t: CORRECT!
+<nob> h a l v h j e r t e t +ADJ +DEF +SG+PL -> h a l v h j e r t e: INCORRECT. Should be 'h a l v h j e r t e t e'
+<nob> h a l v h j e r t e t +ADJ +NEUT +SG -> h a l v h j e r t e t: CORRECT!
+<nob> f o r v a r s e l +N +DEF +SG -> f o r v a r s e l e n: INCORRECT. Should be 'f o r v a r s l e t'
+<nob> f o r v a r s e l +N +DEF +PL -> f o r v a r s e l e n e: INCORRECT. Should be 'f o r v a r s l e n e'
+<nob> f o r v a r s e l +N +NDEF +PL -> f o r v a r s e l e r: INCORRECT. Should be 'f o r v a r s e l'
+<nob> k a l e n d e r +N +NDEF +PL -> k a l e n d e r e: CORRECT!
+<nob> k a l e n d e r +N +DEF +SG -> k a l e n d e r e n: CORRECT!
+<nob> k a l e n d e r +N +DEF +PL -> k a l e n d r a n e: INCORRECT. Should be 'k a l e n d e r n e'
+<nob> m o n o l o g +N +DEF +SG -> m o n o l o g e n: CORRECT!
+<nob> m o n o l o g +N +DEF +PL -> m o n o l o g e n e: CORRECT!
+<nob> g j e n n o m g å +V +IMP -> g j e n n o m g å: CORRECT!
+<nob> g j e n n o m g å +V +PRS -> g j e n n o m g å r: CORRECT!
+<nob> g j e n n o m g å +V.PTCP +PST -> g j e n n o m g å n: INCORRECT. Should be 'g j e n n o m g å t t'
+<nob> g j e n n o m g å +V +PST -> g j e n n o m g e n: INCORRECT. Should be 'g j e n n o m g i k k'
+<nob> g j e n n o m g å +V.PTCP +PRS -> g j e n n o m g å e n d e: CORRECT!
+<nob> m a n n +N +NDEF +PL -> m a n n e r: INCORRECT. Should be 'm e n n'
+<nob> m a n n +N +DEF +PL -> m a n n e n e: INCORRECT. Should be 'm e n n e n e'
+<nob> m a n n +N +DEF +SG -> m a n n e n: CORRECT!
+<nob> l j å +N +DEF +SG -> l j å e t: INCORRECT. Should be 'l j å e n'
+<nob> l j å +N +NDEF +PL -> l j å e r: CORRECT!
+<nob> l j å +N +DEF +PL -> l j å e n e: CORRECT!
+<nob> r e n n e l ø k k e +N +DEF +SG -> r e n n e l ø k k e t: INCORRECT. Should be 'r e n n e l ø k k e n'
+<nob> r e n n e l ø k k e +N +DEF +PL -> r e n n e l ø k k e n e: CORRECT!
+<nob> r e n n e l ø k k e +N +NDEF +PL -> r e n n e l ø k k e r: CORRECT!
+<nob> ø y e l o k k +N +DEF +SG -> ø y e l o k k e t: CORRECT!
+<nob> ø y e l o k k +N +DEF +PL -> ø y e l o k k e n e: CORRECT!
+<nob> c e s i u m +N +DEF +SG -> c e s i u m e t: CORRECT!
+<nob> a f a r +N +DEF +PL -> e f r e n e: INCORRECT. Should be 'a f a r e n e'
+<nob> a f a r +N +NDEF +PL -> m e s: INCORRECT. Should be 'a f a r e r'
+<nob> b e l g i e r +N +NDEF +PL -> b e l g i e r e: CORRECT!
+<nob> b e l g i e r +N +DEF +SG -> b e l g i e r e n: CORRECT!
+<nob> u n g a r s k +N +DEF +SG -> u n g a r s k e t: INCORRECT. Should be 'u n g a r s k e n'
+<nob> u n g a r s k +ADJ +DEF +SG+PL -> u n g a r s k e: CORRECT!
+<nob> u n g a r s k +ADJ +NEUT +SG -> u n g a r s k: CORRECT!
+<nob> s e i s m o l o g i s k +ADJ +DEF +SG+PL -> s e i s m o l o g i s k e: CORRECT!
+<nob> s e i s m o l o g i s k +ADJ +NEUT +SG -> s e i s m o l o g i s k: CORRECT!
+<nob> r e a g e r e +V +IMP -> r e a g e r: CORRECT!
+<nob> r e a g e r e +V +PRS -> r e a g e r e r: CORRECT!
+<nob> r e a g e r e +V.PTCP +PRS -> r e a g e r e n d e: CORRECT!
+<nob> r e a g e r e +V.PTCP +PST -> r e a g e r e t: INCORRECT. Should be 'r e a g e r t'
+<nob> t r a n s p o r t e r e +V +PRS -> t r a n s p o r t e r e r: CORRECT!
+<nob> t r a n s p o r t e r e +V.PTCP +PST -> t r a n s p o r t e r e t: INCORRECT. Should be 't r a n s p o r t e r t'
+<nob> l æ r e b o k +N +NDEF +PL -> l æ r e b o k e r: INCORRECT. Should be 'l æ r e b ø k e r'
+<nob> l æ r e b o k +N +DEF +SG -> l æ r e b o k e n: CORRECT!
+<nob> l æ r e b o k +N +DEF +PL -> l æ r e b o k a n e: INCORRECT. Should be 'l æ r e b ø k e n e'
+<nob> l y s t +N +DEF +SG -> l y s t e n: CORRECT!
+<nob> l y s t +N +NDEF +PL -> l y s t e r: CORRECT!
+<nob> m i s t a n k e +N +DEF +PL -> m i s t a n k e n e: CORRECT!
+<nob> s u k k e r r ø r +N +DEF +PL -> s u k k e r r ø r e n e: CORRECT!
+<nob> s u k k e r r ø r +N +DEF +SG -> s u k k e r r ø r e n: INCORRECT. Should be 's u k k e r r ø r e t'
+<nob> f a l l i s k +ADJ +NEUT +SG -> f a l l i s k: CORRECT!
+<nob> f a n t o m +N +DEF +SG -> f a n t o m e n: INCORRECT. Should be 'f a n t o m e t'
+<nob> f a n t o m +N +NDEF +PL -> f a n t o m e r: CORRECT!
+<nob> f a n t o m +N +DEF +PL -> f a n t o m e n e: CORRECT!
+<nob> u v æ r +N +NDEF +PL -> u v - r e r: INCORRECT. Should be 'u v æ r'
+<nob> u v æ r +N +DEF +PL -> u v - r e n e: INCORRECT. Should be 'u v æ r a'
+<nob> u v æ r +N +DEF +SG -> u v - r e n: INCORRECT. Should be 'u v æ r e t'
+<nob> o r d k l a s s e +N +NDEF +PL -> o r d k l a s s e r: CORRECT!
+<nob> o r d k l a s s e +N +DEF +SG -> o r d k l a s s e n: CORRECT!
+<nob> m a u r i t i e r +N +DEF +SG -> m a u r i t i e r e n: CORRECT!
+<nob> m a u r i t i e r +N +NDEF +PL -> m a u r i t i e r e r: INCORRECT. Should be 'm a u r i t i e r e'
+<nob> m a u r i t i e r +N +DEF +PL -> m a u r i t i e r n e: CORRECT!
+<nob> a p o s t r o f +N +NDEF +PL -> a p o s t r o f e r: CORRECT!
+<nob> a p o s t r o f +N +DEF +SG -> a p o s t r o f e n: CORRECT!
+<nob> k o m o r e r +N +DEF +SG -> k o m o r e r e n: CORRECT!
+<nob> k o m o r e r +N +NDEF +PL -> k o m o r e r e: CORRECT!
+<nob> k o m o r e r +N +DEF +PL -> k o m o r e r n e: CORRECT!
+<nob> s y v e n d e d a g s a d v e n t i s t +N +NDEF +PL -> s y v e n d e d a g s a d v e n t i s t a r: INCORRECT. Should be 's y v e n d e d a g s a d v e n t i s t e r'
+<nob> s y v e n d e d a g s a d v e n t i s t +N +DEF +PL -> s y v e n d e d a g s a d v e n t i s t a n e: INCORRECT. Should be 's y v e n d e d a g s a d v e n t i s t e n e'
+<nob> s y v e n d e d a g s a d v e n t i s t +N +DEF +SG -> s y v e n d e d a g s a d v e n t i s t a n d e: INCORRECT. Should be 's y v e n d e d a g s a d v e n t i s t e n'
+<nob> b r a n n m u r +N +DEF +SG -> b r a n n m u r e n: CORRECT!
+<nob> b r a n n m u r +N +DEF +PL -> b r a n n m u r e n e: CORRECT!
+<nob> b r a n n m u r +N +NDEF +PL -> b r a n n m u r a r: INCORRECT. Should be 'b r a n n m u r e r'
+<nob> h e l i k o p t e r +N +NDEF +PL -> h e l i k o p t e r e: INCORRECT. Should be 'h e l i k o p t r e'
+<nob> h e l i k o p t e r +N +DEF +SG -> h e l i k o p t e r e n: INCORRECT. Should be 'h e l i k o p t r e t'
+<nob> h e l i k o p t e r +N +DEF +PL -> h e l i k o p t e r n e: INCORRECT. Should be 'h e l i k o p t r e n e'
+<nob> s k o l e v e s k e +N +DEF +SG -> s k o l e v e s k a: CORRECT!
+<nob> s k o l e v e s k e +N +DEF +PL -> s k o l e v e s k e n e: CORRECT!
+<nob> j i d d i s c h +ADJ +DEF +SG+PL -> j i d d i s c h e: CORRECT!
+<nob> j i d d i s c h +ADJ +NEUT +SG -> j i d d i s c h a t: INCORRECT. Should be 'j i d d i s c h'
+<nob> j i d d i s c h +N +DEF +SG -> j i d d i s c h e n: CORRECT!
+<nob> f o n t e n e +N +NDEF +PL -> f o n t e n e r: CORRECT!
+<nob> f o n t e n e +N +DEF +PL -> f o n t e n a: INCORRECT. Should be 'f o n t e n e n e'
+<nob> f o n t e n e +N +DEF +SG -> f o n t e n a: INCORRECT. Should be 'f o n t e n e n'
+<nob> t r e n i n g +N +DEF +PL -> t r e n i n g e n e: CORRECT!
+<nob> t r e n i n g +N +DEF +SG -> t r e n i n g a: CORRECT!
+<nob> p a s s o r d +N +DEF +PL -> p a s s o r d e n e: CORRECT!
+<nob> p a s s o r d +N +DEF +SG -> p a s s o r d e t: CORRECT!
+<nob> p a s s o r d +N +NDEF +PL -> p a s s o r d: CORRECT!
+<nob> g r u e +N +DEF +SG -> g r u e n: CORRECT!
+<nob> g r u e +N +NDEF +PL -> g r u e r: CORRECT!
+<nob> g r u e +N +DEF +PL -> g r u e n e: CORRECT!
+<nob> f r e g a t t +N +NDEF +PL -> f r e g a t t e r: CORRECT!
+<nob> f r e g a t t +N +DEF +SG -> f r e g a t t e n: CORRECT!
+<nob> s v i g e r m o r +N +DEF +SG -> s v i g e r m o r e n: INCORRECT. Should be 's v i g e r m o r a'
+<nob> s v i g e r m o r +N +DEF +PL -> s v i g e r m o r e n e: INCORRECT. Should be 's v i g e r m ø d r e n e'
+<nob> s v i g e r m o r +N +NDEF +PL -> s v i g e r m o r e r: INCORRECT. Should be 's v i g e r m ø d r e r'
+<nob> l e v e s t e d +N +NDEF +PL -> l e v e s t e d: INCORRECT. Should be 'l e v e s t e d e r'
+<nob> l e v e s t e d +N +DEF +PL -> l e v e s t e d e n e: CORRECT!
+<nob> l e v e s t e d +N +DEF +SG -> l e v e s t e d e t: CORRECT!
+<nob> e l e k t r i s i t e t +N +DEF +SG -> e l e k t r i s i t e t e n: CORRECT!
+<nob> s i g ø y n e r +N +NDEF +PL -> s i g ø y n e r e: CORRECT!
+<nob> l ø s +ADJ +SPRL +DEF -> l ø s e s t e: CORRECT!
+<nob> l ø s +ADJ +SPRL +NDEF -> l e s t e s: INCORRECT. Should be 'l ø s e s t'
+<nob> l ø s +ADJ +CMPR -> l ø s: INCORRECT. Should be 'l ø s e r e'
+<nob> l ø s +ADJ +DEF +SG+PL -> l ø s e: CORRECT!
+<nob> d v e r g b j e r k +N +NDEF +PL -> d v e r g b j e r k: INCORRECT. Should be 'd v e r g b j e r k e r'
+<nob> d v e r g b j e r k +N +DEF +SG -> d v e r g b j e r k e t: INCORRECT. Should be 'd v e r g b j e r k e n'
+<nob> s n ø b r e t t k j ø r e r +N +DEF +PL -> s n ø b r e t t k j ø r e r n e: CORRECT!
+<nob> m o r d +N +DEF +PL -> m o r d e n e: CORRECT!
+<nob> m o r d +N +NDEF +PL -> m o r d: CORRECT!
+<nob> f o r s i n k e l s e +N +DEF +SG -> f o r s i n k e l s e n: CORRECT!
+<nob> f o r s i n k e l s e +N +NDEF +PL -> f o r s i n k e l s e r: CORRECT!
+<nob> b e r ø m t h e t +N +DEF +SG -> b e r ø m t h e t e n: CORRECT!
+<nob> b e r ø m t h e t +N +NDEF +PL -> b e r ø m t h e t e r: CORRECT!
+<nob> b e r ø m t h e t +N +DEF +PL -> b e r ø m t h e t a n e: INCORRECT. Should be 'b e r ø m t h e t e n e'
+<nob> f l a g g e r m u s +N +DEF +SG -> f l a g g e r m u s e n: CORRECT!
+<nob> f l a g g e r m u s +N +DEF +PL -> f l a g g e r m u s a n e: INCORRECT. Should be 'f l a g g e r m u s e n e'
+<nob> k o m f y r +N +DEF +PL -> k o m f y r e n e: CORRECT!
+<nob> k o m f y r +N +NDEF +PL -> k o m f y r e r: CORRECT!
+<nob> e l m o t o r +N +NDEF +PL -> e l m o t o r a r: INCORRECT. Should be 'e l m o t o r e r'
+<nob> e l m o t o r +N +DEF +SG -> e l m o t o r e n: CORRECT!
+<nob> m a n d e l b e t e n n e l s e +N +DEF +SG -> m a n d e l b e t e n n e l s e n: CORRECT!
+<nob> b r a t t +ADJ +NEUT +SG -> b r a t t: CORRECT!
+<nob> b r a t t +ADJ +CMPR -> b r a t t a: INCORRECT. Should be 'b r a t t e r e'
+<nob> b r a t t +ADJ +SPRL +DEF -> b r a t t a s t e: INCORRECT. Should be 'b r a t t e s t e'
+<nob> ø k s +N +NDEF +PL -> ø k s: INCORRECT. Should be 'ø k s e r'
+<nob> s k j æ r e +N +DEF +PL -> s k j æ r e n e: CORRECT!
+<nob> s k j æ r e +V.PTCP +PST -> s k j æ r e t: INCORRECT. Should be 's k å r e t'
+<nob> s k j æ r e +N +NDEF +PL -> s k j æ r e r: CORRECT!
+<nob> s k j æ r e +N +DEF +SG -> s k j æ r e n: CORRECT!
+<nob> s k j æ r e +V +PST -> s k j r e t: INCORRECT. Should be 's k a r'
+<nob> s k j æ r e +V +IMP -> s k j æ r: CORRECT!
+<nob> s k j æ r e +V +PRS -> s k j æ r e r: CORRECT!
+<nob> n a k k e +N +DEF +SG -> n a k k a: INCORRECT. Should be 'n a k k e n'
+<nob> n a k k e +N +DEF +PL -> n a k k a: INCORRECT. Should be 'n a k k e n e'
+<nob> b r u +N +NDEF +PL -> b r u e r: CORRECT!
+<nob> b r u +N +DEF +PL -> b r u s: INCORRECT. Should be 'b r u e n e'
+<nob> b r u +N +DEF +SG -> b r u e n: INCORRECT. Should be 'b r u a'
+<nob> e r k e b i s k o p +N +NDEF +PL -> e r k e b i s k o p: INCORRECT. Should be 'e r k e b i s k o p e r'
+<nob> e r k e b i s k o p +N +DEF +SG -> e r k e b i s k o p e t: INCORRECT. Should be 'e r k e b i s k o p e n'
+<nob> e r k e b i s k o p +N +DEF +PL -> e r k e b i s k o p a n e: INCORRECT. Should be 'e r k e b i s k o p e n e'
+<nob> m i n i s t e r +N +DEF +SG -> m i n i s t e r e n: CORRECT!
+<nob> m i n i s t e r +N +NDEF +PL -> m i n i s t r e: INCORRECT. Should be 'm i n i s t e r e'
+<nob> l u t h e r a n e r +N +NDEF +PL -> l u t h e r a n e r a n e r a r: INCORRECT. Should be 'l u t h e r a n e r e'
+<nob> l u t h e r a n e r +N +DEF +SG -> l u t h e r a n e r e n: CORRECT!
+<nob> l u t h e r a n e r +N +DEF +PL -> l u t h e r a n e r n e: CORRECT!
+<nob> a l k o h o l m i s b r u k +N +DEF +SG -> a l k o h o l m i s b r u k e t: CORRECT!
+<nob> t i l h e n g e r +N +NDEF +PL -> t i l h e n g e r e: CORRECT!
+<nob> t i l h e n g e r +N +DEF +SG -> t i l h e n g e r e n: CORRECT!
+<nob> t i l h e n g e r +N +DEF +PL -> t i l h e n g e r n e: CORRECT!
+<nob> t o g +N +NDEF +PL -> t o g e r: INCORRECT. Should be 't o g'
+<nob> t o g +N +DEF +SG -> t o g e n: INCORRECT. Should be 't o g e t'
+<nob> t o g +N +DEF +PL -> t o g e n e: CORRECT!
+<nob> f r i s p a r k +N +DEF +PL -> f r i s p a r k e n e: CORRECT!
+<nob> f r i s p a r k +N +NDEF +PL -> f r i s p a r k e r: INCORRECT. Should be 'f r i s p a r k'
+<nob> f r i s p a r k +N +DEF +SG -> f r i s p a r k e n: INCORRECT. Should be 'f r i s p a r k e t'
+<nob> a r k o n t +N +DEF +SG -> a r k o n t e t: INCORRECT. Should be 'a r k o n t e n'
+<nob> a r k o n t +N +NDEF +PL -> a r k o n t e r: CORRECT!
+<nob> a r k o n t +N +DEF +PL -> a r k o n t e n e: CORRECT!
+<nob> t o m a t +N +DEF +SG -> t o m a t e n: CORRECT!
+<nob> t o m a t +N +DEF +PL -> t o m a t a n e: INCORRECT. Should be 't o m a t e n e'
+<nob> t o m a t +N +NDEF +PL -> t o m a t e r: CORRECT!
+<nob> c e l l e +N +DEF +SG -> c e l l e n: CORRECT!
+<nob> c e l l e +N +DEF +PL -> c e l l e n e: CORRECT!
+<nob> k r e e r e +V.PTCP +PST -> k r e e r e t: INCORRECT. Should be 'k r e e r t'
+<nob> k r e e r e +V +IMP -> k r e e r: CORRECT!
+<nob> k r e e r e +V +PRS -> k r e e r e r: CORRECT!
+<nob> k r e e r e +V.PTCP +PRS -> k r e e r e n d e: CORRECT!
+<nob> k r e e r e +V +PST -> k r e e r t e: CORRECT!
+<nob> s t a n d a r d i s e r e +V.PTCP +PST -> s t a n d a r d i s e r t: CORRECT!
+<nob> s t a n d a r d i s e r e +V +IMP -> s t a n d a r d i s e r: CORRECT!
+<nob> s t a n d a r d i s e r e +V +PST -> s t a n d a r d i s e r t e: CORRECT!
+<nob> f o r s a g e +V +PRS -> f o r s a g e r: CORRECT!
+<nob> f o r s a g e +V +PST -> f o r s a g d e: INCORRECT. Should be 'f o r s a g a'
+<nob> b l y +N +DEF +SG -> b l y e t: CORRECT!
+<nob> v i t e n s k a p e l i g +ADJ +DEF +SG -> v i t e n s k a p e l i g e: CORRECT!
+<nob> v i t e n s k a p e l i g +ADJ +NEUT +SG -> v i t e n s k a p e l i g: CORRECT!
+<nob> b e s t e v e n n +N +NDEF +PL -> b e s t e v e n n e r: CORRECT!
+<nob> b e s t e v e n n +N +DEF +PL -> b e s t e v e n n e n e: CORRECT!
+<nob> b e s t e v e n n +N +DEF +SG -> b e s t e v e n n e t: INCORRECT. Should be 'b e s t e v e n n e n'
+<nob> g r å +ADJ +DEF +SG+PL -> g r å e: CORRECT!
+<nob> g r å +ADJ +CMPR -> g r å e r: INCORRECT. Should be 'g r å e r e'
+<nob> g r å +ADJ +NEUT +SG -> g r å t t: CORRECT!
+<nob> g r å +ADJ +SPRL +DEF -> g r å a s t e: INCORRECT. Should be 'g r å e s t e'
+<nob> k r e a t i v +ADJ +DEF +SG+PL -> k r e a t i v e: CORRECT!
+<nob> k r e a t i v +ADJ +NEUT +SG -> k r e a t i v: INCORRECT. Should be 'k r e a t i v t'
+<nob> m o n g o l s k +ADJ +DEF +SG+PL -> m o n g o l s k e: CORRECT!
+<nob> m o n g o l s k +ADJ +NEUT +SG -> m o n g o l s k: CORRECT!
+<nob> b a k g r u n n +N +NDEF +PL -> b a k g r u n n e r: CORRECT!
+<nob> b a k g r u n n +N +DEF +PL -> b a k g r u n n e n e: CORRECT!
+<nob> n i e s e +N +DEF +SG -> n i e s e n: CORRECT!
+<nob> n i e s e +N +DEF +PL -> n i e s: INCORRECT. Should be 'n i e s e n e'
+<nob> n i e s e +N +NDEF +PL -> n i e s e r: CORRECT!
+<nob> p o r ø s +ADJ +NEUT +SG -> p o r ø s t: CORRECT!
+<nob> p o r ø s +ADJ +DEF +SG+PL -> p o r ø s e: CORRECT!
+<nob> h a l v t i m e +N +DEF +SG -> h a l v t i m e n: CORRECT!
+<nob> h a l v t i m e +N +NDEF +PL -> h a l v t i m e r: CORRECT!
+<nob> f o r e k o m s t +N +DEF +SG -> f o r e k o m s t e n: CORRECT!
+<nob> f o r e k o m s t +N +DEF +PL -> f o r e k o m s t e n e: CORRECT!
+<nob> f o r e k o m s t +N +NDEF +PL -> f o r e k o m s t e r: CORRECT!
+<nob> k o n s e n t r a s j o n +N +DEF +PL -> k o n s e n t r a s j o n a n e: INCORRECT. Should be 'k o n s e n t r a s j o n e n e'
+<nob> k o n s e n t r a s j o n +N +NDEF +PL -> k o n s e n t r a s j o n e r: CORRECT!
+<nob> k o n s e n t r a s j o n +N +DEF +SG -> k o n s e n t r a s j o n e n: CORRECT!
+<nob> b ø r s t e +V.PTCP +PRS -> b ø r s t e e n d e: INCORRECT. Should be 'b ø r s t e n d e'
+<nob> b ø r s t e +N +DEF +SG -> b ø r s t a: INCORRECT. Should be 'b ø r s t e n'
+<nob> b ø r s t e +N +NDEF +PL -> b ø r s t e r: CORRECT!
+<nob> b ø r s t e +V +PST -> b ø r s t e t: CORRECT!
+<nob> b ø r s t e +V +PRS -> b ø r s t e r: CORRECT!
+<nob> a d j ø +N +NDEF +PL -> a d j ø e r: INCORRECT. Should be 'a d j ø'
+<nob> a d j ø +N +DEF +PL -> a d j ø e n e: CORRECT!
+<nob> a d j ø +N +DEF +SG -> a d j ø e t: CORRECT!
+<nob> a t o m +N +DEF +SG -> a t o m e n: INCORRECT. Should be 'a t o m e t'
+<nob> a t o m +N +DEF +PL -> a t o m e n e: INCORRECT. Should be 'a t o m a'
+<nob> a t o m +N +NDEF +PL -> a t o m e r: CORRECT!
+<nob> t e r p e n t i n +N +DEF +SG -> t e r p e n t i n e t: INCORRECT. Should be 't e r p e n t i n e n'
+<nob> m i n o r i t e t s g r u p p e +N +NDEF +PL -> m i n o r i t e t s g r u p p e r: CORRECT!
+<nob> m i n o r i t e t s g r u p p e +N +DEF +SG -> m i n o r i t e t s g r u p p a: CORRECT!
+<nob> m i n o r i t e t s g r u p p e +N +DEF +PL -> m i n o r i t e t s g r u p p e a: INCORRECT. Should be 'm i n o r i t e t s g r u p p e n e'
+<nob> b r a s m e +N +DEF +PL -> b r a s m e n e: CORRECT!
+<nob> b r a s m e +N +DEF +SG -> b r a s m e n: CORRECT!
+<nob> b r a s m e +N +NDEF +PL -> b r a s m e r: CORRECT!
+<nob> v a t n +N +DEF +SG -> v a t n e t: CORRECT!
+<nob> v a t n +N +NDEF +PL -> v a t n a r: INCORRECT. Should be 'v a t n'
+<nob> k r y d d e r +N +DEF +PL -> k r y d d e r n e: CORRECT!
+<nob> k r y d d e r +N +DEF +SG -> k r y d d e r e n: INCORRECT. Should be 'k r y d d e r e t'
+<nob> v e r d s e t t e +V +PRS -> v e r d s e t t e r: CORRECT!
+<nob> v e r d s e t t e +V.PTCP +PST -> v e r d s e t t e t: INCORRECT. Should be 'v e r d s a t t'
+<nob> v e r d s e t t e +V.PTCP +PRS -> v e r d s e t t e n d e: CORRECT!
+<nob> v e r d s e t t e +V +PST -> v e r d s e t t e t: INCORRECT. Should be 'v e r d s a t t e'
+<nob> v e r d s e t t e +V +IMP -> v e r d s e t t e: INCORRECT. Should be 'v e r d s e t t'
+<nob> e n d o t e r m +ADJ +NEUT +SG -> e n d o t e r m: INCORRECT. Should be 'e n d o t e r m t'
+<nob> e n d o t e r m +ADJ +DEF +SG+PL -> e n d o t e r m e: CORRECT!
+<nob> s l i p s +N +NDEF +PL -> s l i p s: CORRECT!
+<nob> s l i p s +N +DEF +PL -> s l i p s: INCORRECT. Should be 's l i p s e n e'
+<nob> s l i p s +N +DEF +SG -> s l i p s e t: CORRECT!
+<nob> r e s e r v e h j u l +N +DEF +PL -> r e s e r v e h j u l a n e: INCORRECT. Should be 'r e s e r v e h j u l a'
+<nob> k n a p p +N +DEF +SG -> k n a p p a: INCORRECT. Should be 'k n a p p e n'
+<nob> k n a p p +N +NDEF +PL -> k n a p p a r: INCORRECT. Should be 'k n a p p e r'
+<nob> k n a p p +N +DEF +PL -> k n a p p a: INCORRECT. Should be 'k n a p p e n e'
+<nob> p r o j i s e r e +V +IMP -> p r o j i s e r: CORRECT!
+<nob> p r o j i s e r e +V.PTCP +PRS -> p r o j i s e r e n d e: CORRECT!
+<nob> p r o j i s e r e +V +PST -> p r o j i s e r t e: CORRECT!
+<nob> p r o j i s e r e +V +PRS -> p r o j i s e r e r: CORRECT!
+<nob> o s e a n +N +DEF +SG -> o s e a n e n: INCORRECT. Should be 'o s e a n e t'
+<nob> o s e a n +N +DEF +PL -> o s e a n e n e: CORRECT!
+<nob> m ø t e p l a s s +N +DEF +PL -> m ø t e p l a s s e t: INCORRECT. Should be 'm ø t e p l a s s e n e'
+<nob> m ø t e p l a s s +N +DEF +SG -> m ø t e p l a s s e t: INCORRECT. Should be 'm ø t e p l a s s e n'
+<nob> m ø t e p l a s s +N +NDEF +PL -> m ø t e p l a s s e r: CORRECT!
+<nob> k o r s t o g +N +NDEF +PL -> k o r s t o g e r: INCORRECT. Should be 'k o r s t o g'
+<nob> k o r s t o g +N +DEF +SG -> k o r s t o g e n: INCORRECT. Should be 'k o r s t o g e t'
+<nob> k o r s t o g +N +DEF +PL -> k o r s t o g a n e: INCORRECT. Should be 'k o r s t o g e n e'
+<nob> f o r s a k e l s e +N +DEF +SG -> f o r s a k e l s e n: CORRECT!
+<nob> f o r s a k e l s e +N +NDEF +PL -> f o r s a k e l s e r: CORRECT!
+<nob> b i e +N +NDEF +PL -> b i e r: CORRECT!
+<nob> b i e +N +DEF +SG -> b i e n: INCORRECT. Should be 'b i a'
+<nob> b i e +N +DEF +PL -> b i e n e: CORRECT!
+<nob> l å r +N +DEF +PL -> l å r e n e: CORRECT!
+<nob> l å r +N +NDEF +PL -> l å r: CORRECT!
+<nob> l å r +N +DEF +SG -> l å r e n: INCORRECT. Should be 'l å r e t'
+<nob> å s y n +N +DEF +PL -> å s y n e n e: CORRECT!
+<nob> å s y n +N +NDEF +PL -> å s y n e r: INCORRECT. Should be 'å s y n'
+<nob> å s y n +N +DEF +SG -> å s y n e t: CORRECT!
+<nob> g j e n g e +N +NDEF +PL -> g j e n g e r: CORRECT!
+<nob> g j e n g e +N +DEF +PL -> g j e n g e n e: CORRECT!
+<nob> g j e n g +N +DEF +SG -> g j e n g e n: CORRECT!
+<nob> g j e n g e +N +DEF +SG -> g j e n g a: INCORRECT. Should be 'g j e n g e n'
+<nob> g j e n g +N +DEF +PL -> g j e n g e n e: CORRECT!
+<nob> s i r u p +N +DEF +PL -> s i r u p e n e: CORRECT!
+<nob> s i r u p +N +DEF +SG -> s i r u p e t: INCORRECT. Should be 's i r u p e n'
+<nob> s i r u p +N +NDEF +PL -> s i r u p e r: CORRECT!
+<nob> g a m m e l +ADJ +SPRL +DEF -> ä l d s t e: INCORRECT. Should be 'e l d s t e'
+<nob> g a m m e l +ADJ +DEF +SG+PL -> g a m l e: CORRECT!
+<nob> g a m m e l +ADJ +NEUT +SG -> g a m m e l t: CORRECT!
+<nob> k a s e i n +N +DEF +SG -> k a s e i n e t: CORRECT!
+<nob> a m f i b i u m +N +DEF +PL -> a m f i b i e t e: INCORRECT. Should be 'a m f i b i e n e'
+<nob> a m f i b i u m +N +NDEF +PL -> a m f i b i e r: CORRECT!
+<nob> a m f i b i u m +N +DEF +SG -> a m f i b i e t: CORRECT!
+<nob> b l å b æ r +N +NDEF +PL -> b l å b æ r: CORRECT!
+<nob> b l å b æ r +N +DEF +SG -> b l å b æ r e t: CORRECT!
+<nob> k o m m u n e +N +DEF +SG -> k o m m u n a: INCORRECT. Should be 'k o m m u n e n'
+<nob> k o m m u n e +N +DEF +PL -> k o m m u n a a: INCORRECT. Should be 'k o m m u n e n e'
+<nob> k o m m u n e +N +NDEF +PL -> k o m m u n e r: CORRECT!
+<nob> h v i t e +N +DEF +SG -> h v i t e n: CORRECT!
+<nob> h v i t e +N +NDEF +PL -> h v i t e r: CORRECT!
+<nob> æ r a +N +NDEF +PL -> æ r a r: INCORRECT. Should be 'æ r a e r'
+<nob> æ r a +N +DEF +PL -> æ r a e n e: CORRECT!
+<nob> æ r a +N +DEF +SG -> æ r a n: INCORRECT. Should be 'æ r a e n'
+<nob> s l a v e r i +N +DEF +SG -> s l a v e r i e t: CORRECT!
+<nob> å +N +DEF +SG -> å: INCORRECT. Should be 'å e n'
+<nob> å +N +DEF +PL -> å n e n e: INCORRECT. Should be 'å e n e'
+<nob> å +N +NDEF +PL -> å: INCORRECT. Should be 'å e r'
+<nob> d r i v s t o f f +N +NDEF +PL -> d r i v s t o f f a r: INCORRECT. Should be 'd r i v s t o f f e r'
+<nob> d r i v s t o f f +N +DEF +PL -> d r i v s t o f f a: CORRECT!
+<nob> d r i v s t o f f +N +DEF +SG -> d r i v s t o f f a t: INCORRECT. Should be 'd r i v s t o f f e t'
+<nob> b a t t e r i +N +DEF +SG -> b a t t e r i e t: CORRECT!
+<nob> b a t t e r i +N +DEF +PL -> b a t t e r i e t e: INCORRECT. Should be 'b a t t e r i a'
+<nob> b a t t e r i +N +NDEF +PL -> b a t t e r i e r: INCORRECT. Should be 'b a t t e r i'
+<nob> v i n d +N +DEF +SG -> v i n d e n: CORRECT!
+<nob> v i n d +N +DEF +PL -> v i n d e n e: CORRECT!
+<nob> v i n d +N +NDEF +PL -> v i n d: INCORRECT. Should be 'v i n d e r'
+<nob> g o l f b a n e +N +DEF +SG -> g o l f b a n e n: CORRECT!
+<nob> g o l f b a n e +N +DEF +PL -> g o l f b a n a n e: INCORRECT. Should be 'g o l f b a n e n e'
+<nob> b u s s j å f ø r +N +NDEF +PL -> b u s s j å f ø r e r: CORRECT!
+<nob> b u s s j å f ø r +N +DEF +SG -> b u s s j å f ø r e n: CORRECT!
+<nob> b u s s j å f ø r +N +DEF +PL -> b u s s j å f ø r e n e: CORRECT!
+<nob> k a n e l +N +DEF +SG -> k a n e l e n: CORRECT!
+<nob> d a n s e r i n n e +N +NDEF +PL -> d a n s e r i n n e r: CORRECT!
+<nob> d a n s e r i n n e +N +DEF +PL -> d a n s e r i n n e n e: CORRECT!
+<nob> d a n s e r i n n e +N +DEF +SG -> d a n s e r i n n e t: INCORRECT. Should be 'd a n s e r i n n a'
+<nob> b l i n d p a s s a s j e r +N +DEF +PL -> b l i n d p a s s a s j e r n e: INCORRECT. Should be 'b l i n d p a s s a s j e r e n e'
+<nob> b l i n d p a s s a s j e r +N +NDEF +PL -> b l i n d p a s s a s j e r e r: CORRECT!
+<nob> t u s j +N +DEF +SG -> t u s j e n: CORRECT!
+<nob> t u s j +N +DEF +PL -> t u s j e n e: CORRECT!
+<nob> t u s j +N +NDEF +PL -> t u s j e r: CORRECT!
+<nob> k o n t a k t +N +DEF +PL -> k o n t a k t e n e: CORRECT!
+<nob> k o n t a k t +N +NDEF +PL -> k o n t a k t e r: CORRECT!
+<nob> k o n t a k t e +V +PRS -> k o n t a k t e r: CORRECT!
+<nob> e n d e s t a s j o n +N +NDEF +PL -> e n d e s t a s j o n e r: CORRECT!
+<nob> e n d e s t a s j o n +N +DEF +PL -> e n d e s t a s j o n a n e: INCORRECT. Should be 'e n d e s t a s j o n e n e'
+<nob> e n d e s t a s j o n +N +DEF +SG -> e n d e s t a s j o n e n: CORRECT!
+<nob> k o n t i n e n t a l +ADJ +DEF +SG+PL -> k o n t i n e n t a l e: CORRECT!
+<nob> r e v i d e r e +V +PST -> r e v i d e r t e: CORRECT!
+<nob> r e v i d e r e +V +IMP -> r e v i d e r: CORRECT!
+<nob> r e v i d e r e +V.PTCP +PST -> r e v i d e r t: CORRECT!
+<nob> r e v i d e r e +V +PRS -> r e v i d e r e r: CORRECT!
+<nob> r u l l e s k ø y t e +N +NDEF +PL -> r u l l e s k ø y t e r: CORRECT!
+<nob> r u l l e s k ø y t e +N +DEF +SG -> r u l l e s k ø y t e t: INCORRECT. Should be 'r u l l e s k ø y t a'
+<nob> r u l l e s k ø y t e +N +DEF +PL -> r u l l e s k ø y t e n e: CORRECT!
+<nob> s t ø t t e +V +IMP -> s t ø t t e: INCORRECT. Should be 's t ø t t'
+<nob> s t ø t t e +V +PST -> s t ø t t e: INCORRECT. Should be 's t ø t t a'
+<nob> s t ø t t e +N +DEF +SG -> s t ø t t e n: CORRECT!
+<nob> s t ø t t e +N +DEF +PL -> s t ø t t a: INCORRECT. Should be 's t ø t t e n e'
+<nob> s t ø t t e +V +PRS -> s t ø t t e r: CORRECT!
+<nob> s t ø t t e +V.PTCP +PRS -> s t ø t t e e n d e: INCORRECT. Should be 's t ø t t e n d e'
+<nob> ø r n +N +NDEF +PL -> ø r n: INCORRECT. Should be 'ø r n e r'
+<nob> ø r n +N +DEF +SG -> ø r n e t: INCORRECT. Should be 'ø r n e n'
+<nob> f o l k e r i k +ADJ +DEF +SG+PL -> f o l k e r i k e: CORRECT!
+<nob> f o l k e r i k +ADJ +NEUT +SG -> f o l k e r i k: INCORRECT. Should be 'f o l k e r i k t'
+<nob> s a b o t e r e +V +IMP -> s a b o t e r: CORRECT!
+<nob> s a b o t e r e +V.PTCP +PRS -> s a b o t e r e n d e: CORRECT!
+<nob> s a b o t e r e +V +PRS -> s a b o t e r e r: CORRECT!
+<nob> l ø p +N +DEF +PL -> l ø p e n e: CORRECT!
+<nob> h e n s y n s l ø s +ADJ +NEUT +SG -> h e n s y n s l ø s t: CORRECT!
+<nob> h e n s y n s l ø s +ADJ +DEF +SG+PL -> h e n s y n s l ø s e: CORRECT!
+<nob> n e v n e +V +PST -> n e v n e: INCORRECT. Should be 'n e v n t e'
+<nob> n e v n e +V.PTCP +PST -> n e v n e d d: INCORRECT. Should be 'n e v n t'
+<nob> n e v n e +V +IMP -> n e v n e: INCORRECT. Should be 'n e v n'
+<nob> n e v n e +V +PRS -> n e v n e r: CORRECT!
+<nob> l i t u r g i +N +NDEF +PL -> l i t u r g i e r: CORRECT!
+<nob> l i t u r g i +N +DEF +PL -> l i t u r g i n e: INCORRECT. Should be 'l i t u r g i e n e'
+<nob> l i t u r g i +N +DEF +SG -> l i t u r g i e t: INCORRECT. Should be 'l i t u r g i e n'
+<nob> j o r d a n s k +ADJ +NEUT +SG -> j o r d a n s k: CORRECT!
+<nob> s u p e r l i m +N +DEF +SG -> s u p e r l i m e t: CORRECT!
+<nob> n o r m a l t i d +N +DEF +SG -> n o r m a l t i d e n: CORRECT!
+<nob> n o r m a l t i d +N +NDEF +PL -> n o r m a l t i d e r: CORRECT!
+<nob> p o t t e +N +DEF +SG -> p o t t a: INCORRECT. Should be 'p o t t e n'
+<nob> p o t t e +N +DEF +PL -> p o t t a: INCORRECT. Should be 'p o t t e n e'
+<nob> p o t t e +N +NDEF +PL -> p o t t e r: CORRECT!
+<nob> a l k y m i s t +N +DEF +SG -> a l k y m i s t e n: CORRECT!
+<nob> a l k y m i s t +N +NDEF +PL -> a l k y m i s t e r: CORRECT!
+<nob> a l k y m i s t +N +DEF +PL -> a l k y m i s t e n e: CORRECT!
+<nob> r e p u b l i k k +N +DEF +PL -> r e p u b l i k k e n e: CORRECT!
+<nob> r e p u b l i k k +N +NDEF +PL -> r e p u b l i k k e r: CORRECT!
+<nob> r e p u b l i k k +N +DEF +SG -> r e p u b l i k k e n: CORRECT!
+<nob> f y l k e +N +DEF +PL -> f y l k e n e: CORRECT!
+<nob> f y l k e +N +NDEF +PL -> f y l k e r: CORRECT!
+<nob> f y l k e +N +DEF +SG -> f y l k e n: INCORRECT. Should be 'f y l k e t'
+<nob> i n s p i r a s j o n +N +DEF +SG -> i n s p i r a s j o n e n: CORRECT!
+<nob> i n s p i r a s j o n +N +DEF +PL -> i n s p i r a s j o n a n e: INCORRECT. Should be 'i n s p i r a s j o n e n e'
+<nob> i n s p i r a s j o n +N +NDEF +PL -> i n s p i r a s j o n e r: CORRECT!
+<nob> s w a z i l e n d e r +N +NDEF +PL -> s w a z i l e n d e r e: CORRECT!
+<nob> s w a z i l e n d e r +N +DEF +SG -> s w a z i l e n d e r e n: CORRECT!
+<nob> p a p i r +N +DEF +SG -> p a p i r e n: INCORRECT. Should be 'p a p i r e t'
+<nob> p a p i r +N +DEF +PL -> p a p i r e n e: INCORRECT. Should be 'p a p i r a'
+<nob> p a p i r +N +NDEF +PL -> p a p i r e r: CORRECT!
+<nob> r e s y m é +N +DEF +PL -> r e s y m é e n e: INCORRECT. Should be 'r e s y m e e n e'
+<nob> r e s y m é +N +NDEF +PL -> r e s y m é e r: CORRECT!
+<nob> r e s y m é +N +DEF +SG -> r e s y m é e t: CORRECT!
+<nob> k r i g s s k i p +N +DEF +SG -> k r i g s s k i p e t: CORRECT!
+<nob> k r i g s s k i p +N +DEF +PL -> k r i g s s k i p e t e: INCORRECT. Should be 'k r i g s s k i p a'
+<nob> k r i g s s k i p +N +NDEF +PL -> k r i g s s k i p: CORRECT!
+<nob> d o b b e l t h a k e +N +DEF +SG -> d o b b e l t h a k e n: CORRECT!
+<nob> d o b b e l t h a k e +N +NDEF +PL -> d o b b e l t h a k e r: CORRECT!
+<nob> n y p r i s +N +DEF +PL -> n y p r i s e n e: CORRECT!
+<nob> n y p r i s +N +DEF +SG -> n y p r i s e n: CORRECT!
+<nob> n y p r i s +N +NDEF +PL -> n y p r i s e r: CORRECT!
+<nob> f j e l l s i d e +N +DEF +SG -> f j e l l s i d e n: CORRECT!
+<nob> f j e l l s i d e +N +NDEF +PL -> f j e l l s i d e r: CORRECT!
+<nob> f j e l l s i d e +N +DEF +PL -> f j e l l s i d e n e: CORRECT!
+<nob> k u n s t v e r k +N +NDEF +PL -> k u n s t v e r k: CORRECT!
+<nob> k u n s t v e r k +N +DEF +PL -> k u n s t v e r k e t: INCORRECT. Should be 'k u n s t v e r k a'
+<nob> k u n s t v e r k +N +DEF +SG -> k u n s t v e r k e t: CORRECT!
+<nob> b r ø l +N +DEF +SG -> b r ø l e n: INCORRECT. Should be 'b r ø l e t'
+<nob> b r ø l +N +DEF +PL -> b r ø l e n e: INCORRECT. Should be 'b r ø l a'
+<nob> s ø v n +N +DAT -> s ø v n e r n e: INCORRECT. Should be 's ø v n e'
+<nob> e s k e +N +NDEF +PL -> e s k e r: CORRECT!
+<nob> e s k e +N +DEF +SG -> e s k a: INCORRECT. Should be 'e s k e n'
+<nob> o k s i d +N +DEF +SG -> o k s i d e n: INCORRECT. Should be 'o k s i d e t'
+<nob> o k s i d +N +NDEF +PL -> o k s i d e r: INCORRECT. Should be 'o k s i d'
+<nob> o k s i d +N +DEF +PL -> o k s i d e n e: INCORRECT. Should be 'o k s i d a'
+<nob> p e r s o n l i g h e t +N +DEF +PL -> p e r s o n l i g h e t a n e: INCORRECT. Should be 'p e r s o n l i g h e t e n e'
+<nob> p e r s o n l i g h e t +N +DEF +SG -> p e r s o n l i g h e t e n: CORRECT!
+<nob> p e r s o n l i g h e t +N +NDEF +PL -> p e r s o n l i g h e t e r: CORRECT!
+<nob> a r b e i d s t a k e r +N +DEF +PL -> a r b e i d s t a k r e n e: INCORRECT. Should be 'a r b e i d s t a k e r n e'
+<nob> a r b e i d s t a k e r +N +DEF +SG -> a r b e i d s t a k e r e n: CORRECT!
+<nob> a n g s t b i t e r i +N +NDEF +PL -> a n g s t b i t e r i e r: CORRECT!
+<nob> a n g s t b i t e r i +N +DEF +SG -> a n g s t b i t e r i e t: CORRECT!
+<nob> u j e v n +ADJ +DEF +SG+PL -> u j e v n e: CORRECT!
+<nob> a l k o h o l +N +DEF +SG -> a l k o h o l e n: CORRECT!
+<nob> a l k o h o l +N +NDEF +PL -> a l k o h o l e r: CORRECT!
+<nob> v i b r a s j o n +N +DEF +SG -> v i b r a s j o n e n: CORRECT!
+<nob> v i b r a s j o n +N +DEF +PL -> v i b r a s j o n a n e: INCORRECT. Should be 'v i b r a s j o n e n e'
+<nob> v i b r a s j o n +N +NDEF +PL -> v i b r a s j o n e r: CORRECT!
+<nob> s a m l e r +N +NDEF +PL -> s a m l e r e: CORRECT!
+<nob> s a m l e r +N +DEF +PL -> s a m l e r n e: CORRECT!
+<nob> s a m l e r +N +DEF +SG -> s a m l e r e n: CORRECT!
+<nob> n y s g j e r r i g +ADJ +DEF +SG+PL -> n y s g j e r r i g e: CORRECT!
+<nob> n y s g j e r r i g +ADJ +NEUT +SG -> n y s g j e r r i g: CORRECT!
+<nob> b e u n d r e +V +IMP -> b e u n d r e: CORRECT!
+<nob> b e u n d r e +V +PST -> b e u n d r e t: CORRECT!
+<nob> b e u n d r e +V.PTCP +PRS -> b e u n d r e d e n d e: INCORRECT. Should be 'b e u n d r e n d e'
+<nob> b e u n d r e +V +PRS -> b e u n d r e r: CORRECT!
+<nob> f u g l e s k r e m s e l +N +DEF +PL -> f u g l e s k r e m s e l e n e: INCORRECT. Should be 'f u g l e s k r e m s l a'
+<nob> f u g l e s k r e m s e l +N +DEF +SG -> f u g l e s k r e m s e l e n: INCORRECT. Should be 'f u g l e s k r e m s e l e t'
+<nob> f u g l e s k r e m s e l +N +NDEF +PL -> f u g l e s k r e m s e l: INCORRECT. Should be 'f u g l e s k r e m s l e r'
+<nob> f r a n s k +ADJ +NEUT +SG -> f r a n s k: CORRECT!
+<nob> f r a n s k +N +DEF +SG -> f r a n s k a: INCORRECT. Should be 'f r a n s k e n'
+<nob> f r a n s k +ADJ +DEF +SG+PL -> f r a n s k e: CORRECT!
+<nob> t u n n e l b a n e +N +NDEF +PL -> t u n n e l b a n e r: CORRECT!
+<nob> t u n n e l b a n e +N +DEF +SG -> t u n n e l b a n a: INCORRECT. Should be 't u n n e l b a n e n'
+<nob> t u n n e l b a n e +N +DEF +PL -> t u n n e l b a n a n e: INCORRECT. Should be 't u n n e l b a n e n e'
+<nob> s t j e r n e +N +DEF +PL -> s t j e r n e n e: CORRECT!
+<nob> s t j e r n e +N +DEF +SG -> s t j e r n e t: INCORRECT. Should be 's t j e r n e n'
+<nob> s t j e r n e +N +NDEF +PL -> s t j e r n e r: CORRECT!
+<nob> p o l i t i k k +N +DEF +SG -> p o l i t i k k e n: CORRECT!
+<nob> p o l i t i k k +N +NDEF +PL -> p o l i t i k k e r: CORRECT!
+<nob> e c u a d o r i a n e r +N +NDEF +PL -> e c u a d o r i a n e r e r: INCORRECT. Should be 'e c u a d o r i a n e r e'
+<nob> e c u a d o r i a n e r +N +DEF +PL -> e c u a d o r i a n e r n e: CORRECT!
+<nob> e c u a d o r i a n e r +N +DEF +SG -> e c u a d o r i a n e r e n: CORRECT!
+<nob> u t s y n +N +DEF +PL -> u t s y n e n e: CORRECT!
+<nob> u t s y n +N +NDEF +PL -> u t s y n e r: INCORRECT. Should be 'u t s y n'
+<nob> u t s y n +N +DEF +SG -> u t s y n e t: CORRECT!
+<nob> s a o t o m e s e r +N +DEF +SG -> s a o t o m e s e r e n: CORRECT!
+<nob> s a o t o m e s e r +N +NDEF +PL -> s a o t o m e s e r e: CORRECT!
+<nob> v i t s e m a k e r +N +NDEF +PL -> v i t s e m a k e r e: CORRECT!
+<nob> v i t s e m a k e r +N +DEF +PL -> v i t s e m a k e r n e: CORRECT!
+<nob> v i t s e m a k e r +N +DEF +SG -> v i t s e m a k e r e n: CORRECT!
+<nob> s o l +N +DEF +PL -> s o l e n e: CORRECT!
+<nob> s o l +N +NDEF +PL -> s o l e r: CORRECT!
+<nob> s e n +ADJ +SPRL +NDEF -> s e n e n s: INCORRECT. Should be 's e n e s t'
+<nob> s e n +ADJ +NEUT +SG -> s e n t: CORRECT!
+<nob> s e n +ADJ +DEF +SG+PL -> s e n e: CORRECT!
+<nob> d a t o +N +DEF +PL -> d a t o a n e: INCORRECT. Should be 'd a t o e n e'
+<nob> t j e n e r +N +NDEF +PL -> t j e n e r a r: INCORRECT. Should be 't j e n e r e'
+<nob> t j e n e r +N +DEF +SG -> t j e n e r e n: CORRECT!
+<nob> t j e n e r +N +DEF +PL -> t j e n e r n e: CORRECT!
+<nob> p r o s j e k t +N +DEF +SG -> p r o s j e k t e t: CORRECT!
+<nob> p r o s j e k t +N +DEF +PL -> p r o s j e k t e n e: CORRECT!
+<nob> p r o s j e k t +N +NDEF +PL -> p r o s j e k t e r: CORRECT!
+<nob> a r b e i d s u k e +N +DEF +SG -> a r b e i d s u k a: CORRECT!
+<nob> a r b e i d s u k e +N +NDEF +PL -> a r b e i d s u k a r: INCORRECT. Should be 'a r b e i d s u k e r'
+<nob> k r a f t v e r k +N +NDEF +PL -> k r a f t v e r k: CORRECT!
+<nob> t a s t a t u r +N +NDEF +PL -> t a s t a t u r a r: INCORRECT. Should be 't a s t a t u r'
+<nob> t a s t a t u r +N +DEF +SG -> t a s t a t u r e n: INCORRECT. Should be 't a s t a t u r e t'
+<nob> t a s t a t u r +N +DEF +PL -> t a s t a t u r e n e: CORRECT!
+<nob> s k i l ø p e r +N +DEF +PL -> s k i l ø p e r n e: CORRECT!
+<nob> s t r e k k +N +DEF +SG -> s t r e k k e t: INCORRECT. Should be 's t r e k k e n'
+<nob> s t r e k k +N +DEF +PL -> s t r e k k e n e: INCORRECT. Should be 's t r e k k a'
+<nob> m o r s o m +ADJ +DEF +SG+PL -> m o r s o m m e: CORRECT!
+<nob> m o r s o m +ADJ +NEUT +SG -> m o r s o m t: CORRECT!
+<nob> m a g e d a n s e r i n n e +N +DEF +SG -> m a g e d a n s e r i n n e n: CORRECT!
+<nob> m a g e d a n s e r i n n e +N +NDEF +PL -> m a g e d a n s e r i n n e r: CORRECT!
+<nob> g r u n n m u r +N +NDEF +PL -> g r u n n m u r a r: INCORRECT. Should be 'g r u n n m u r e r'
+<nob> g r u n n m u r +N +DEF +SG -> g r u n n m u r e n: CORRECT!
+<nob> g r u n n m u r +N +DEF +PL -> g r u n n m u r e n e: CORRECT!
+<nob> s m e l t e p u n k t +N +NDEF +PL -> s m e l t e p u n k t e r: CORRECT!
+<nob> s m e l t e p u n k t +N +DEF +PL -> s m e l t e p u n k t e n e: INCORRECT. Should be 's m e l t e p u n k t a'
+<nob> e n d i n g +N +DEF +SG -> e n d i n g a: CORRECT!
+<nob> e n d i n g +N +NDEF +PL -> e n d i n g a r: INCORRECT. Should be 'e n d i n g e r'
+<nob> e n d i n g +N +DEF +PL -> e n d i n g a a a: INCORRECT. Should be 'e n d i n g e n e'
+<nob> p l a s s e r e +V.PTCP +PST -> p l a s s e r e t: INCORRECT. Should be 'p l a s s e r t'
+<nob> p l a s s e r e +V +PST -> p l a s s e r t e: CORRECT!
+<nob> f l u o r +N +DEF +SG -> f l u o r e n: CORRECT!
+<nob> h u s t r u +N +DEF +SG -> h u s t r u e n: CORRECT!
+<nob> h u s t r u +N +DEF +PL -> h u s t r u e n e: CORRECT!
+<nob> h u s t r u +N +NDEF +PL -> h u s t r u e r: CORRECT!
+<nob> a r m b r ø s t +N +NDEF +PL -> a r m b r ø s t a r: INCORRECT. Should be 'a r m b r ø s t e r'
+<nob> a r m b r ø s t +N +DEF +SG -> a r m b r ø s t a: INCORRECT. Should be 'a r m b r ø s t e n'
+<nob> a r m b r ø s t +N +DEF +PL -> a r m b r ø s t a: INCORRECT. Should be 'a r m b r ø s t e n e'
+<nob> l u g a r +N +NDEF +PL -> l u g a r e r: CORRECT!
+<nob> l u g a r +N +DEF +SG -> l u g a r e n: CORRECT!
+<nob> l i s t e +V +IMP -> l i s t e: INCORRECT. Should be 'l i s t'
+<nob> l i s t e +V +PRS -> l i s t e r: CORRECT!
+<nob> l i s t e +N +DEF +PL -> l i s t a: INCORRECT. Should be 'l i s t e n e'
+<nob> l i s t e +N +DEF +SG -> l i s t a: CORRECT!
+<nob> l i s t e +V +PST -> l e s t e: INCORRECT. Should be 'l i s t a'
+<nob> l i s t e +N +NDEF +PL -> l i s t e r: CORRECT!
+<nob> f o r s k j e l l i g +ADJ +DEF +SG+PL -> f o r s k j e l l i g e: CORRECT!
+<nob> f o r s k j e l l i g +ADJ +NEUT +SG -> f o r s k j e l l i g: CORRECT!
+<nob> f o s s e f a l l +N +DEF +SG -> f o s s e f a l l e t: CORRECT!
+<nob> f o s s e f a l l +N +NDEF +PL -> f o s s e f a l l: CORRECT!
+<nob> f o s s e f a l l +N +DEF +PL -> f o s s e f a l l e n e: INCORRECT. Should be 'f o s s e f a l l a'
+<nob> s k r u p p e l +N +NDEF +PL -> s k r u p p e l e: INCORRECT. Should be 's k r u p l e r'
+<nob> s k r u p p e l +N +DEF +PL -> s k r u p p e l e n e: INCORRECT. Should be 's k r u p l e n e'
+<nob> s t j e r n e b i l d e +N +NDEF +PL -> s t j e r n e b i l d e r: CORRECT!
+<nob> s t j e r n e b i l d e +N +DEF +PL -> s t j e r n e b i l d e n e: CORRECT!
+<nob> s t j e r n e b i l d e +N +DEF +SG -> s t j e r n e b i l d e n: INCORRECT. Should be 's t j e r n e b i l d e t'
+<nob> f r i m e r k e +N +NDEF +PL -> f r i m e r k e r: CORRECT!
+<nob> f r i m e r k e +N +DEF +PL -> f r i m e r k e t e: INCORRECT. Should be 'f r i m e r k e n e'
+<nob> k a r r i e r e +N +DEF +SG -> k a r r i e r e n: CORRECT!
+<nob> k a r r i e r e +N +NDEF +PL -> k a r r i e r e: INCORRECT. Should be 'k a r r i e r e r'
+<nob> k a r r i e r e +N +DEF +PL -> k a r r i e r n e: INCORRECT. Should be 'k a r r i e r e n e'
+<nob> k l o n +N +DEF +PL -> k l o n e n e: CORRECT!
+<nob> k l o n +N +DEF +SG -> k l o n e n: CORRECT!
+<nob> k l o n +N +NDEF +PL -> k l o n e r: CORRECT!
+<nob> s a n k t l u s i a n e r +N +DEF +PL -> s a n k t l u s i a n e r n e: CORRECT!
+<nob> s a n k t l u s i a n e r +N +DEF +SG -> s a n k t l u s i a n e r e n: CORRECT!
+<nob> s a n k t l u s i a n e r +N +NDEF +PL -> s a n k t l u s i a n e r e r: INCORRECT. Should be 's a n k t l u s i a n e r e'
+<nob> m o r s m e l k +N +DEF +SG -> m o r s m e l k e t: INCORRECT. Should be 'm o r s m e l k a'
+<nob> f o l k e s t y r e +N +DEF +PL -> f o l k e s t y r e n e: CORRECT!
+<nob> f o l k e s t y r e +N +NDEF +PL -> f o l k e s t y r e r: INCORRECT. Should be 'f o l k e s t y r'
+<nob> r e g n e +V +PST -> r e g n e t: CORRECT!
+<nob> r e g n +N +DEF +SG -> r e g n e t: CORRECT!
+<nob> r e g n e +V +PRS -> r e g n e r: CORRECT!
+<nob> r e g n e +V.PTCP +PST -> r e g n e d d: INCORRECT. Should be 'r e g n e t'
+<nob> r e g n e +V +IMP -> r e g n e: INCORRECT. Should be 'r e g n'
+<nob> g i p s +N +DEF +SG -> g i p s e t: INCORRECT. Should be 'g i p s e n'
+<nob> b l e i k e +V +PST -> b l e i k e: INCORRECT. Should be 'b l e i k t e'
+<nob> b l e i k e +V.PTCP +PST -> b l e i k e t: CORRECT!
+<nob> b l e i k e +V +PRS -> b l e i k e r: CORRECT!
+<nob> s k u l d e r b l a d +N +NDEF +PL -> s k u l d e r b l a d: INCORRECT. Should be 's k u l d e r b l a d e r'
+<nob> s k u l d e r b l a d +N +DEF +PL -> s k u l d e r b l a d e n e: CORRECT!
+<nob> s k u l d e r b l a d +N +DEF +SG -> s k u l d e r b l a d e t: CORRECT!
+<nob> l e s e p u f f +N +NDEF +PL -> l e s e p u f f e r: CORRECT!
+<nob> l e s e p u f f +N +DEF +PL -> l e s e p u f f a: CORRECT!
+<nob> l e s e p u f f +N +DEF +SG -> l e s e p u f f a: INCORRECT. Should be 'l e s e p u f f e t'
+<nob> m a s k i n g e v æ r +N +DEF +PL -> m a s k i n g e v æ r e n e: CORRECT!
+<nob> m a s k i n g e v æ r +N +NDEF +PL -> m a s k i n g e v æ r: INCORRECT. Should be 'm a s k i n g e v æ r e r'
+<nob> m a s k i n g e v æ r +N +DEF +SG -> m a s k i n g e v æ r e t: CORRECT!
+<nob> t i l f e l l e +N +NDEF +PL -> t i l f e l l e r: CORRECT!
+<nob> t i l f e l l e +N +DEF +PL -> t i l f e l l e n e: CORRECT!
+<nob> b r y s t k r e f t +N +DEF +SG -> b r y s t k r e f t a t: INCORRECT. Should be 'b r y s t k r e f t e n'
+<nob> b l e i k +ADJ +SPRL +NDEF -> b l e i k a s t: INCORRECT. Should be 'b l e i k e s t'
+<nob> b l e i k +ADJ +SPRL +DEF -> b l e i k a s t e: INCORRECT. Should be 'b l e i k e s t e'
+<nob> b l e i k +ADJ +CMPR -> b l e i k a: INCORRECT. Should be 'b l e i k e r e'
+<nob> i n t e r e s s e r e +V +PST -> i n t e r e s s e r t e: CORRECT!
+<nob> i n t e r e s s e r e +V +IMP -> i n t e r e s s e r: CORRECT!
+<nob> i n t e r e s s e r e +V +PRS -> i n t e r e s s e r e r: CORRECT!
+<nob> i n t e r e s s e r e +V.PTCP +PST -> i n t e r e s s e r t: CORRECT!
+<nob> h e k s +N +NDEF +PL -> h e k s e r: CORRECT!
+<nob> h e k s +N +DEF +SG -> h e k s e t: INCORRECT. Should be 'h e k s a'
+<nob> h e k s +N +DEF +PL -> h e k s e n e: CORRECT!
+<nob> e t t e r f o r s k e +V +PST -> e t t e r f o r s k a t: INCORRECT. Should be 'e t t e r f o r s k e t'
+<nob> e t t e r f o r s k e +V +IMP -> e t t e r f o r s k: CORRECT!
+<nob> i t a l i e n e r +N +NDEF +PL -> i t a l i e n e r e r: INCORRECT. Should be 'i t a l i e n e r e'
+<nob> i t a l i e n e r +N +DEF +PL -> i t a l i e n e r n e: CORRECT!
+<nob> i t a l i e n e r +N +DEF +SG -> i t a l i e n e r e n: CORRECT!
+<nob> e l a s t i s k +ADJ +DEF +SG+PL -> e l a s t i s k e: CORRECT!
+<nob> a d d i s j o n +N +DEF +SG -> a d d i s j o n e n: CORRECT!
+<nob> a d d i s j o n +N +DEF +PL -> a d d i s j o n e n e: CORRECT!
+<nob> l e r k e +N +DEF +PL -> l e r k a: INCORRECT. Should be 'l e r k e n e'
+<nob> l e r k e +N +DEF +SG -> l e r k a: CORRECT!
+<nob> b u t i k k +N +NDEF +PL -> b u t i k k e r: CORRECT!
+<nob> b u t i k k +N +DEF +SG -> b u t i k k e t: INCORRECT. Should be 'b u t i k k e n'
+<nob> e l d e +V.PTCP +PRS -> e l d e n d e: CORRECT!
+<nob> e l d e +V +PRS -> e l d e r: CORRECT!
+<nob> e l d e +V +IMP -> e l d e: INCORRECT. Should be 'e l d'
+<nob> e l d e +V +PST -> e l d e: INCORRECT. Should be 'e l d e t'
+<nob> n a u r u e r +N +NDEF +PL -> n a u r u e r e: CORRECT!
+<nob> n a u r u e r +N +DEF +PL -> n a u r u e r n e: CORRECT!
+<nob> n a u r u e r +N +DEF +SG -> n a u r u e r e n: CORRECT!
+<nob> h e l e +V +PST -> h e l e t: CORRECT!
+<nob> h e l e +V.PTCP +PRS -> h e l e e n d e: INCORRECT. Should be 'h e l e n d e'
+<nob> h e l e +V +PRS -> h e l e r: CORRECT!
+<nob> h e l e +V +IMP -> h e l e: INCORRECT. Should be 'h e l'
+<nob> l e i t e +V.PTCP +PST -> l e i t e d d: INCORRECT. Should be 'l e i t t'
+<nob> l e t t +ADJ +NEUT +SG -> l e t t: CORRECT!
+<nob> l e i t e +V +IMP -> l e i t e: INCORRECT. Should be 'l e i t'
+<nob> l e t e +V +PST -> l e t e t: INCORRECT. Should be 'l e t t e'
+<nob> l e i t e +V +PRS -> l e i t e r: CORRECT!
+<nob> l e i t e +V +PST -> l e i t e t: CORRECT!
+<nob> l e t t +ADJ +DEF +SG+PL -> l e t t e: CORRECT!
+<nob> l e t e +V.PTCP +PST -> l e t d: INCORRECT. Should be 'l e t t'
+<nob> g e r m a n s k +ADJ +NEUT +SG -> g e r m a n s k: CORRECT!
+<nob> g e r m a n s k +ADJ +DEF +SG+PL -> g e r m a n s k e: CORRECT!
+<nob> g r u n n s t e i n +N +NDEF +PL -> g r u n n s t e i n e r: CORRECT!
+<nob> h y p e r l e n k e +N +DEF +SG -> h y p e r l e n k e n: CORRECT!
+<nob> h y p e r l e n k e +N +DEF +PL -> h y p e r l e n k e n e: CORRECT!
+<nob> a n s t ø t e l i g h e t +N +NDEF +PL -> a n s t ø t e l i g h e t e r: CORRECT!
+<nob> a n s t ø t e l i g h e t +N +DEF +PL -> a n s t ø t e l i g h e t a n e: INCORRECT. Should be 'a n s t ø t e l i g h e t e n e'
+<nob> a r k e o l o g +N +DEF +PL -> a r k e o l o g e n e: CORRECT!
+<nob> a r k e o l o g +N +DEF +SG -> a r k e o l o g e n: CORRECT!
+<nob> a r k e o l o g +N +NDEF +PL -> a r k e o l o g e r: CORRECT!
+<nob> g j e n o p p d a g e +V +PRS -> g j e n o p p d a g e r: CORRECT!
+<nob> g j e n o p p d a g e +V +PST -> g j e n o p p d a g d e: INCORRECT. Should be 'g j e n o p p d a g a'
+<nob> v e r d e n s h a v +N +DEF +SG -> v e r d e n s h a v e t: CORRECT!
+<nob> v e r d e n s h a v +N +DEF +PL -> v e r d e n s h a v a n e: INCORRECT. Should be 'v e r d e n s h a v e n e'
+<nob> v e r d e n s h a v +N +NDEF +PL -> v e r d e n s h a v: CORRECT!
+<nob> u n a t u r l i g +ADJ +NEUT +SG -> u n a t u r l i g: CORRECT!
+<nob> t o p p h e m m e l i g +ADJ +DEF +SG+PL -> t o p p h e m m e l i g e: CORRECT!
+<nob> f a r e +N +DEF +PL -> f a r e n e: CORRECT!
+<nob> f a r e +V +IMP -> f a r: CORRECT!
+<nob> f a r e +V.PTCP +PST -> f a r e d d: INCORRECT. Should be 'f a r t'
+<nob> f a r e +V +PRS -> f a r e r: CORRECT!
+<nob> f a r e +V.PTCP +PRS -> f a r e e n d e: INCORRECT. Should be 'f a r e n d e'
+<nob> f a r e +N +DEF +SG -> f a r e n: CORRECT!
+<nob> f a r +N +DEF +SG -> f a r e n: CORRECT!
+<nob> g r o s s i s t +N +DEF +PL -> g r o s s i s t e n e: CORRECT!
+<nob> g r o s s i s t +N +DEF +SG -> g r o s s i s t e n: CORRECT!
+<nob> f e i l +N +DEF +PL -> f e i l e n e: CORRECT!
+<nob> f e i l +N +DEF +SG -> f e i l e n: CORRECT!
+<nob> e n d e l i g +ADJ +DEF +SG+PL -> e n d e l i g e: CORRECT!
+<nob> e n d e l i g +ADJ +NEUT +SG -> e n d e l i g: CORRECT!
+<nob> s l o v e n e r +N +NDEF +PL -> s l o v e n e r e r: INCORRECT. Should be 's l o v e n e r e'
+<nob> h o r m o n +N +DEF +SG -> h o r m o n e t: CORRECT!
+<nob> h o r m o n +N +DEF +PL -> h o r m o n e n e: INCORRECT. Should be 'h o r m o n a'
+<nob> h o r m o n +N +NDEF +PL -> h o r m o n e r: CORRECT!
+<nob> s a n k s j o n +N +DEF +PL -> s a n k s j o n e n e: CORRECT!
+<nob> s a n k s j o n +N +DEF +SG -> s a n k s j o n e n: CORRECT!
+<nob> s a n k s j o n +N +NDEF +PL -> s a n k s j o n e r: CORRECT!
+<nob> n y m f o m a n i +N +DEF +SG -> n y m f o m a n i e t: INCORRECT. Should be 'n y m f o m a n i e n'
+<nob> h u m p e t +ADJ +NEUT +SG -> h u m p e t: CORRECT!
+<nob> h u m p e t +ADJ +DEF +SG+PL -> h u m p e t e: CORRECT!
+<nob> f o a j é +N +NDEF +PL -> f o a j é e r: CORRECT!
+<nob> f o a j é +N +DEF +PL -> f o a j é e n e: CORRECT!
+<nob> f o a j é +N +DEF +SG -> f o a j é e n: INCORRECT. Should be 'f o a j e e n'
+<nob> m o t o r v e i +N +NDEF +PL -> m o t o r v e i e r: CORRECT!
+<nob> m o t o r v e i +N +DEF +SG -> m o t o r v e i e t: INCORRECT. Should be 'm o t o r v e i e n'
+<nob> m o t o r v e i +N +DEF +PL -> m o t o r v e i e t: INCORRECT. Should be 'm o t o r v e i e n e'
+<nob> f l a s k e +N +DEF +SG -> f l a s k a: INCORRECT. Should be 'f l a s k e n'
+<nob> f l a s k e +N +NDEF +PL -> f l a s k e r: CORRECT!
+<nob> k o m m e n t e r e +V.PTCP +PST -> k o m m e n t e r e t: INCORRECT. Should be 'k o m m e n t e r t'
+<nob> k o m m e n t e r e +V +IMP -> k o m m e n t e r: CORRECT!
+<nob> k o m m e n t e r e +V +PST -> k o m m e n t e r t e: CORRECT!
+<nob> k o m m e n t e r e +V +PRS -> k o m m e n t e r e r: CORRECT!
+<nob> l a u r b æ r b l a d +N +DEF +PL -> l a u r b æ r b l a d e n e: CORRECT!
+<nob> l a u r b æ r b l a d +N +NDEF +PL -> l a u r b æ r b l a d: INCORRECT. Should be 'l a u r b æ r b l a d e r'
+<nob> f i k e n +N +DEF +SG -> f i k e n: INCORRECT. Should be 'f i k e n e n'
+<nob> f i k e n +N +NDEF +PL -> f i k e n: INCORRECT. Should be 'f i k e n e r'
+<nob> s e r s j a n t +N +DEF +SG -> s e r s j a n t e n: CORRECT!
+<nob> s e r s j a n t +N +DEF +PL -> s e r s j a n t e n e: CORRECT!
+<nob> s e r s j a n t +N +NDEF +PL -> s e r s j a n t e r: CORRECT!
+<nob> f e t t e r +N +DEF +SG -> f e t t e r e n: CORRECT!
+<nob> f e t t e r +N +DEF +PL -> f e t t r e n e: INCORRECT. Should be 'f e t t e r n e'
+<nob> k r i t t +N +DEF +SG -> k r i t t e n: INCORRECT. Should be 'k r i t t e t'
+<nob> k r i t t +N +NDEF +PL -> k r i t t e r: INCORRECT. Should be 'k r i t t'
+<nob> u n d e r g r a v e +V +PST -> u n d e r g r a v e t: INCORRECT. Should be 'u n d e r g r a v d e'
+<nob> u n d e r g r a v e +V.PTCP +PST -> u n d e r g r a v e t: CORRECT!
+<nob> u n d e r g r a v e +V +IMP -> u n d e r g r a v e: INCORRECT. Should be 'u n d e r g r a v'
+<nob> u n d e r g r a v e +V +PRS -> u n d e r g r a v e r: CORRECT!
+<nob> l e v e r a n s e +N +DEF +SG -> l e v e r a n s e n: CORRECT!
+<nob> o l d e n +N +NDEF +PL -> o l d e n: INCORRECT. Should be 'o l d e n e r'
+<nob> o l d e n +N +DEF +PL -> o l d e n e: INCORRECT. Should be 'o l d e n e n e'
+<nob> d o b b e l t f e i l +N +DEF +PL -> d o b b e l t f e i l e n e: CORRECT!
+<nob> d o b b e l t f e i l +N +DEF +SG -> d o b b e l t f e i l e n: CORRECT!
+<nob> m e d i s i n +N +NDEF +PL -> m e d i s i n e r: CORRECT!
+<nob> m e d i s i n +N +DEF +PL -> m e d i s i n a n e: INCORRECT. Should be 'm e d i s i n e n e'
+<nob> k i v i +N +DEF +SG -> k i v i e t: INCORRECT. Should be 'k i v i e n'
+<nob> k i v i +N +DEF +PL -> k i v i e t e: INCORRECT. Should be 'k i v i e n e'
+<nob> b u r +N +DEF +PL -> b u r e n e: CORRECT!
+<nob> b u r +N +DEF +SG -> b u r e n: INCORRECT. Should be 'b u r e t'
+<nob> g i f t e r i n g +N +DEF +SG -> g i f t e r i n g a: INCORRECT. Should be 'g i f t e r i n g e n'
+<nob> g i f t e r i n g +N +DEF +PL -> g i f t e r i n g e n e: CORRECT!
+<nob> f o r u r e n s e +V +PST -> f o r u r e n s e t: CORRECT!
+<nob> f o r u r e n s e +V.PTCP +PRS -> f o r u r e n s e n n e: INCORRECT. Should be 'f o r u r e n s e n d e'
+<nob> f o r u r e n s e +V +IMP -> f o r u r e n s e: INCORRECT. Should be 'f o r u r e n s'
+<nob> b y r å k r a t i +N +DEF +PL -> b y r å k r a t i e n e: CORRECT!
+<nob> b y r å k r a t i +N +NDEF +PL -> b y r å k r a t i e r: CORRECT!
+<nob> b y r å k r a t i +N +DEF +SG -> b y r å k r a t i e t: CORRECT!
+<nob> k o r +N +NDEF +PL -> k o r e r: INCORRECT. Should be 'k o r'
+<nob> k o r +N +DEF +PL -> k o r e n e: CORRECT!
+<nob> k o r +N +DEF +SG -> k o r e n: INCORRECT. Should be 'k o r e t'
+<nob> k e n g u r u +N +DEF +PL -> k e n g u r u e n e: CORRECT!
+<nob> k e n g u r u +N +NDEF +PL -> k e n g u r u e r: CORRECT!
+<nob> p r o d u k s j o n +N +NDEF +PL -> p r o d u k s j o n e r: CORRECT!
+<nob> p r o d u k s j o n +N +DEF +SG -> p r o d u k s j o n e n: CORRECT!
+<nob> s ø k e m o t o r +N +NDEF +PL -> s ø k e m o t o r a r: INCORRECT. Should be 's ø k e m o t o r e r'
+<nob> s ø k e m o t o r +N +DEF +PL -> s ø k e m o t o r e n e: CORRECT!
+<nob> s ø k e m o t o r +N +DEF +SG -> s ø k e m o t o r e n: CORRECT!
+<nob> t i d l i g +ADJ +DEF +SG+PL -> t i d l i g e: CORRECT!
+<nob> t i d l i g +ADJ +SPRL +DEF -> t i d l i g e s t e: INCORRECT. Should be 't i d l i g s t e'
+<nob> t i d l i g +ADJ +SPRL +NDEF -> t i d l i g e s t: INCORRECT. Should be 't i d l i g s t'
+<nob> t i d l i g +ADJ +CMPR -> t i d l i g a: INCORRECT. Should be 't i d l i g e r e'
+<nob> t i d l i g +ADJ +NEUT +SG -> t i d l i g: CORRECT!
+<nob> k l o s t e r +N +NDEF +PL -> k l o s t r e: CORRECT!
+<nob> k l o s t e r +N +DEF +PL -> k l o s t r a r n e: INCORRECT. Should be 'k l o s t r a'
+<nob> k l o s t e r +N +DEF +SG -> k l o s t e r e n: INCORRECT. Should be 'k l o s t e r e t'
+<nob> b o r d +N +DEF +SG -> b o r d e n: INCORRECT. Should be 'b o r d e t'
+<nob> b o r d +N +DEF +PL -> b o r d a: INCORRECT. Should be 'b o r d e n e'
+<nob> b o r d +N +NDEF +PL -> b o r d: INCORRECT. Should be 'b o r d e r'
+<nob> e s t e t i k k +N +DEF +SG -> e s t e t i k k e n: CORRECT!
+<nob> e s t e t i k k +N +DEF +PL -> e s t e t i k k e n e: CORRECT!
+<nob> s p i l l e +V +PST -> s p i l l e t: INCORRECT. Should be 's p i l t e'
+<nob> s p i l l e +V.PTCP +PRS -> s p i l l e e n d e: INCORRECT. Should be 's p i l l e n d e'
+<nob> s p i l l e +V +PRS -> s p i l l e r: CORRECT!
+<nob> r i n g +N +NDEF +PL -> r i n g a r: INCORRECT. Should be 'r i n g e r'
+<nob> r i n g +N +DEF +SG -> r i n g a: INCORRECT. Should be 'r i n g e n'
+<nob> s k i s s e +N +DEF +PL -> s k i s s a: INCORRECT. Should be 's k i s s e n e'
+<nob> s k i s s e +N +DEF +SG -> s k i s s a: CORRECT!
+<nob> s k i s s e +N +NDEF +PL -> s k i s s a r: INCORRECT. Should be 's k i s s e r'
+<nob> s t a t s k u p p +N +DEF +PL -> s t a t s k u p p a: CORRECT!
+<nob> s t a t s k u p p +N +NDEF +PL -> s t a t s k u p p e r: INCORRECT. Should be 's t a t s k u p p'
+<nob> u t o p i s k +ADJ +DEF +SG+PL -> u t o p i s k e: CORRECT!
+<nob> u t o p i s k +ADJ +NEUT +SG -> u t o p i s k: CORRECT!
+<nob> a u s t r a l s k +ADJ +DEF +SG+PL -> a u s t r a l s k e: CORRECT!
+<nob> a u s t r a l s k +ADJ +NEUT +SG -> a u s t r a l s k: CORRECT!
+<nob> f o r l e g g e r +N +DEF +PL -> f o r l e g g e r n e: CORRECT!
+<nob> f o r l e g g e r +N +NDEF +PL -> f o r l e g g e r e: CORRECT!
+<nob> i n n t r y k k +N +NDEF +PL -> i n n t r y k k: CORRECT!
+<nob> i n n t r y k k +N +DEF +PL -> i n n t r y k k a: CORRECT!
+<nob> l i t u r g i s k +ADJ +DEF +SG+PL -> l i t u r g i s k e: CORRECT!
+<nob> k o s e l i g +ADJ +DEF +SG+PL -> k o s e l i g e: CORRECT!
+<nob> f o r k j ø l e l s e +N +DEF +PL -> f o r k j ø l e l s e n e: CORRECT!
+<nob> f o r k j ø l e l s e +N +NDEF +PL -> f o r k j ø l e l s e r: CORRECT!
+<nob> f o r k j ø l e l s e +N +DEF +SG -> f o r k j ø l e l s e n: CORRECT!
+<nob> t i e r +N +NDEF +PL -> m i e r: INCORRECT. Should be 't i e r e'
+<nob> t i e n d e d e l +N +DEF +PL -> t i e n d e d e l a n e: INCORRECT. Should be 't i e n d e d e l e n e'
+<nob> t i e n d e d e l +N +NDEF +PL -> t i e n d e d e l a r: INCORRECT. Should be 't i e n d e d e l e r'
+<nob> t i e n d e d e l +N +DEF +SG -> t i e n d e d e l e n: CORRECT!
+<nob> r e v +N +DEF +PL -> r e v e n e: CORRECT!
+<nob> r e v +N +NDEF +PL -> r e v e r: CORRECT!
+<nob> r e v +N +DEF +SG -> r e v e n: CORRECT!
+<nob> å k e r +N +DEF +PL -> å k l e n e: INCORRECT. Should be 'å k r e n e'
+<nob> å k e r +N +NDEF +PL -> å k r e: INCORRECT. Should be 'å k e r e'
+<nob> å k e r +N +DEF +SG -> å k e r e n: CORRECT!
+<nob> d e m o k r a t +N +DEF +SG -> d e m o k r a t a n: INCORRECT. Should be 'd e m o k r a t e n'
+<nob> b y f o r n y i n g +N +DEF +SG -> b y f o r n y i n g a r n a: INCORRECT. Should be 'b y f o r n y i n g a'
+<nob> k u b a n e r +N +DEF +PL -> k u b a n e r n e: CORRECT!
+<nob> k u b a n e r +N +DEF +SG -> k u b a n e r e n: CORRECT!
+<nob> k u b a n e r +N +NDEF +PL -> k u b a n e r e: CORRECT!
+<nob> h e r t u g +N +DEF +SG -> h e r t u g e t: INCORRECT. Should be 'h e r t u g e n'
+<nob> r a v n +N +DEF +SG -> r a v n e t: INCORRECT. Should be 'r a v n e n'
+<nob> r a v n +N +DEF +PL -> r a v n e n e: CORRECT!
+<nob> r a v n +N +NDEF +PL -> r a v n e r: CORRECT!
+<nob> g r a v e +V +PST -> g r a v e t: INCORRECT. Should be 'g r o v'
+<nob> g r a v e +V.PTCP +PRS -> g r a v e n d e: CORRECT!
+<nob> b l a d +N +DEF +PL -> b l a d e n e: CORRECT!
+<nob> b l a d +N +NDEF +PL -> b l a d: CORRECT!
+<nob> k i r u r g +N +DEF +SG -> k i r u r g e n: CORRECT!
+<nob> k i r u r g +N +NDEF +PL -> k i r u r g e r: CORRECT!
+<nob> h e v e +V.PTCP +PST -> h e v e d d: INCORRECT. Should be 'h e v d'
+<nob> h e v e +V +PRS -> h e v e r: CORRECT!
+<nob> h e v e +V +PST -> h e v e t: CORRECT!
+<nob> t a l g o k s e +N +NDEF +PL -> t a l g o k s e r: CORRECT!
+<nob> f i n g e r +N +DEF +SG -> f i n g e r e n: CORRECT!
+<nob> f i n g e r +N +NDEF +PL -> f i n g e r e: INCORRECT. Should be 'f i n g r e r'
+<nob> f i n g e r +N +DEF +PL -> f i n g e r n e: INCORRECT. Should be 'f i n g r e n e'
+<nob> a v g j ø r e +V.PTCP +PRS -> a v g j ø r e n d e: CORRECT!
+<nob> a v g j ø r e +V +IMP -> a v g j ø r: CORRECT!
+<nob> a v g j ø r e +V.PTCP +PST -> a v g j ø r e t: INCORRECT. Should be 'a v g j o r t'
+<nob> a v g j ø r e +V +PST -> a v g j ø r d e: INCORRECT. Should be 'a v g j o r d e'
+<nob> e f f e k t +N +DEF +PL -> e f f e k t e n e: CORRECT!
+<nob> e f f e k t +N +NDEF +PL -> e f f e k t e r: CORRECT!
+<nob> e f f e k t +N +DEF +SG -> e f f e k t e t: INCORRECT. Should be 'e f f e k t e n'
+<nob> t r u +N +DEF +SG -> t r u e n: CORRECT!
+<nob> t r u e +V +PST -> t r u e t: CORRECT!
+<nob> t r u e +V +PRS -> t r u e r: CORRECT!
+<nob> t r u e +V +IMP -> t r u e: INCORRECT. Should be 't r u'
+<nob> t r u +N +NDEF +PL -> t r u e r: CORRECT!
+<nob> t r u +N +DEF +PL -> t r u e n e: CORRECT!
+<nob> h e s t e k r a f t +N +DEF +PL -> h e s t e k r a f t a n e: INCORRECT. Should be 'h e s t e k r e f t e n e'
+<nob> h e s t e k r a f t +N +DEF +SG -> h e s t e k r a f t a n: INCORRECT. Should be 'h e s t e k r a f t a'
+<nob> h e s t e k r a f t +N +NDEF +PL -> h e s t e k r a f t e r: INCORRECT. Should be 'h e s t e k r e f t e r'
+<nob> a n g s t b i t e r +N +NDEF +PL -> a n g s t b i t e r e: CORRECT!
+<nob> a n g s t b i t e r +N +DEF +SG -> a n g s t b i t e r e n: CORRECT!
+<nob> a n g s t b i t e r +N +DEF +PL -> a n g s t b i t e r n e: CORRECT!
+<nob> t i e n d e +N +DEF +SG -> t i e n d e t: INCORRECT. Should be 't i e n d e n'
+<nob> t i e n d e +N +DEF +PL -> t i e n d a: INCORRECT. Should be 't i e n d e n e'
+<nob> t i e n d e +N +NDEF +PL -> t i e n d e r: CORRECT!
+<nob> s a f t i g +ADJ +DEF +SG+PL -> s a f t i g e: CORRECT!
+<nob> s a f t i g +ADJ +NEUT +SG -> s a f t i g: CORRECT!
+<nob> s a f t i g +ADJ +CMPR -> s a f t i g e: INCORRECT. Should be 's a f t i g e r e'
+<nob> k e n y a n e r +N +DEF +PL -> k e n y a n e r n e: CORRECT!
+<nob> k e n y a n e r +N +DEF +SG -> k e n y a n e r e n: CORRECT!
+<nob> a s t r o l o g i +N +DEF +SG -> a s t r o l o g i e t: INCORRECT. Should be 'a s t r o l o g i e n'
+<nob> s y n g e +V.PTCP +PRS -> s y n g e n d e: CORRECT!
+<nob> s y n g e +V +PRS -> s y n g e r: CORRECT!
+<nob> s y n g e +V.PTCP +PST -> s y n g e t: INCORRECT. Should be 's u n g e t'
+<nob> v e r d e n s m e s t e r +N +NDEF +PL -> v e r d e n s m e s t e r e: INCORRECT. Should be 'v e r d e n s m e s t r e'
+<nob> v e r d e n s m e s t e r +N +DEF +SG -> v e r d e n s m e s t e r e n: CORRECT!
+<nob> v e r d e n s m e s t e r +N +DEF +PL -> v e r d e n s m e s t r e n e: CORRECT!
+<nob> m o t e +N +NDEF +PL -> m o t e r: CORRECT!
+<nob> m o t e +N +DEF +PL -> m o t e n e: CORRECT!
+<nob> m o t e +N +DEF +SG -> m o t e n: CORRECT!
+<nob> f r u k t b a r +ADJ +DEF +SG+PL -> f r u k t b a r e: CORRECT!
+<nob> m u l i g g j ø r e +V +PST -> m u l i g g j ø r d e: INCORRECT. Should be 'm u l i g g j o r d e'
+<nob> m u l i g g j ø r e +V.PTCP +PST -> m u l i g g j ø r e t: INCORRECT. Should be 'm u l i g g j o r t'
+<nob> m u l i g g j ø r e +V +PRS -> m u l i g g j ø r e r: INCORRECT. Should be 'm u l i g g j ø r'
+<nob> m u l i g g j ø r e +V +IMP -> m u l i g g j ø r: CORRECT!
+<nob> i s k r e m +N +DEF +SG -> i s k r e m m e t: INCORRECT. Should be 'i s k r e m e n'
+<nob> i s k r e m +N +NDEF +PL -> i s k r e m m a r: INCORRECT. Should be 'i s k r e m e r'
+<nob> n y t t å r s d a g +N +DEF +PL -> n y t t å r s d a g a n e: INCORRECT. Should be 'n y t t å r s d a g e n e'
+<nob> n y t t å r s d a g +N +DEF +SG -> n y t t å r s d a g e n: CORRECT!
+<nob> n y t t å r s d a g +N +NDEF +PL -> n y t t å r s d a g a r: INCORRECT. Should be 'n y t t å r s d a g e r'
+<nob> d j e v e l +N +NDEF +PL -> d j e v e l e r: INCORRECT. Should be 'd j e v l e r'
+<nob> d j e v e l +N +DEF +SG -> d j e v e l e n: CORRECT!
+<nob> d j e v e l +N +DEF +PL -> d j e v e l e n e: INCORRECT. Should be 'd j e v l e n e'
+<nob> v a k t +N +DEF +PL -> v a k t a: INCORRECT. Should be 'v a k t e n e'
+<nob> v a k t +N +DEF +SG -> v a k t e n: CORRECT!
+<nob> v a k t +N +NDEF +PL -> v a k t: INCORRECT. Should be 'v a k t e r'
+<nob> a k a d e m i k e r +N +DEF +PL -> a k a d e m i k e r n e: CORRECT!
+<nob> a k a d e m i k e r +N +NDEF +PL -> a k a d e m i k e r e: CORRECT!
+<nob> a k a d e m i k e r +N +DEF +SG -> a k a d e m i k e r e n: CORRECT!
+<nob> u a v h e n g i g h e t +N +DEF +SG -> u a v h e n g i g h e t e n: CORRECT!
+<nob> l å n +N +DEF +SG -> l å n e t: CORRECT!
+<nob> l å n +N +NDEF +PL -> l å n e r: INCORRECT. Should be 'l å n'
+<nob> l å n e +V +PRS -> l å n e r: CORRECT!
+<nob> l å n e +V.PTCP +PST -> l å n e d d: INCORRECT. Should be 'l å n t'
+<nob> l å n e +V.PTCP +PRS -> l å n e e n d e: INCORRECT. Should be 'l å n e n d e'
+<nob> l å n e +V +PST -> l å n e: INCORRECT. Should be 'l å n t e'
+<nob> l å n e +V +IMP -> l å n e: INCORRECT. Should be 'l å n'
+<nob> l å n +N +DEF +PL -> l å n a: CORRECT!
+<nob> b a n k +N +DEF +PL -> b a n k e n e: CORRECT!
+<nob> b a n k +N +DEF +SG -> b a n k e n: CORRECT!
+<nob> i n v e s t e r i n g +N +DEF +SG -> i n v e s t e r i n g a n: INCORRECT. Should be 'i n v e s t e r i n g e n'
+<nob> i n v e s t e r i n g +N +NDEF +PL -> i n v e s t e r i n g e r: CORRECT!
+<nob> i n v e s t e r i n g +N +DEF +PL -> i n v e s t e r i n g e n e: CORRECT!
+<nob> e g g +N +DEF +PL -> e g g e n e: CORRECT!
+<nob> e g g +N +DEF +SG -> e g g e n: INCORRECT. Should be 'e g g e t'
+<nob> o k s i d e r e +V.PTCP +PST -> o k s i d e r t: CORRECT!
+<nob> o k s i d e r e +V +PRS -> o k s i d e r e r: CORRECT!
+<nob> o k s i d e r e +V.PTCP +PRS -> o k s i d e r e n d e: CORRECT!
+<nob> f o r h o l d +N +DEF +PL -> f o r h o l d e n e: CORRECT!
+<nob> f o r h o l d +N +NDEF +PL -> f o r h o l d e r: INCORRECT. Should be 'f o r h o l d'
+<nob> f o r h o l d +N +DEF +SG -> f o r h o l d e n: INCORRECT. Should be 'f o r h o l d e t'
+<nob> t e m m e +V +PST -> t e m m e t: INCORRECT. Should be 't e m t e'
+<nob> t e m m e +V.PTCP +PST -> t e m m e d d: INCORRECT. Should be 't e m m a'
+<nob> t e m m e +V.PTCP +PRS -> t e m m e n d e: CORRECT!
+<nob> a f o r i s m e +N +NDEF +PL -> a f o r i s m e r: CORRECT!
+<nob> a f o r i s m e +N +DEF +SG -> a f o r i s m e n: CORRECT!
+<nob> g r a n d t a n t e +N +DEF +PL -> g r a n d t a n t e n e: CORRECT!
+<nob> g r a n d t a n t e +N +NDEF +PL -> g r a n d t a n t e r: CORRECT!
+<nob> f e n g s e l +N +DEF +PL -> f e n g s e l e n e: INCORRECT. Should be 'f e n g s l a'
+<nob> f e n g s e l +N +DEF +SG -> f e n g s e l e n: INCORRECT. Should be 'f e n g s l e t'
+<nob> f e n g s e l +N +NDEF +PL -> f e n g s e l e r: INCORRECT. Should be 'f e n g s e l'
+<nob> l u k t e s a n s +N +DEF +SG -> l u k t e s a n s e n: CORRECT!
+<nob> f o r v e n t n i n g +N +NDEF +PL -> f o r v e n t n i n g e r: CORRECT!
+<nob> f o r v e n t n i n g +N +DEF +SG -> f o r v e n t n i n g a: CORRECT!
+<nob> f o r v e n t n i n g +N +DEF +PL -> f o r v e n t n i n g e n e: CORRECT!
+<nob> a l g e b r a +N +NDEF +PL -> a l g e b r o r: INCORRECT. Should be 'a l g e b r a e r'
+<nob> a l g e b r a +N +DEF +PL -> a l g e b r o n e: INCORRECT. Should be 'a l g e b r a e n e'
+<nob> h i s t o r i e +N +DEF +SG -> h i s t o r i e n: CORRECT!
+<nob> t e k s t +N +DEF +PL -> t e k s t a: INCORRECT. Should be 't e k s t e n e'
+<nob> t e k s t e +V +PST -> t e k s t a t t e: INCORRECT. Should be 't e k s t e t'
+<nob> t e k s t +N +DEF +SG -> t e k s t a: CORRECT!
+<nob> k a t e k i s m e +N +DEF +SG -> k a t e k i s m e n: CORRECT!
+<nob> k a t e k i s m e +N +NDEF +PL -> k a t e k i s m e r: CORRECT!
+<nob> f r a m t i d +N +NDEF +PL -> f r a m t i d e r: CORRECT!
+<nob> f r a m t i d +N +DEF +PL -> f r a m t i d e n e: CORRECT!
+<nob> f r a m t i d +N +DEF +SG -> f r a m t i d e n: CORRECT!
+<nob> a l f a b e t +N +NDEF +PL -> a l f a b e t: CORRECT!
+<nob> a l f a b e t +N +DEF +PL -> a l f a b e t a: CORRECT!
+<nob> a p p a r a t +N +DEF +PL -> a p p a r a t a n e: INCORRECT. Should be 'a p p a r a t a'
+<nob> a p p a r a t +N +DEF +SG -> a p p a r a t a n: INCORRECT. Should be 'a p p a r a t e t'
+<nob> a p p a r a t +N +NDEF +PL -> a p p a r a t e r: INCORRECT. Should be 'a p p a r a t'
+<nob> o f f e r +N +DEF +PL -> o f f e r n e: INCORRECT. Should be 'o f r e n e'
+<nob> o f r e +V +PST -> o f r e t: CORRECT!
+<nob> o f r e +V +IMP -> o f r e: CORRECT!
+<nob> m y t o l o g i +N +NDEF +PL -> m y t o l o g i e r: CORRECT!
+<nob> m y t o l o g i +N +DEF +PL -> m y t o l o g i e n e: CORRECT!
+<nob> o r g e l +N +DEF +SG -> o r g e l e n: INCORRECT. Should be 'o r g e l e t'
+<nob> o r g e l +N +DEF +PL -> o r g l a n e: INCORRECT. Should be 'o r g l e n e'
+<nob> o r g e l +N +NDEF +PL -> o r g l a r: INCORRECT. Should be 'o r g e l'
+<nob> m o t v i r k e +V +PST -> m o t v i r k e t: CORRECT!
+<nob> m o t v i r k e +V +PRS -> m o t v i r k e r: CORRECT!
+<nob> m o t v i r k e +V.PTCP +PRS -> m o t v i r k e n d e: CORRECT!
+<nob> f o r a n d r e +V +PRS -> f o r a n d r e r: CORRECT!
+<nob> f o r a n d r e +V +PST -> f o r a n d r e t: CORRECT!
+<nob> f o r a n d r e +V +IMP -> f o r a n d r e: INCORRECT. Should be 'f o r a n d r'
+<nob> g a m m a s t r å l i n g +N +DEF +SG -> g a m m a s t r å l i n g a: INCORRECT. Should be 'g a m m a s t r å l i n g e n'
+<nob> s t ø y t t a n n +N +DEF +SG -> s t ø y t t a n n e n: INCORRECT. Should be 's t ø y t t a n n a'
+<nob> s t ø y t t a n n +N +DEF +PL -> s t ø y t t a n n e n e: INCORRECT. Should be 's t ø y t t e n n e n e'
+<nob> l a n g b u e +N +DEF +PL -> l a n g b u e n e: CORRECT!
+<nob> l a n g b u e +N +NDEF +PL -> l a n g b u e r: CORRECT!
+<nob> l a n g b u e +N +DEF +SG -> l a n g b u e n: CORRECT!
+<nob> b e s ø k +N +DEF +SG -> b e s ø k e t: CORRECT!
+<nob> b e s ø k +N +NDEF +PL -> b e s ø k e r: INCORRECT. Should be 'b e s ø k'
+<nob> b e s ø k e +V +PST -> b e s ø k t e: CORRECT!
+<nob> b e s ø k e +V +PRS -> b e s ø k e r: CORRECT!
+<nob> b e s ø k e +V +IMP -> b e s ø k: CORRECT!
+<nob> b e s ø k +N +DEF +PL -> b e s ø k e n e: CORRECT!
+<nob> h e n g s e l +N +DEF +PL -> h e n g s e l e n e: INCORRECT. Should be 'h e n g s l a'
+<nob> h e n g s e l +N +DEF +SG -> h e n g s e l e n: INCORRECT. Should be 'h e n g s l a'
+<nob> h e n g s e l +N +NDEF +PL -> h e n g s e l e r: INCORRECT. Should be 'h e n g s l e r'
+<nob> r e i n +ADJ +SPRL +NDEF -> r e i n e s t: CORRECT!
+<nob> r e i n +N +NDEF +PL -> r e i n e r: CORRECT!
+<nob> r e i n +ADJ +NEUT +SG -> r e i n t: CORRECT!
+<nob> r e i n +N +DEF +PL -> r e i n e n e: CORRECT!
+<nob> r e i n +ADJ +SPRL +DEF -> r e i n a s t e: INCORRECT. Should be 'r e i n e s t e'
+<nob> r e i n +N +DEF +SG -> r e i n e t: INCORRECT. Should be 'r e i n e n'
+<nob> r e i n +ADJ +DEF +SG+PL -> r e i n e: CORRECT!
+<nob> v i d u n d e r l i g +ADJ +PL -> v i d u n d e r l i g a r n e: INCORRECT. Should be 'v i d u n d e r l i g e'
+<nob> v i d u n d e r l i g +ADJ +SPRL -> v i d u n d e r l i g a s: INCORRECT. Should be 'v i d u n d e r l i g s t'
+<nob> v i d u n d e r l i g +ADJ +CMPR -> v i d u n d e r l i g a: INCORRECT. Should be 'v i d u n d e r l i g e r e'
+<nob> a l d e h y d +N +NDEF +PL -> a l d e h y d e r: CORRECT!
+<nob> a l d e h y d +N +DEF +PL -> a l d e h y d e n e: INCORRECT. Should be 'a l d e h y d a'
+<nob> a l d e h y d +N +DEF +SG -> a l d e h y d e t: CORRECT!
+<nob> t o l k n i n g +N +DEF +PL -> t o l k n i n g a n e: INCORRECT. Should be 't o l k n i n g e n e'
+<nob> t o l k n i n g +N +DEF +SG -> t o l k n i n g a: INCORRECT. Should be 't o l k n i n g e n'
+<nob> t r o m m e s t i k k e +N +DEF +SG -> t r o m m e s t i k k e n: CORRECT!
+<nob> t r o m m e s t i k k e +N +NDEF +PL -> t r o m m e s t i k k e r: CORRECT!
+<nob> n e s e +N +DEF +SG -> n e s e n: CORRECT!
+<nob> n e s e +N +NDEF +PL -> n e s e r: CORRECT!
+<nob> n e s e +N +DEF +PL -> n e s a: INCORRECT. Should be 'n e s e n e'
+<nob> s k o l e s e k k +N +NDEF +PL -> s k o l e s e k k: INCORRECT. Should be 's k o l e s e k k e r'
+<nob> s k o l e s e k k +N +DEF +SG -> s k o l e s e k k e t: INCORRECT. Should be 's k o l e s e k k e n'
+<nob> s k o l e s e k k +N +DEF +PL -> s k o l e s e k k e n e: CORRECT!
+<nob> k o n t o r +N +DEF +PL -> k o n t o r e n e: CORRECT!
+<nob> k o n t o r +N +NDEF +PL -> k o n t o r e r: INCORRECT. Should be 'k o n t o r'
+<nob> k o n t o r +N +DEF +SG -> k o n t o r e n: INCORRECT. Should be 'k o n t o r e t'
+<nob> k j e d e r e a k s j o n +N +DEF +PL -> k j e d e r e a k s j o n e n e: CORRECT!
+<nob> k j e d e r e a k s j o n +N +NDEF +PL -> k j e d e r e a k s j o n e r: CORRECT!
+<nob> k j e d e r e a k s j o n +N +DEF +SG -> k j e d e r e a k s j o n e n: CORRECT!
+<nob> m o d e n +ADJ +DEF +SG+PL -> m o d n e: CORRECT!
+<nob> m e n s t r u e r e +V +PST -> m e n s t r u e r t e: CORRECT!
+<nob> m e n s t r u e r e +V.PTCP +PST -> m e n s t r u e r e t: INCORRECT. Should be 'm e n s t r u e r t'
+<nob> m e n s t r u e r e +V.PTCP +PRS -> m e n s t r u e r e n d e: CORRECT!
+<nob> k o n s e n t r e r e +V +IMP -> k o n s e n t r e r: CORRECT!
+<nob> k o n s e n t r e r e +V +PRS -> k o n s e n t r e r e r: CORRECT!
+<nob> k o n s e n t r e r e +V.PTCP +PST -> k o n s e n t r e r e t: INCORRECT. Should be 'k o n s e n t r e r t'
+<nob> k o n s e n t r e r e +V +PST -> k o n s e n t r e r t e: CORRECT!
+<nob> k o n s e n t r e r t +ADJ +DEF +SG+PL -> k o n s e n t r e r t e: CORRECT!
+<nob> k o n s e n t r e r e +V.PTCP +PRS -> k o n s e n t r e r e r n d e: INCORRECT. Should be 'k o n s e n t r e r e n d e'
+<nob> k o n s e n t r e r t +ADJ +NEUT +SG -> k o n s e n t r e r t: CORRECT!
+<nob> k v a n t i t e t +N +NDEF +PL -> k v a n t i t e t e r: CORRECT!
+<nob> k v a n t i t e t +N +DEF +PL -> k v a n t i t e t a n e: INCORRECT. Should be 'k v a n t i t e t e n e'
+<nob> k v a n t i t e t +N +DEF +SG -> k v a n t i t e t e n: CORRECT!
+<nob> b r i l l e +N +DEF +SG -> b r i l l e n: CORRECT!
+<nob> b r i l l e +N +DEF +PL -> b r i l l e n e: CORRECT!
+<nob> t e r m o m e t e r +N +NDEF +PL -> t e r m o m e t e r e: INCORRECT. Should be 't e r m o m e t r e'
+<nob> p r o g r a m +N +DEF +PL -> p r o g r a m m e n e: INCORRECT. Should be 'p r o g r a m m a'
+<nob> p r o g r a m m e r e +V +IMP -> p r o g r a m m e r: CORRECT!
+<nob> p r o g r a m m e r e +V +PST -> p r o g r a m m e r t e: CORRECT!
+<nob> p r o g r a m m e r e +V.PTCP +PRS -> p r o g r a m m e r e n d e: CORRECT!
+<nob> p r o g r a m m e r e +V +PRS -> p r o g r a m m e r e r: CORRECT!
+<nob> p r o g r a m +N +NDEF +PL -> p r o g r a m: CORRECT!
+<nob> h e l t +N +DEF +SG -> h e l t e n: CORRECT!
+<nob> h e l t +N +NDEF +PL -> h e l t e r: CORRECT!
+<nob> s u p e r m a r k e d +N +DEF +PL -> s u p e r m a r k e d e n e: CORRECT!
+<nob> s u p e r m a r k e d +N +NDEF +PL -> s u p e r m a r k e d: CORRECT!
+<nob> v a r e +N +DEF +PL -> v a r e n e: CORRECT!
+<nob> v a r e +N +NDEF +PL -> v a r e r: CORRECT!
+<nob> s t r a t e g i s k +ADJ +DEF +SG+PL -> s t r a t e g i s k e: CORRECT!
+<nob> s t r a t e g i s k +ADJ +NEUT +SG -> s t r a t e g i s k: CORRECT!
+<nob> v a n n k o p p e r +N +DEF +PL -> v a n n k o p p e r e n e: INCORRECT. Should be 'v a n n k o p p e n e'
+<nob> b o b l e +V +PRS -> b o b l e r: CORRECT!
+<nob> b o b l e +V +PST -> b o b l e t: INCORRECT. Should be 'b o b l a'
+<nob> b o b l e +N +DEF +SG -> b o b l e n: CORRECT!
+<nob> b o b l e +V.PTCP +PRS -> b o b l e e n d e: INCORRECT. Should be 'b o b l e n d e'
+<nob> b o b l e +N +NDEF +PL -> b o b l e r: CORRECT!
+<nob> a r v e l i g +ADJ +NEUT +SG -> a r v e l i g: CORRECT!
+<nob> a r v e l i g +ADJ +DEF +SG+PL -> a r v e l i g e: CORRECT!
+<nob> k a k i p l o m m e +N +DEF +SG -> k a k i p l o m m e t: INCORRECT. Should be 'k a k i p l o m m a'
+<nob> k a k i p l o m m e +N +NDEF +PL -> k a k i p l o m m e r: CORRECT!
+<nob> f i l o l o g i +N +DEF +SG -> f i l o l o g i e t: INCORRECT. Should be 'f i l o l o g i e n'
+<nob> l i b y s k +ADJ +NEUT +SG -> l i b y s k: CORRECT!
+<nob> l i b y s k +ADJ +DEF +SG+PL -> l i b y s k e: CORRECT!
+<nob> a l l e r g i +N +NDEF +PL -> a l l e r g i e r: CORRECT!
+<nob> a l l e r g i +N +DEF +PL -> a l l e r g i e t: INCORRECT. Should be 'a l l e r g i e n e'
+<nob> a l l e r g i +N +DEF +SG -> a l l e r g i e t: INCORRECT. Should be 'a l l e r g i e n'
+<nob> n y g i f t +ADJ +DEF +SG+PL -> n y g i f t e: CORRECT!
+<nob> m i s h a n d l e +V +IMP -> m i s h a n d l e: CORRECT!
+<nob> m i s h a n d l e +V +PRS -> m i s h a n d l e r: CORRECT!
+<nob> m i s h a n d l e +V +PST -> m i s h a n d l e t: CORRECT!
+<nob> r ø d h e t +N +DEF +SG -> r ø d h e t e n: CORRECT!
+<nob> s e l v i s k +ADJ +NEUT +SG -> s e l v i s k: CORRECT!
+<nob> s e l v i s k +ADJ +DEF +SG+PL -> s e l v i s k e: CORRECT!
+<nob> l a s e r b e h a n d l i n g +N +NDEF +PL -> l a s e r b e h a n d l i n g a r: INCORRECT. Should be 'l a s e r b e h a n d l i n g e r'
+<nob> l a s e r b e h a n d l i n g +N +DEF +SG -> l a s e r b e h a n d l i n g a n: INCORRECT. Should be 'l a s e r b e h a n d l i n g a'
+<nob> a m b i s i ø s +ADJ +NEUT +SG -> a m b i s i é s: INCORRECT. Should be 'a m b i s i ø s t'
+<nob> a m b i s i ø s +ADJ +DEF +SG+PL -> a m b i s i é s e: INCORRECT. Should be 'a m b i s i ø s e'
+<nob> j e r n +N +DEF +SG -> j e r n e t: CORRECT!
+<nob> j e r n +N +NDEF +PL -> j e r n e r: INCORRECT. Should be 'j e r n'
+<nob> j e r n +N +DEF +PL -> j e r n e n e: INCORRECT. Should be 'j e r n a'
+<nob> a d f e r d +N +DEF +SG -> a d f e r d e t: INCORRECT. Should be 'a d f e r d e n'
+<nob> a d f e r d +N +DEF +PL -> a d f e r d e n e: CORRECT!
+<nob> a d f e r d +N +NDEF +PL -> a d f e r d: INCORRECT. Should be 'a d f e r d e r'
+<nob> f o r l a g +N +DEF +PL -> f o r l a g e n e: CORRECT!
+<nob> f o r l a g +N +NDEF +PL -> f o r l a g: CORRECT!
+<nob> f o r l a g +N +DEF +SG -> f o r l a g e t: CORRECT!
+<nob> u p r o f e s j o n e l l +ADJ +DEF +SG+PL -> u p r o f e s j o n e l l e: CORRECT!
+<nob> u p r o f e s j o n e l l +ADJ +NEUT +SG -> u p r o f e s j o n e l l: INCORRECT. Should be 'u p r o f e s j o n e l t'
+<nob> e - p o s t +N +DEF +SG -> e - p o s t e n: CORRECT!
+<nob> e - p o s t +N +NDEF +PL -> e - p o s t e r: CORRECT!
+<nob> e - p o s t +N +DEF +PL -> e - p o s t a: INCORRECT. Should be 'e - p o s t e n e'
+<nob> b r ø d r i s t e r +N +DEF +SG -> b r ø d r i s t e r e n: CORRECT!
+<nob> b r ø d r i s t e r +N +NDEF +PL -> b r ø d r i s t e r e: CORRECT!
+<nob> d ø r m a t t e +N +NDEF +PL -> d ø r m a t t e r: CORRECT!
+<nob> d ø r m a t t e +N +DEF +SG -> d ø r m a t t e n: CORRECT!
+<nob> f ø d e +V +PRS -> f ø d e r: CORRECT!
+<nob> f ø d e +V +PST -> f ø d d e: INCORRECT. Should be 'f ø d t e'
+<nob> f ø d e +V.PTCP +PST -> f ø d d: INCORRECT. Should be 'f ø d t'
+<nob> f ø d t +ADJ +DEF +SG+PL -> f ø d t e: CORRECT!
+<nob> f o t o +N +DEF +PL -> f o t o n e: INCORRECT. Should be 'f o t o a'
+<nob> s a n g e r i n n e +N +NDEF +PL -> s a n g e r i n n e r: CORRECT!
+<nob> g r ø n n s a k +N +DEF +PL -> g r ø n n s a k a n e: INCORRECT. Should be 'g r ø n n s a k e n e'
+<nob> g r ø n n s a k +N +DEF +SG -> g r ø n n s a k e n: CORRECT!
+<nob> g r ø n n s a k +N +NDEF +PL -> g r ø n n s a k e r: CORRECT!
+<nob> f a n t a s i +N +DEF +SG -> f a n t a s i e t: INCORRECT. Should be 'f a n t a s i e n'
+<nob> f a n t a s i +N +DEF +PL -> f a n t a s i e t: INCORRECT. Should be 'f a n t a s i e n e'
+<nob> f a n t a s i +N +NDEF +PL -> f a n t a s i e r: CORRECT!
+<nob> t r a k a s s e r e +V +PRS -> t r a k a s s e r e r: CORRECT!
+<nob> t r a k a s s e r e +V +PST -> t r a k a s s e r t e: CORRECT!
+<nob> t r a k a s s e r e +V.PTCP +PST -> t r a k a s s e r e t: INCORRECT. Should be 't r a k a s s e r t'
+<nob> t r a k a s s e r e +V.PTCP +PRS -> t r a k a s s e r e n d e: CORRECT!
+<nob> t r a k a s s e r e +V +IMP -> t r a k a s s e r: CORRECT!
+<nob> u r u g u a y a n e r +N +NDEF +PL -> u r u g u a y a n e r e r: INCORRECT. Should be 'u r u g u a y a n e r e'
+<nob> u r u g u a y a n e r +N +DEF +SG -> u r u g u a y a n e r e n: CORRECT!
+<nob> u r u g u a y a n e r +N +DEF +PL -> u r u g u a y a n e r n e: CORRECT!
+<nob> v i k +N +DEF +SG -> v i k e t: INCORRECT. Should be 'v i k a'
+<nob> v i k +N +DEF +PL -> v i k a: INCORRECT. Should be 'v i k e n e'
+<nob> v i k +N +NDEF +PL -> v i k e r: CORRECT!
+<nob> s a l g +N +NDEF +PL -> s a l g e r: INCORRECT. Should be 's a l g'
+<nob> s a l g +N +DEF +SG -> s a l g e n: INCORRECT. Should be 's a l g e t'
+<nob> s a l g +N +DEF +PL -> s a l g e n e: CORRECT!
+<nob> a r b e i d s t a g e r +N +DEF +SG -> a r b e i d s t a g e r e n: CORRECT!
+<nob> a r b e i d s t a g e r +N +DEF +PL -> a r b e i d s t a g e r n e: CORRECT!
+<nob> a r b e i d s t a g e r +N +NDEF +PL -> a r b e i d s t a g e r e: CORRECT!
+<nob> å k l e +N +DEF +PL -> å k l a: INCORRECT. Should be 'å k l æ r n e'
+<nob> å k l e +N +DEF +SG -> å k l e n: INCORRECT. Should be 'å k l e e t'
+<nob> n u m m e r +N +DEF +PL -> n u m l e r n e: INCORRECT. Should be 'n u m r a'
+<nob> n u m m e r +N +DEF +SG -> n u m m e r e n: INCORRECT. Should be 'n u m m e r e t'
+<nob> n u m m e r +N +NDEF +PL -> n u m r e: CORRECT!
+<nob> l e v e m a n n +N +NDEF +PL -> l e v e m ä n n a r: INCORRECT. Should be 'l e v e m e n n'
+<nob> l e v e m a n n +N +DEF +SG -> l e v e m a n n e n: CORRECT!
+<nob> s t e n +N +DEF +SG -> s t e n t e n: INCORRECT. Should be 's t e n e n'
+<nob> s t e n +N +DEF +PL -> s t e n a: INCORRECT. Should be 's t e n e n e'
+<nob> s t e n +N +NDEF +PL -> s t e n e r: CORRECT!
+<nob> p o t t e p l a n t e +N +DEF +SG -> p o t t e p l a n t e n: CORRECT!
+<nob> s p o r v o g n +N +NDEF +PL -> s p o r v o g n a r: INCORRECT. Should be 's p o r v o g n e r'
+<nob> s p o r v o g n +N +DEF +PL -> s p o r v o g n e n e: CORRECT!
+<nob> s p o r v o g n +N +DEF +SG -> s p o r v o g n e n: CORRECT!
+<nob> s u p e r m a k t +N +DEF +SG -> s u p e r m a k t e n: INCORRECT. Should be 's u p e r m a k t a'
+<nob> s u p e r m a k t +N +NDEF +PL -> s u p e r m a k t e r: CORRECT!
+<nob> s k j ø n n +ADJ +DEF +SG+PL -> s k j ø n n e: CORRECT!
+<nob> s k j ø n n +ADJ +NEUT +SG -> s k j ø n n: INCORRECT. Should be 's k j ø n t'
+<nob> k u n s t g a l l e r i +N +DEF +PL -> k u n s t g a l l e r i e t e: INCORRECT. Should be 'k u n s t g a l l e r i a'
+<nob> k u n s t g a l l e r i +N +NDEF +PL -> k u n s t g a l l e r i e r: INCORRECT. Should be 'k u n s t g a l l e r i'
+<nob> k u n s t g a l l e r i +N +DEF +SG -> k u n s t g a l l e r i e t: CORRECT!
+<nob> j o r d b æ r +N +DEF +SG -> j o r d b æ r e n: INCORRECT. Should be 'j o r d b æ r e t'
+<nob> j o r d b æ r +N +DEF +PL -> j o r d b æ r e n e: CORRECT!
+<nob> u b e v æ p n e t +ADJ +DEF +SG+PL -> u b e v æ p n e t e: INCORRECT. Should be 'u b e v æ p n e d e'
+<nob> u b e v æ p n e t +ADJ +NEUT +SG -> u b e v æ p n e t: CORRECT!
+<nob> b r i n g e b æ r +N +DEF +PL -> b r i n g e b æ r e n e: CORRECT!
+<nob> b r i n g e b æ r +N +DEF +SG -> b r i n g e b æ r e t: CORRECT!
+<nob> p i p e +N +NDEF +PL -> p i p e r: CORRECT!
+<nob> p i p e +N +DEF +PL -> p i p e: INCORRECT. Should be 'p i p e n e'
+<nob> p i p e +N +DEF +SG -> p i p e n: CORRECT!
+<nob> k i l o m e t e r +N +DEF +PL -> k i l o m e t e r n e: CORRECT!
+<nob> k i l o m e t e r +N +NDEF +PL -> k i l o m e t e r e: INCORRECT. Should be 'k i l o m e t e r'
+<nob> k i l o m e t e r +N +DEF +SG -> k i l o m e t e r e n: CORRECT!
+<nob> v a s e +N +DEF +SG -> v a s e n: CORRECT!
+<nob> v a s e +N +DEF +PL -> v a s e n e: CORRECT!
+<nob> v a s e +N +NDEF +PL -> v a s e r: CORRECT!
+<nob> p o t e t +N +DEF +PL -> p o t e t e n e: CORRECT!
+<nob> p o t e t +N +DEF +SG -> p o t e t: INCORRECT. Should be 'p o t e t e n'
+<nob> p o t e t +N +NDEF +PL -> p o t e t e r: CORRECT!
+<nob> t e m a +N +DEF +SG -> t e m a n: INCORRECT. Should be 't e m a e t'
+<nob> t e m a +N +DEF +PL -> t e m o n e: INCORRECT. Should be 't e m a e n e'
+<nob> t e m a +N +NDEF +PL -> t e m o r: INCORRECT. Should be 't e m a'
+<nob> a l k a n +N +NDEF +PL -> a l k a n e r: CORRECT!
+<nob> a l k a n +N +DEF +PL -> a l k a n e n e: CORRECT!
+<nob> h y s t e r i s k +ADJ +NEUT +SG -> h y s t e r i s k: CORRECT!
+<nob> t i k k e +V +PRS -> t i k k e r: CORRECT!
+<nob> t i k k e +V +PST -> t i k k e d e: INCORRECT. Should be 't i k k a'
+<nob> t i k k e +V.PTCP +PRS -> t i k k e e n d e: INCORRECT. Should be 't i k k e n d e'
+<nob> a m ø b e +N +NDEF +PL -> a m ø b e r: CORRECT!
+<nob> a m ø b e +N +DEF +PL -> a m ø b e n e: CORRECT!
+<nob> a m ø b e +N +DEF +SG -> a m ø b e n: CORRECT!
+<nob> f i n l e n d e r +N +DEF +SG -> f i n l e n d e r e n: CORRECT!
+<nob> f a t +N +DEF +PL -> f a t l e n e: INCORRECT. Should be 'f a t e n e'
+<nob> f a t +N +DEF +SG -> f a t e t: CORRECT!
+<nob> s k o l e +N +DEF +PL -> s k o l a: INCORRECT. Should be 's k o l e n e'
+<nob> l i t a u e r +N +DEF +SG -> l i t a u e r e n: CORRECT!
+<nob> é n s k i n n e b a n e +N +NDEF +PL -> 1 n s k i n n e b a n e r: INCORRECT. Should be 'é n s k i n n e b a n e r'
+<nob> é n s k i n n e b a n e +N +DEF +PL -> 1 n s k i n n e b a n a n e: INCORRECT. Should be 'é n s k i n n e b a n e n e'
+<nob> p æ l e r o t +N +DEF +SG -> p æ l e r o t e n: CORRECT!
+<nob> p æ l e r o t +N +NDEF +PL -> p æ l e r o t e r: INCORRECT. Should be 'p æ l e r ø t t e r'
+<nob> p æ l e r o t +N +DEF +PL -> p æ l e r o t e n e: INCORRECT. Should be 'p æ l e r ø t t e n e'
+<nob> t i l s e t n i n g s s t o f f +N +DEF +PL -> t i l s e t n i n g s s t o f f e n e: CORRECT!
+<nob> t i l s e t n i n g s s t o f f +N +DEF +SG -> t i l s e t n i n g s s t o f f t: INCORRECT. Should be 't i l s e t n i n g s s t o f f e t'
+<nob> t i l s e t n i n g s s t o f f +N +NDEF +PL -> t i l s e t n i n g s s t o f f: CORRECT!
+<nob> f j e r n s y n +N +NDEF +PL -> f j e r n s y n e r: INCORRECT. Should be 'f j e r n s y n'
+<nob> f j e r n s y n +N +DEF +PL -> f j e r n s y n e n e: CORRECT!
+<nob> r e l a t i v +ADJ +DEF +SG+PL -> r e l a t i v e: CORRECT!
+<nob> r e l a t i v +ADJ +NEUT +SG -> r e l a t i v: INCORRECT. Should be 'r e l a t i v t'
+<nob> r e p r o d u s e r e +V +PST -> r e p r o d u s e r t e: CORRECT!
+<nob> r e p r o d u s e r e +V +PRS -> r e p r o d u s e r e r: CORRECT!
+<nob> r e p r o d u s e r e +V.PTCP +PST -> r e p r o d u s e r e t: INCORRECT. Should be 'r e p r o d u s e r t'
+<nob> r e p r o d u s e r e +V +IMP -> r e p r o d u s e r: CORRECT!
+<nob> d r y p p e +V.PTCP +PST -> d r y p p e t: CORRECT!
+<nob> d r y p p e +V.PTCP +PRS -> d r y p p e n d e: CORRECT!
+<nob> d r y p p e +V +PST -> d r y p p e t: INCORRECT. Should be 'd r y p t e'
+<nob> e n t r e p r e n ø r +N +DEF +SG -> e n t r e p r e n ø r e n: CORRECT!
+<nob> p i a n o +N +DEF +SG -> p i a n o t: INCORRECT. Should be 'p i a n o e t'
+<nob> p i a n o +N +NDEF +PL -> p i a n o: CORRECT!
+<nob> b e f r i +V +PRS +PASS -> b e f r i r s: INCORRECT. Should be 'b e f r i s'
+<nob> b e f r i +V.PTCP +PST -> b e f r i d d: CORRECT!
+<nob> b e f r i +V +PST -> b e f r i d: INCORRECT. Should be 'b e f r i d d e'
+<nob> b e f r i +V +PRS -> b e f r i r e r: INCORRECT. Should be 'b e f r i r'
+<nob> m ø r k +ADJ +SPRL +DEF -> m ø r k e s t e: CORRECT!
+<nob> m ø r k +ADJ +NEUT +SG -> m ø r k t: CORRECT!
+<nob> s e n t r i f u g a l +ADJ +NEUT +SG -> s e n t r i f u g a l: INCORRECT. Should be 's e n t r i f u g a l t'
+<nob> s e n t r i f u g a l +ADJ +DEF +SG+PL -> s e n t r i f u g a l e: CORRECT!
+<nob> f o b i +N +DEF +PL -> f o b i e t e: INCORRECT. Should be 'f o b i e n e'
+<nob> f o b i +N +NDEF +PL -> f o b i: INCORRECT. Should be 'f o b i e r'
+<nob> f j e l l +N +DEF +PL -> f j e l l e n e: INCORRECT. Should be 'f j e l l a'
+<nob> f j e l l +N +DEF +SG -> f j e l l e n: INCORRECT. Should be 'f j e l l e t'
+<nob> f u s j o n +N +DEF +PL -> f u s j o n e n e: CORRECT!
+<nob> f u s j o n +N +DEF +SG -> f u s j o n e t: INCORRECT. Should be 'f u s j o n e n'
+<nob> m e l l o m n a v n +N +DEF +PL -> m e l l o m n a v n e n e: CORRECT!
+<nob> m e l l o m n a v n +N +DEF +SG -> m e l l o m n a v n e t: CORRECT!
+<nob> m a s e +V +PST -> m a s t e: CORRECT!
+<nob> m a s e +V.PTCP +PST -> m a s e d d: INCORRECT. Should be 'm a s a'
+<nob> i r a k e r +N +DEF +SG -> i r a k e r e n: CORRECT!
+<nob> i r a k e r +N +NDEF +PL -> i r a k e r e: CORRECT!
+<nob> i r a k e r +N +DEF +PL -> i r a k e r n e: CORRECT!
+<nob> l o m m e l e r k e +N +NDEF +PL -> l o m m e l e r k e r: CORRECT!
+<nob> l o m m e l e r k e +N +DEF +PL -> l o m m e l e r k e t e: INCORRECT. Should be 'l o m m e l e r k e n e'
+<nob> j o r d +N +DEF +SG -> j o r d e t: INCORRECT. Should be 'j o r d a'
+<nob> o b l i g a t o r i s k +ADJ +NEUT +SG -> o b l i g a t o r i s k: CORRECT!
+<nob> t e l l e r +N +DEF +PL -> t e l l e r n e: CORRECT!
+<nob> t e l l e r +N +NDEF +PL -> t e l l e r e: CORRECT!
+<nob> t e l l e r +N +DEF +SG -> t e l l e r e n: CORRECT!
+<nob> b e n k +N +NDEF +PL -> b e n k e r: CORRECT!
+<nob> b e n k +N +DEF +PL -> b e n k e n e: CORRECT!
+<nob> b e n k +N +DEF +SG -> b e n k e t: INCORRECT. Should be 'b e n k e n'
+<nob> m e d l e m +N +DEF +PL -> m e d l e m m a n e: INCORRECT. Should be 'm e d l e m m e n e'
+<nob> m e d l e m +N +DEF +SG -> m e d l e m m a t: INCORRECT. Should be 'm e d l e m m e t'
+<nob> m e d l e m +N +NDEF +PL -> m e d l e m m e r: CORRECT!
+<nob> f i j i a n e r +N +NDEF +PL -> f i j i a n e r e: CORRECT!
+<nob> f i j i a n e r +N +DEF +PL -> f i j i a n e r n e: CORRECT!
+<nob> f i j i a n e r +N +DEF +SG -> f i j i a n e r e n: CORRECT!
+<nob> g y n g e h e s t +N +DEF +PL -> g y n g e h e s t a t e: INCORRECT. Should be 'g y n g e h e s t e n e'
+<nob> g y n g e h e s t +N +DEF +SG -> g y n g e h e s t a t e: INCORRECT. Should be 'g y n g e h e s t e n'
+<nob> g y n g e h e s t +N +NDEF +PL -> g y n g e h e s t e r: CORRECT!
+<nob> s ø r k o r e a n e r +N +NDEF +PL -> s ø r k o r e a n e r e r: INCORRECT. Should be 's ø r k o r e a n e r e'
+<nob> s ø r k o r e a n e r +N +DEF +SG -> s ø r k o r e a n e r e n: CORRECT!
+<nob> s ø r k o r e a n e r +N +DEF +PL -> s ø r k o r e a n e r n e: CORRECT!
+<nob> m u s i k k i n s t r u m e n t +N +DEF +SG -> m u s i k k i n s t r u m e n t e t: CORRECT!
+<nob> m u s i k k i n s t r u m e n t +N +DEF +PL -> m u s i k k i n s t r u m e n t e n e: CORRECT!
+<nob> m u n n f u l l +N +NDEF +PL -> m u n n f u l l: INCORRECT. Should be 'm u n n f u l l e r'
+<nob> m u n n f u l l +N +DEF +PL -> m u n n f u l l e n e: CORRECT!
+<nob> m u n n f u l l +N +DEF +SG -> m u n n f u l l e n: CORRECT!
+<nob> n e w a g e r +N +DEF +SG -> n e w a g e r e n: CORRECT!
+<nob> n e w a g e r +N +DEF +PL -> n e w a g e r n e: CORRECT!
+<nob> h o p p e +N +DEF +PL -> h o p p a: INCORRECT. Should be 'h o p p e n e'
+<nob> h o p p e +V +PST -> h o p p e t: INCORRECT. Should be 'h o p p a'
+<nob> h o p p e +V +PRS -> h o p p e r: CORRECT!
+<nob> h o p p e +N +DEF +SG -> h o p p a: CORRECT!
+<nob> h o p p +N +DEF +PL -> h o p p a: CORRECT!
+<nob> s y n t e s e +N +NDEF +PL -> s y n t e s e r: CORRECT!
+<nob> s y n t e s e +N +DEF +SG -> s y n t e s e n: CORRECT!
+<nob> s y n t e s e +N +DEF +PL -> s y n t e s e n e: CORRECT!
+<nob> s k a n d i n a v i s k +ADJ +DEF +SG+PL -> s k a n d i n a v i s k e: CORRECT!
+<nob> s k a n d i n a v i s k +ADJ +NEUT +SG -> s k a n d i n a v i s k: CORRECT!
+<nob> p r y d e +V +PST -> p r y d d e: INCORRECT. Should be 'p r y d a'
+<nob> p r y d e +V.PTCP +PRS -> p r y d e t d e: INCORRECT. Should be 'p r y d e n d e'
+<nob> p r y d e +V +IMP -> p r y d e: INCORRECT. Should be 'p r y d'
+<nob> p r y d e +V +PRS -> p r y d e r: CORRECT!
+<nob> e t t e r f ø l g e r +N +NDEF +PL -> e t t e r f ø l g e r e: CORRECT!
+<nob> e t t e r f ø l g e r +N +DEF +PL -> e t t e r f ø l g e r n e: CORRECT!
+<nob> e n t a l l +N +DEF +PL -> e n t a l l e n e: CORRECT!
+<nob> e n t a l l +N +DEF +SG -> e n t a l l e n: INCORRECT. Should be 'e n t a l l e t'
+<nob> b r u k e +V +IMP -> b r u k: CORRECT!
+<nob> b r u k e +V.PTCP +PST -> b r u k e d: INCORRECT. Should be 'b r u k t'
+<nob> å s +N +DEF +SG -> å s e n: CORRECT!
+<nob> å s +N +NDEF +PL -> å s a r: INCORRECT. Should be 'å s e r'
+<nob> k u n s t i g +ADJ +DEF +SG+PL -> k u n s t i g e: CORRECT!
+<nob> k u n s t i g +ADJ +NEUT +SG -> k u n s t i g: CORRECT!
+<nob> t u l i p a n +N +NDEF +PL -> t u l i p a n e r: CORRECT!
+<nob> t u l i p a n +N +DEF +SG -> t u l i p a n e t: INCORRECT. Should be 't u l i p a n e n'
+<nob> t u l i p a n +N +DEF +PL -> t u l i p a n e n e: CORRECT!
+<nob> s t j e r n e s k u d d +N +DEF +PL -> s t j e r n e s k u d d a n e: INCORRECT. Should be 's t j e r n e s k u d d e n e'
+<nob> s t j e r n e s k u d d +N +NDEF +PL -> s t j e r n e s k u d d: CORRECT!
+<nob> s t j e r n e s k u d d +N +DEF +SG -> s t j e r n e s k u d d a t: INCORRECT. Should be 's t j e r n e s k u d d e t'
+<nob> f o r b e r e d e +V +PST -> f o r b e r e d d e t: INCORRECT. Should be 'f o r b e r e d t e'
+<nob> f o r b e r e d e +V.PTCP +PRS -> f o r b e r e d e n d e: CORRECT!
+<nob> f o r b e r e d e +V.PTCP +PST -> f o r b e r e d d: INCORRECT. Should be 'f o r b e r e d t'
+<nob> f o r b e r e d e +V +IMP -> f o r b e r e d: CORRECT!
+<nob> f o r h i s t o r i e +N +DEF +SG -> f o r h i s t o r i e n: CORRECT!
+<nob> f o r h i s t o r i e +N +DEF +PL -> f o r h i s t o r i e n e: CORRECT!
+<nob> f o r h i s t o r i e +N +NDEF +PL -> f o r h i s t o r i e r: CORRECT!
+<nob> b l i n d +ADJ +PL -> b l i n d a r n e: INCORRECT. Should be 'b l i n d e'
+<nob> b l i n d +ADJ +NEUT -> b l i n d a t: INCORRECT. Should be 'b l i n d t'
+<nob> k a b i n +N +DEF +SG -> k a b i n e t: INCORRECT. Should be 'k a b i n e n'
+<nob> k a b i n +N +NDEF +PL -> k a b i n e r: CORRECT!
+<nob> a b o r t +N +DEF +SG -> a b o r t e n: CORRECT!
+<nob> a b o r t +N +NDEF +PL -> a b o r t e r: CORRECT!
+<nob> f u l l s t e n d i g +ADJ +DEF +SG+PL -> f u l l s t e n d i g e: CORRECT!
+<nob> i s b r e +N +DEF +PL -> i s b r e n e: INCORRECT. Should be 'i s b r e e n e'
+<nob> i s b r e +N +NDEF +PL -> i s b r e r: INCORRECT. Should be 'i s b r e e r'
+<nob> f i n g e r t u p p +N +NDEF +PL -> f i n g e r t u p p e r: CORRECT!
+<nob> f i n g e r t u p p +N +DEF +SG -> f i n g e r t u p p e n: CORRECT!
+<nob> u g l e +N +NDEF +PL -> u g l e r: CORRECT!
+<nob> u g l e +N +DEF +SG -> u g l e n: CORRECT!
+<nob> g r e s s k l i p p e r +N +NDEF +PL -> g r e s s k l i p p e r e: CORRECT!
+<nob> g r e s s k l i p p e r +N +DEF +PL -> g r e s s k l i p p e r e n e: INCORRECT. Should be 'g r e s s k l i p p e r n e'
+<nob> g r e s s k l i p p e r +N +DEF +SG -> g r e s s k l i p p e r e t: INCORRECT. Should be 'g r e s s k l i p p e r e n'
+<nob> s u b k o n t i n e n t +N +DEF +PL -> s u b k o n t i n e n t e n e: INCORRECT. Should be 's u b k o n t i n e n t a'
+<nob> s u b k o n t i n e n t +N +DEF +SG -> s u b k o n t i n e n t e n: INCORRECT. Should be 's u b k o n t i n e n t e t'
+<nob> s u b k o n t i n e n t +N +NDEF +PL -> s u b k o n t i n e n t e r: INCORRECT. Should be 's u b k o n t i n e n t'
+<nob> e k s e m p l a r +N +DEF +SG -> e k s e m p l a r e n: INCORRECT. Should be 'e k s e m p l a r e t'
+<nob> e k s e m p l a r +N +DEF +PL -> e k s e m p l a r e n e: CORRECT!
+<nob> e k s e m p l a r +N +NDEF +PL -> e k s e m p l a r a r: INCORRECT. Should be 'e k s e m p l a r e r'
+<nob> b a n k e +V +IMP -> b a n k e: INCORRECT. Should be 'b a n k'
+<nob> b a n k e +V +PST -> b a n k e: INCORRECT. Should be 'b a n k a'
+<nob> b a n k e +N +NDEF +PL -> b a n k e r: CORRECT!
+<nob> u o r d e n +N +DEF +SG -> u o r d e n: INCORRECT. Should be 'u o r d e n e n'
+<nob> u n d e r t e g n e +V +PST -> u n d e r t e g n e t: CORRECT!
+<nob> u n d e r t e g n e +V +IMP -> u n d e r t e g n e: INCORRECT. Should be 'u n d e r t e g n'
+<nob> g i r k a s s e +N +DEF +SG -> g i r k a s s e n: CORRECT!
+<nob> g i r k a s s e +N +DEF +PL -> g i r k a s s e n e: CORRECT!
+<nob> v e r d e n s m e s t e r s k a p +N +DEF +SG -> v e r d e n s m e s t e r s k a p e t: CORRECT!
+<nob> v e r d e n s m e s t e r s k a p +N +NDEF +PL -> v e r d e n s m e s t e r s k a p: CORRECT!
+<nob> k l a s s e r o m +N +DEF +PL -> k l a s s e r o m m e n e: CORRECT!
+<nob> k l a s s e r o m +N +DEF +SG -> k l a s s e r o m e t: INCORRECT. Should be 'k l a s s e r o m m e t'
+<nob> k l a s s e r o m +N +NDEF +PL -> k l a s s e r o m m e r: INCORRECT. Should be 'k l a s s e r o m'
+<nob> e v o l u s j o n +N +DEF +PL -> e v o l u s j o n a n e: INCORRECT. Should be 'e v o l u s j o n e n e'
+<nob> e v o l u s j o n +N +DEF +SG -> e v o l u s j o n e n: CORRECT!
+<nob> s t i g e +N +DEF +PL -> s t i g e n e: CORRECT!
+<nob> s t i g e +V +PST -> s t e g a v e: INCORRECT. Should be 's t e i g'
+<nob> s t i g e +V +PRS -> s t i g e r: CORRECT!
+<nob> s t i g e +V.PTCP +PST -> s t i g e n: INCORRECT. Should be 's t e g e t'
+<nob> p i k k +N +NDEF +PL -> p i k k e r: CORRECT!
+<nob> p i k k +N +DEF +SG -> p i k k e t: INCORRECT. Should be 'p i k k e n'
+<nob> p i k k +N +DEF +PL -> p i k k e n e: CORRECT!
+<nob> s t e i k e p a n n e +N +NDEF +PL -> s t e i k e p a n n e r: CORRECT!
+<nob> s t e i k e p a n n e +N +DEF +SG -> s t e i k e p a n n e t: INCORRECT. Should be 's t e i k e p a n n a'
+<nob> u f o r a n d r e t +ADJ +NEUT +SG -> u f o r a n d r e t: CORRECT!
+<nob> u f o r a n d r e t +ADJ +DEF +SG+PL -> u f o r a n d r e t e: CORRECT!
+<nob> s k a d e +V +IMP -> s k a d e: INCORRECT. Should be 's k a d'
+<nob> s k a d e +V.PTCP +PST -> s k a d e d: INCORRECT. Should be 's k a d a'
+<nob> s k a d e +N +NDEF +PL -> s k a d e r: CORRECT!
+<nob> s k a d e +V +PST -> s k a d d: INCORRECT. Should be 's k a d d e'
+<nob> s k a d e +N +DEF +SG -> s k a d e t: INCORRECT. Should be 's k a d e n'
+<nob> s e i l +N +DEF +PL -> s e i l e n e: CORRECT!
+<nob> s p r e n g s t o f f +N +NDEF +PL -> s p r e n g s t o f f a r: INCORRECT. Should be 's p r e n g s t o f f e r'
+<nob> s p r e n g s t o f f +N +DEF +SG -> s p r e n g s t o f f a t: INCORRECT. Should be 's p r e n g s t o f f e t'
+<nob> s p r e n g s t o f f +N +DEF +PL -> s p r e n g s t o f f a: CORRECT!
+<nob> t u n i s i e r +N +DEF +PL -> t u n i s i e r n e: CORRECT!
+<nob> t u n i s i e r +N +DEF +SG -> t u n i s i e r e n: CORRECT!
+<nob> t u n i s i e r +N +NDEF +PL -> t u n i s i e r e: CORRECT!
+<nob> d e m o k r a t i +N +NDEF +PL -> d e m o k r a t i e r: CORRECT!
+<nob> d e m o k r a t i +N +DEF +PL -> d e m o k r a t i e n e: CORRECT!
+<nob> e k s p e r i m e n t e r e +V +PST -> e k s p e r i m e n t e r t e: CORRECT!
+<nob> e k s p e r i m e n t e r e +V +PRS -> e k s p e r i m e n t e r e r: CORRECT!
+<nob> e k s p e r i m e n t e r e +V +IMP -> e k s p e r i m e n t e r: CORRECT!
+<nob> r u n d +ADJ +SPRL +DEF -> r u n d a s t e: INCORRECT. Should be 'r u n d e s t e'
+<nob> r u n d +ADJ +SPRL +NDEF -> r u n d a s t: INCORRECT. Should be 'r u n d e s t'
+<nob> r u n d +ADJ +CMPR -> r u n d a: INCORRECT. Should be 'r u n d e r e'
+<nob> a v s k a f f e +V +PRS -> a v s k a f f e r: CORRECT!
+<nob> a v s k a f f e +V +PST -> a v s k a f f e t: CORRECT!
+<nob> s j ø f u g l +N +DEF +SG -> s j ø f u g l e n: CORRECT!
+<nob> s j ø f u g l +N +DEF +PL -> s j ø f u g l a n e: INCORRECT. Should be 's j ø f u g l e n e'
+<nob> l u r +N +DEF +SG -> l u r e n: CORRECT!
+<nob> l u r +N +DEF +PL -> l u r e n e: CORRECT!
+<nob> l e n g d e +N +DEF +SG -> l e n g d e t: INCORRECT. Should be 'l e n g d e n'
+<nob> l e n g d e +N +NDEF +PL -> l e n g d e r: CORRECT!
+<nob> s t e m m e +V +PST -> s t e m m e t: INCORRECT. Should be 's t e m t e'
+<nob> s t e m m e +N +DEF +PL -> s t e m m e n e: CORRECT!
+<nob> s t e m m e +V.PTCP +PST -> s t e m m e t: INCORRECT. Should be 's t e m t'
+<nob> s t e m m e +N +NDEF +PL -> s t e m m e r: CORRECT!
+<nob> s t e m m e +V.PTCP +PRS -> s t e m m e n d e: CORRECT!
+<nob> s t e m m e +N +DEF +SG -> s t e m m e n: CORRECT!
+<nob> s t e m m e +V +PRS -> s t e m m e r: CORRECT!
+<nob> f o r a n d r i n g +N +DEF +PL -> f o r a n d r i n g e n e: CORRECT!
+<nob> f o r a n d r i n g +N +DEF +SG -> f o r a n d r i n g a: CORRECT!
+<nob> f o r a n d r i n g +N +NDEF +PL -> f o r a n d r i n g e r: CORRECT!
+<nob> f a s e +N +DEF +SG -> f a s e n: CORRECT!
+<nob> f a s e +N +DEF +PL -> f a s a: INCORRECT. Should be 'f a s e n e'
+<nob> f a s e +N +NDEF +PL -> f a s e r: CORRECT!
+<nob> a m b i s j o n +N +DEF +PL -> a m b i s j o n a n e: INCORRECT. Should be 'a m b i s j o n e n e'
+<nob> a m b i s j o n +N +DEF +SG -> a m b i s j o n e n: CORRECT!
+<nob> a m b i s j o n +N +NDEF +PL -> a m b i s j o n e r: CORRECT!
+<nob> a n e s t e s i +N +NDEF +PL -> a n e s t e s i e r: CORRECT!
+<nob> a n e s t e s i +N +DEF +PL -> a n e s t e s i e t: INCORRECT. Should be 'a n e s t e s i e n e'
+<nob> a n e s t e s i +N +DEF +SG -> a n e s t e s i e t: INCORRECT. Should be 'a n e s t e s i e n'
+<nob> a r a m e i s k +ADJ +NEUT +SG -> a r a m e i s k: CORRECT!
+<nob> a r a m e i s k +ADJ +DEF +SG+PL -> a r a m e i s k e: CORRECT!
+<nob> a r a m e i s k +N +DEF +SG -> a r a m e i s k e n: CORRECT!
+<nob> s t ø v s u g e r +N +DEF +SG -> s t ø v s u g e r e n: CORRECT!
+<nob> s t ø v s u g e r +N +DEF +PL -> s t ø v s u g r e n e: INCORRECT. Should be 's t ø v s u g e r n e'
+<nob> v o l l g r a v +N +DEF +SG -> v o l l g r a v e n: CORRECT!
+<nob> v o l l g r a v +N +NDEF +PL -> v o l l g r a v a r: INCORRECT. Should be 'v o l l g r a v e r'
+<nob> v o l l g r a v +N +DEF +PL -> v o l l g r a v a n e: INCORRECT. Should be 'v o l l g r a v e n e'
+<nob> g l a s s v e r k +N +NDEF +PL -> g l a s s v e r k: CORRECT!
+<nob> g l a s s v e r k +N +DEF +PL -> g l a s s v e r k a t e: INCORRECT. Should be 'g l a s s v e r k e n e'
+<nob> m a d r a s s +N +NDEF +PL -> m a d r a s s e r: CORRECT!
+<nob> m a d r a s s +N +DEF +PL -> m a d r a s s e n e: CORRECT!
+<nob> m a d r a s s +N +DEF +SG -> m a d r a s s e n: CORRECT!
+<nob> p r o g r a m m e r i n g +N +DEF +SG -> p r o g r a m m e r i n g a n: INCORRECT. Should be 'p r o g r a m m e r i n g e n'
+<nob> p r o g r a m m e r i n g +N +NDEF +PL -> p r o g r a m m e r i n g e r: CORRECT!
+<nob> f l a g g +N +NDEF +PL -> f l a g g: CORRECT!
+<nob> f l a g g +N +DEF +SG -> f l a g g e t: CORRECT!
+<nob> f l a g g +N +DEF +PL -> f l a g g e n e: INCORRECT. Should be 'f l a g g a'
+<nob> v i l l f a r e l s e +N +NDEF +PL -> v i l l f a r e l s e r: CORRECT!
+<nob> v i l l f a r e l s e +N +DEF +PL -> v i l l f a r e l s e n e: CORRECT!
+<nob> a l g o r i t m e +N +DEF +PL -> a l g o r i t m e n e: CORRECT!
+<nob> a l g o r i t m e +N +NDEF +PL -> a l g o r i t m e r: CORRECT!
+<nob> a l g o r i t m e +N +DEF +SG -> a l g o r i t m e n: CORRECT!
+<nob> s ø p p e l b ø t t e +N +DEF +SG -> s ø p p e l b ø t t e n: CORRECT!
+<nob> s ø p p e l b ø t t e +N +DEF +PL -> s ø p p e l b ø t t e n e: CORRECT!
+<nob> e n d r e +V +PRS -> e n d r e r: CORRECT!
+<nob> e n d r e +V.PTCP +PRS -> e n d r e t e n d e: INCORRECT. Should be 'e n d r e n d e'
+<nob> e n d r e +V +IMP -> e n d r e: CORRECT!
+<nob> e n d r e +V +PST -> e n d r e t: INCORRECT. Should be 'e n d r a'
+<nob> t v e t y d i g +ADJ +DEF +PL -> t v e t y d i g e: CORRECT!
+<nob> s p i s s +N +DEF +PL -> s p i s s a: INCORRECT. Should be 's p i s s e n e'
+<nob> s p i s s +ADJ +NEUT +SG -> s p i s s: INCORRECT. Should be 's p i s s t'
+<nob> s p i s s +ADJ +CMPR -> s p i s s a: INCORRECT. Should be 's p i s s e r e'
+<nob> s p i s s +ADJ +SPRL +DEF -> s p i s s a s t e: INCORRECT. Should be 's p i s s e s t e'
+<nob> s p i s s +N +DEF +SG -> s p i s s e t: INCORRECT. Should be 's p i s s e n'
+<nob> m o b i l t e l e f o n +N +NDEF +PL -> m o b i l t e l e f o n e r: CORRECT!
+<nob> m o b i l t e l e f o n +N +DEF +PL -> m o b i l t e l e f o n a n e: INCORRECT. Should be 'm o b i l t e l e f o n e n e'
+<nob> m o b i l t e l e f o n +N +DEF +SG -> m o b i l t e l e f o n e n: CORRECT!
+<nob> e r f a r e n +ADJ +NEUT +SG -> e r f a r e t: INCORRECT. Should be 'e r f a r e n t'
+<nob> m a g n e t f e l t +N +DEF +PL -> m a g n e t f e l t e n e: CORRECT!
+<nob> m a g n e t f e l t +N +NDEF +PL -> m a g n e t f e l t: CORRECT!
+<nob> s n a k k e +V +PRS -> s n a k k e r: CORRECT!
+<nob> s n a k k e +V +IMP -> s n a k k e: INCORRECT. Should be 's n a k k'
+<nob> k a m e r a +N +NDEF +PL -> k a m e r o r: INCORRECT. Should be 'k a m e r a e r'
+<nob> k a m e r a +N +DEF +SG -> k a m e r a n: INCORRECT. Should be 'k a m e r a e t'
+<nob> k a m e r a +N +DEF +PL -> k a m e r o n e: INCORRECT. Should be 'k a m e r a e n e'
+<nob> s k a t t +N +DEF +SG -> s k a t t a: INCORRECT. Should be 's k a t t e n'
+<nob> s i k k e r h e t s n å l +N +DEF +SG -> s i k k e r h e t s n å l e n: CORRECT!
+<nob> s i k k e r h e t s n å l +N +DEF +PL -> s i k k e r h e t s n å l e n e: CORRECT!
+<nob> s v ø m m e b a s s e n g +N +NDEF +PL -> s v ø m m e b a s s e n g e r: CORRECT!
+<nob> s v ø m m e b a s s e n g +N +DEF +PL -> s v ø m m e b a s s e n g e n e: CORRECT!
+<nob> s v ø m m e b a s s e n g +N +DEF +SG -> s v ø m m e b a s s e n e n: INCORRECT. Should be 's v ø m m e b a s s e n g e t'
+<nob> e s e l +N +NDEF +PL -> e s l e r: CORRECT!
+<nob> e s e l +N +DEF +SG -> e s e l e n: INCORRECT. Should be 'e s e l e t'
+<nob> s o m m e r f u g l +N +DEF +PL -> s o m m e r f u g l a n e: INCORRECT. Should be 's o m m e r f u g l e n e'
+<nob> s o m m e r f u g l +N +DEF +SG -> s o m m e r f u g l e n: CORRECT!
+<nob> s p o r t s l i g +ADJ +NEUT +SG -> s p o r t s l i g: CORRECT!
+<nob> s p o r t s l i g +ADJ +DEF +SG+PL -> s p o r t s l i g e: CORRECT!
+<nob> m e r r +N +NDEF +PL -> m e r r e r: CORRECT!
+<nob> m e r r +N +DEF +SG -> m e r r e n: CORRECT!
+<nob> m e r r +N +DEF +PL -> m e r e n e: INCORRECT. Should be 'm e r r e n e'
+<nob> s j o k o l a d e k a k e +N +NDEF +PL -> s j o k o l a d e k a k e r: CORRECT!
+<nob> s j o k o l a d e k a k e +N +DEF +SG -> s j o k o l a d e k a k e n: CORRECT!
+<nob> s j o k o l a d e k a k e +N +DEF +PL -> s j o k o l a d e k a k e n e: CORRECT!
+<nob> t e l e s k o p i s k +ADJ +NEUT +SG -> t e l e s k o p i s k: CORRECT!
+<nob> t e l e s k o p i s k +ADJ +DEF +SG+PL -> t e l e s k o p i s k e: CORRECT!
+<nob> k l o k k e +N +NDEF +PL -> k l o k k e r: CORRECT!
+<nob> k l o k k e +N +DEF +SG -> k l o k k a: CORRECT!
+<nob> u n d e r g a n g +N +DEF +PL -> u n d e r g a n g a n e: INCORRECT. Should be 'u n d e r g a n g e n e'
+<nob> u n d e r g a n g +N +DEF +SG -> u n d e r g a n g e n: CORRECT!
+<nob> k r o k u s +N +DEF +PL -> k r o k u s a: INCORRECT. Should be 'k r o k u s e n e'
+<nob> k r o k u s +N +NDEF +PL -> k r o k u s e r: CORRECT!
+<nob> k r o k u s +N +DEF +SG -> k r o k u s e t: INCORRECT. Should be 'k r o k u s e n'
+<nob> d a n s k e +N +DEF +SG -> d a n s k a: INCORRECT. Should be 'd a n s k e n'
+<nob> d a n s k +ADJ +NEUT +SG -> d a n s k: CORRECT!
+<nob> d a n s k +N +DEF +SG -> d a n s k e n: CORRECT!
+<nob> s e k u n d æ r +ADJ +DEF +SG+PL -> s e k u n d æ r e: CORRECT!
+<nob> s e k u n d æ r +ADJ +NEUT +SG -> s e k u n d æ r t: CORRECT!
+<nob> p a l a s s +N +DEF +SG -> p a l a s s e t: CORRECT!
+<nob> p a l a s s +N +NDEF +PL -> p a l a s s e r: INCORRECT. Should be 'p a l a s s'
+<nob> k r i g f ø r i n g +N +DEF +SG -> k r i g f ø r i n g a: INCORRECT. Should be 'k r i g f ø r i n g e n'
+<nob> k r i g f ø r i n g +N +NDEF +PL -> k r i g f ø r i n g e r: CORRECT!
+<nob> t e g n i n g +N +NDEF +PL -> t e g n i n g a r: INCORRECT. Should be 't e g n i n g e r'
+<nob> t e g n i n g +N +DEF +PL -> t e g n i n g a n e: INCORRECT. Should be 't e g n i n g e n e'
+<nob> p o s t +N +NDEF +PL -> p o s t e r: CORRECT!
+<nob> p o s t +N +DEF +SG -> p o s t e n: CORRECT!
+<nob> l e o p a r d +N +NDEF +PL -> l e o p a r d e r: CORRECT!
+<nob> g e o r g i e r +N +NDEF +PL -> g e o r g i e r e: CORRECT!
+<nob> g e o r g i e r +N +DEF +SG -> g e o r g i e r e n: CORRECT!
+<nob> s t a r t +N +DEF +PL -> s t a r t a n e: INCORRECT. Should be 's t a r t e n e'
+<nob> s t a r t +N +DEF +SG -> s t a r t e n: CORRECT!
+<nob> p a r k +N +DEF +SG -> p a r k e n: CORRECT!
+<nob> e v a k u e r e +V +IMP -> e v a k u e r: CORRECT!
+<nob> e v a k u e r e +V +PRS -> e v a k u e r e r: CORRECT!
+<nob> e v a k u e r e +V.PTCP +PST -> e v a k u e r e t: INCORRECT. Should be 'e v a k u e r t'
+<nob> a s s i s t e r e +V.PTCP +PST -> a s s i s t e r e t: INCORRECT. Should be 'a s s i s t e r t'
+<nob> a s s i s t e r e +V +IMP -> a s s i s t e r: CORRECT!
+<nob> a s s i s t e r e +V +PRS -> a s s i s t e r e r: CORRECT!
+<nob> a s s i s t e r e +V.PTCP +PRS -> a s s i s t e r e n d e: CORRECT!
+<nob> g e n e r a s j o n +N +DEF +SG -> g e n e r a s j o n e n: CORRECT!
+<nob> g e n e r a s j o n +N +NDEF +PL -> g e n e r a s j o n e r: CORRECT!
+<nob> h a l v ø y +N +DEF +SG -> h a l v ø y e t: INCORRECT. Should be 'h a l v ø y a'
+<nob> b o m u l l +N +DEF +SG -> b o m u l l e n: CORRECT!
+<nob> k r a f t +N +NDEF +PL -> k r a f t e r: INCORRECT. Should be 'k r e f t e r'
+<nob> k r a f t +N +DEF +SG -> k r a f t a: CORRECT!
+<nob> k r a f t +N +DEF +PL -> k r a f t a: INCORRECT. Should be 'k r e f t e n e'
+<nob> a s k +N +DEF +SG -> a s k e n: CORRECT!
+<nob> a s k e +N +DEF +SG -> a s k e n: CORRECT!
+<nob> t o a l e t t +N +NDEF +PL -> t o a l e t t e r: CORRECT!
+<nob> t o a l e t t +N +DEF +SG -> t o a l e t t e n: INCORRECT. Should be 't o a l e t t e t'
+<nob> t o a l e t t +N +DEF +PL -> t o a l e t t e n e: INCORRECT. Should be 't o a l e t t a'
+<nob> v i n t e r g r ø n n +ADJ +DEF +SG+PL -> v i n t e r g r ø n n e: CORRECT!
+<nob> v i n t e r g r ø n n +ADJ +NEUT +SG -> v i n t e r g r ø n n: INCORRECT. Should be 'v i n t e r g r ø n t'
+<nob> n e s e b o r +N +DEF +PL -> n e s e b o r e n e: CORRECT!
+<nob> n e s e b o r +N +NDEF +PL -> n e s e b o r e r: INCORRECT. Should be 'n e s e b o r'
+<nob> d i k t a t u r +N +NDEF +PL -> d i k t a t u r a r: INCORRECT. Should be 'd i k t a t u r e r'
+<nob> d i k t a t u r +N +DEF +PL -> d i k t a t u r e n e: CORRECT!
+<nob> p l a s s e r i n g +N +DEF +SG -> p l a s s e r i n g a: CORRECT!
+<nob> p l a s s e r i n g +N +DEF +PL -> p l a s s e r i n g e n e: CORRECT!
+<nob> p l a s s e r i n g +N +NDEF +PL -> p l a s s e r i n g e r: CORRECT!
+<nob> s v a k h e t +N +DEF +SG -> s v a k h e t e n: INCORRECT. Should be 's v a k h e t a'
+<nob> s v a k h e t +N +DEF +PL -> s v a k h e t a n e: INCORRECT. Should be 's v a k h e t e n e'
+<nob> s v a k h e t +N +NDEF +PL -> s v a k h e t e r: CORRECT!
+<nob> h e s t e s k o +N +DEF +PL -> h e s t e s k o n e: INCORRECT. Should be 'h e s t e s k o e n e'
+<nob> h e s t e s k o +N +DEF +SG -> h e s t e s k o t: INCORRECT. Should be 'h e s t e s k o e n'
+<nob> u n d e r j o r d i s k +ADJ +NEUT +SG -> u n d e r j o r d i s k: CORRECT!
+<nob> u n d e r j o r d i s k +ADJ +DEF +SG+PL -> u n d e r j o r d i s k e: CORRECT!
+<nob> i n n g å +V.PTCP +PST -> i n n g å n g e n: INCORRECT. Should be 'i n n g å t t'
+<nob> i n n g å +V +IMP -> i n n g å: CORRECT!
+<nob> i n n g å +V +PRS -> i n n g å r: CORRECT!
+<nob> i n n g å +V +PST -> i n n g i c k: INCORRECT. Should be 'i n n g i k k'
+<nob> s t y r e h u s +N +DEF +PL -> s t y r e h u s e n e: CORRECT!
+<nob> s t y r e h u s +N +NDEF +PL -> s t y r e h u s: CORRECT!
+<nob> s e r b e r +N +NDEF +PL -> s e r b e r e: CORRECT!
+<nob> s e r b e r +N +DEF +SG -> s e r b e r e t: INCORRECT. Should be 's e r b e r e n'
+<nob> b r a n n b i l +N +DEF +PL -> b r a n n b i l e n e: CORRECT!
+<nob> b r a n n b i l +N +DEF +SG -> b r a n n b i l e n: CORRECT!
+<nob> h e m m e l i g +ADJ +DEF +SG+PL -> h e m m e l i g e: CORRECT!
+<nob> h e m m e l i g +ADJ +NEUT +SG -> h e m m e l i g: CORRECT!
+<nob> d e f i n e r e +V.PTCP +PST -> d e f i n e r e t: INCORRECT. Should be 'd e f i n e r t'
+<nob> d e f i n e r e +V +PRS -> d e f i n e r e r: CORRECT!
+<nob> d e f i n e r e +V +PST -> d e f i n e r t e: CORRECT!
+<nob> d e f i n e r e +V +IMP -> d e f i n e r: CORRECT!
+<nob> l a n g f i n g e r +N +DEF +PL -> l a n g f i n g e r n e: INCORRECT. Should be 'l a n g f i n g r e n e'
+<nob> l a n g f i n g e r +N +NDEF +PL -> l a n g f i n g e r e: INCORRECT. Should be 'l a n g f i n g r e'
+<nob> t a k t f u l l +ADJ +NEUT +SG -> t a k t f u l l t: CORRECT!
+<nob> t a k t f u l l +ADJ +DEF +SG+PL -> t a k t f u l l e: CORRECT!
+<nob> m a n g e l +N +DEF +PL -> m a n g l a n e: INCORRECT. Should be 'm a n g l e n e'
+<nob> m a n g e l +N +DEF +SG -> m a n g e l e n: CORRECT!
+<nob> f a s t n ø k k e l +N +NDEF +PL -> f a s t n ø k k e l a r: INCORRECT. Should be 'f a s t n ø k l e r'
+<nob> f a s t n ø k k e l +N +DEF +PL -> f a s t n ø k l a n e: INCORRECT. Should be 'f a s t n ø k l e n e'
+<nob> l u n t e +N +DEF +SG -> l u n t a: CORRECT!
+<nob> d ø r n ø k k e l +N +NDEF +PL -> d ø r n ø k k e l a r: INCORRECT. Should be 'd ø r n ø k l e r'
+<nob> d ø r n ø k k e l +N +DEF +PL -> d ø r n ø k k l a n e: INCORRECT. Should be 'd ø r n ø k l e n e'
+<nob> f i n g e r n e g l +N +DEF +SG -> f i n g e r n e g l e n: CORRECT!
+<nob> f i n g e r n e g l +N +NDEF +PL -> f i n g e r n e g l e r: CORRECT!
+<nob> a k r o b a t +N +DEF +PL -> a k r o b a t e n e: CORRECT!
+<nob> a k r o b a t +N +DEF +SG -> a k r o b a t e t: INCORRECT. Should be 'a k r o b a t e n'
+<nob> b a k t e r i o l o g i +N +DEF +SG -> b a k t e r i o l o g i e t: INCORRECT. Should be 'b a k t e r i o l o g i e n'
+<nob> s k j e +V +PST -> s k j e t: INCORRECT. Should be 's k j e d d e'
+<nob> s k j e +N +DEF +SG -> s k j o n: INCORRECT. Should be 's k j e e n'
+<nob> s k j e +V +PRS -> s k j e r: CORRECT!
+<nob> s k j e +V.PTCP +PST -> s k j e d d: CORRECT!
+<nob> d r a m a t i k e r +N +DEF +SG -> d r a m a t i k e r e n: CORRECT!
+<nob> d r a m a t i k e r +N +DEF +PL -> d r a m a t i k e r n e: CORRECT!
+<nob> d r a m a t i k e r +N +NDEF +PL -> d r a m a t i k e r e: CORRECT!
+<nob> s y n å l +N +DEF +SG -> s y n å l e n: CORRECT!
+<nob> s y n å l +N +DEF +PL -> s y n å l e n e: CORRECT!
+<nob> s y n å l +N +NDEF +PL -> s y n å l e r: CORRECT!
+<nob> a s e r b a j d s j a n e r +N +DEF +PL -> a s e r b a j d s j a n e r n e: CORRECT!
+<nob> a s e r b a j d s j a n e r +N +NDEF +PL -> a s e r b a j d s j a n e r e: CORRECT!
+<nob> i n n t e k t +N +DEF +SG -> i n n t e k t e t: INCORRECT. Should be 'i n n t e k t e n'
+<nob> i n n t e k t +N +NDEF +PL -> i n n t e k t: INCORRECT. Should be 'i n n t e k t e r'
+<nob> i n n t e k t +N +DEF +PL -> i n n t e k t a t e: INCORRECT. Should be 'i n n t e k t e n e'
+<nob> d o b b e l t m o r a l +N +NDEF +PL -> d o b b e l t m o r a l a r: INCORRECT. Should be 'd o b b e l t m o r a l e r'
+<nob> d o b b e l t m o r a l +N +DEF +PL -> d o b b e l t m o r a l e n e: CORRECT!
+<nob> d o b b e l t m o r a l +N +DEF +SG -> d o b b e l t m o r a l e n: CORRECT!
+<nob> a r k i t e k t u r +N +DEF +SG -> a r k i t e k t u r e n: CORRECT!
+<nob> a r k i t e k t u r +N +NDEF +PL -> a r k i t e k t u r a r: INCORRECT. Should be 'a r k i t e k t u r e r'
+<nob> t y s k +ADJ +DEF +SG+PL -> t y s k e: CORRECT!
+<nob> m a s k i n v a r e +N +DEF +SG -> m a s k i n v a r e n: CORRECT!
+<nob> m a s k i n v a r e +N +DEF +PL -> m a s k i n v a r e n e: CORRECT!
+<nob> m a s k i n v a r e +N +NDEF +PL -> m a s k i n v a r e: INCORRECT. Should be 'm a s k i n v a r e r'
+<nob> t r e k k s p i l l +N +NDEF +PL -> t r e k k s p i l l e r: INCORRECT. Should be 't r e k k s p i l l'
+<nob> t r e k k s p i l l +N +DEF +SG -> t r e k k s p i l l e n: INCORRECT. Should be 't r e k k s p i l l e t'
+<nob> t r e k k s p i l l +N +DEF +PL -> t r e k k s p i l l e n e: INCORRECT. Should be 't r e k k s p i l l a'
+<nob> v i k t i g +ADJ +SPRL +DEF -> v i k t i g e s t e: INCORRECT. Should be 'v i k t i g s t e'
+<nob> v i k t i g +ADJ +SPRL +NDEF -> v i k t i g e s t: INCORRECT. Should be 'v i k t i g s t'
+<nob> v i k t i g +ADJ +CMPR -> v i k t i g: INCORRECT. Should be 'v i k t i g e r e'
+<nob> v i k t i g +ADJ +NEUT +SG -> v i k t i g: CORRECT!
+<nob> t u n g t v a n n +N +DEF +SG -> t u n g t v a n n e n: INCORRECT. Should be 't u n g t v a n n e t'
+<nob> b u d e i e +N +DEF +PL -> b u d e i e n e: CORRECT!
+<nob> b u d e i e +N +DEF +SG -> b u d e i e t: INCORRECT. Should be 'b u d e i e n'
+<nob> b u d e i e +N +NDEF +PL -> b u d e i e r: CORRECT!
+<nob> ø d e m a r k +N +NDEF +PL -> ø d e m a r k e r: CORRECT!
+<nob> ø d e m a r k +N +DEF +SG -> ø d e m a r k e t: INCORRECT. Should be 'ø d e m a r k e n'
+<nob> s i l i k o n +N +NDEF +PL -> s i l i k o n e r: CORRECT!
+<nob> s i l i k o n +N +DEF +PL -> s i l i k o n e n e: CORRECT!
+<nob> s i l i k o n +N +DEF +SG -> s i l i k o n e t: CORRECT!
+<nob> k l e s v a s k +N +DEF +SG -> k l e s v a s k a: INCORRECT. Should be 'k l e s v a s k e n'
+<nob> k l e s v a s k +N +DEF +PL -> k l e s v a s k a n e: INCORRECT. Should be 'k l e s v a s k e n e'
+<nob> g a l s k a p +N +DEF +SG -> g a l s k a p e n: CORRECT!
+<nob> g a l s k a p +N +NDEF +PL -> g a l s k a p a r: INCORRECT. Should be 'g a l s k a p e r'
+<nob> f a n a t i s k +ADJ +DEF +SG+PL -> f a n a t i s k e: CORRECT!
+<nob> f a n a t i s k +ADJ +NEUT +SG -> f a n a t i s k: CORRECT!
+<nob> h ø l +N +DEF +PL -> h ø l e n e: CORRECT!
+<nob> h ø l +N +DEF +SG -> h ø l e n: CORRECT!
+<nob> k ø l l e +N +DEF +SG -> k ø l l e n: CORRECT!
+<nob> k ø l l e +N +NDEF +PL -> k ø l l e r: CORRECT!
+<nob> s p y +N +DEF +SG -> s p y t: INCORRECT. Should be 's p y e t'
+<nob> s p y +V.PTCP +PST -> s p y d d: CORRECT!
+<nob> s p y +V +PST -> s p y d d: INCORRECT. Should be 's p y d d e'
+<nob> h å n d s k r e v e n +ADJ +NEUT +SG -> h å n d s k r e v e n: INCORRECT. Should be 'h å n d s k r e v e t'
+<nob> s t a t l i g +ADJ +DEF +SG+PL -> s t a t l i g e: CORRECT!
+<nob> s t a t l i g +ADJ +NEUT +SG -> s t a t l i g: CORRECT!
+<nob> v i n k e l +N +NDEF +PL -> v i n k l a r: INCORRECT. Should be 'v i n k l e r'
+<nob> v i n k e l +N +DEF +SG -> v i n k e l e n: CORRECT!
+<nob> v i n k e l +N +DEF +PL -> v i n k l a n e: INCORRECT. Should be 'v i n k l e n e'
+<nob> l e i r d u e +N +DEF +PL -> l e i r d u e n e: CORRECT!
+<nob> l e i r d u e +N +NDEF +PL -> l e i r d u e r: CORRECT!
+<nob> l e i r d u e +N +DEF +SG -> l e i r d u e n: CORRECT!
+<nob> d i f f u s +ADJ +NEUT -> d i f f u s t e r n e: INCORRECT. Should be 'd i f f u s t'
+<nob> d i f f u s +ADJ +PL -> d i f f u s e n: INCORRECT. Should be 'd i f f u s e'
+<nob> p l a s t +N +DEF +SG -> p l a s t a: INCORRECT. Should be 'p l a s t e n'
+<nob> p l a s t +N +DEF +PL -> p l a s t a t e n e: INCORRECT. Should be 'p l a s t e n e'
+<nob> s t r ø m m e +V.PTCP +PST -> s t r ø m m e t: CORRECT!
+<nob> s t r ø m +N +NDEF +PL -> s t r ø m m e r: CORRECT!
+<nob> s t r ø m m e +V.PTCP +PRS -> s t r ø m m e n d e: CORRECT!
+<nob> s t r ø m m e +V +IMP -> s t r ø m: CORRECT!
+<nob> s t r ø m m e +V +PST -> s t r ø m m e t: CORRECT!
+<nob> s t r ø m m e +V +PRS -> s t r ø m m e r: CORRECT!
+<nob> d o k t r i n e +N +DEF +SG -> d o k t r i n e n: CORRECT!
+<nob> d o k t r i n e +N +NDEF +PL -> d o k t r i n e r: CORRECT!
+<nob> d o k t r i n e +N +DEF +PL -> d o k t r i n a a: INCORRECT. Should be 'd o k t r i n e n e'
+<nob> d i s k +N +NDEF +PL -> d i s k a r: INCORRECT. Should be 'd i s k e r'
+<nob> d i s k +N +DEF +SG -> d i s k a t: INCORRECT. Should be 'd i s k e n'
+<nob> d o m m e r +N +DEF +PL -> d o m m e r n e: CORRECT!
+<nob> h e t e +V +PST -> h e t e t: INCORRECT. Should be 'h e t a'
+<nob> h e t e +N +DEF +SG -> h e t e n: CORRECT!
+<nob> h e t e +V +PRS -> h e t e r: CORRECT!
+<nob> h e t e +V.PTCP +PST -> h e t e d d: INCORRECT. Should be 'h e t t'
+<nob> h e t e +V.PTCP +PRS -> h e t e e n d e: INCORRECT. Should be 'h e t e n d e'
+<nob> v e t o +N +DEF +SG -> v e t o t: INCORRECT. Should be 'v e t o e t'
+<nob> v e t o +N +DEF +PL -> v e t o n e: INCORRECT. Should be 'v e t o e n e'
+<nob> v e t o +N +NDEF +PL -> v e t o: CORRECT!
+<nob> w a t t +N +NDEF +PL -> w a t t a r: INCORRECT. Should be 'w a t t'
+<nob> w a t t +N +DEF +PL -> w a t t a: INCORRECT. Should be 'w a t t e n e'
+<nob> w a t t +N +DEF +SG -> w a t t a: INCORRECT. Should be 'w a t t e n'
+<nob> s a b b a t +N +NDEF +PL -> s a b b a t e r: CORRECT!
+<nob> s a b b a t +N +DEF +PL -> s a b b a t a n e: INCORRECT. Should be 's a b b a t e n e'
+<nob> s a b b a t +N +DEF +SG -> s a b b a t e n: CORRECT!
+<nob> r e a g e n s g l a s s +N +DEF +PL -> r e a g e n s g l a s s e n e: CORRECT!
+<nob> r e a g e n s g l a s s +N +DEF +SG -> r e a g e n s g l a s s e n: INCORRECT. Should be 'r e a g e n s g l a s s e t'
+<nob> p r e s t a s j o n +N +NDEF +PL -> p r e s t a s j o n e r: CORRECT!
+<nob> p r e s t a s j o n +N +DEF +SG -> p r e s t a s j o n e n: CORRECT!
+<nob> p r e s t a s j o n +N +DEF +PL -> p r e s t a s j o n a n e: INCORRECT. Should be 'p r e s t a s j o n e n e'
+<nob> å p n i n g +N +DEF +SG -> å p n i n g a: CORRECT!
+<nob> å p n i n g +N +NDEF +PL -> å p n i n g e r: CORRECT!
+<nob> å p n i n g +N +DEF +PL -> å p n i n g e n e: CORRECT!
+<nob> o p p n å +V +IMP -> o p p n å: CORRECT!
+<nob> o p p n å +V.PTCP +PST -> o p p n å d d: CORRECT!
+<nob> o p p n å +V +PST -> o p p n å e t: INCORRECT. Should be 'o p p n å d d e'
+<nob> s å r +N +NDEF +PL -> s å r: CORRECT!
+<nob> s å r +N +DEF +PL -> s å r e n e: CORRECT!
+<nob> s å r +ADJ +DEF +SG+PL -> s å r e: CORRECT!
+<nob> s å r +ADJ +NEUT +SG -> s å r t: CORRECT!
+<nob> h e n d i g +ADJ +SPRL +DEF -> h e n d i g e s t e: INCORRECT. Should be 'h e n d i g s t e'
+<nob> h e n d i g +ADJ +DEF +SG+PL -> h e n d i g e: CORRECT!
+<nob> h e n d i g +ADJ +NEUT +SG -> h e n d i g: CORRECT!
+<nob> h e n d i g +ADJ +SPRL +NDEF -> h e n d i g e s t: INCORRECT. Should be 'h e n d i g s t'
+<nob> h e n d i g +ADJ +CMPR -> h e n d i g a: INCORRECT. Should be 'h e n d i g e r e'
+<nob> t r o m p e t +N +DEF +SG -> t r o m p e t e n: CORRECT!
+<nob> t r o m p e t +N +NDEF +PL -> t r o m p e t e r: CORRECT!
+<nob> t u r n p i k e +N +DEF +SG -> t u r n p i k a: CORRECT!
+<nob> t u r n p i k e +N +NDEF +PL -> t u r n p i k e r: CORRECT!
+<nob> m u s k u l ø s +ADJ +NEUT +SG -> m u s k u l ø s: INCORRECT. Should be 'm u s k u l ø s t'
+<nob> m u s k u l ø s +ADJ +DEF +SG+PL -> m u s k u l ø s e: CORRECT!
+<nob> r o g n +N +DEF +PL -> r o g n e n e: CORRECT!
+<nob> r o g n +N +NDEF +PL -> r o g n e r: CORRECT!
+<nob> r o g n +N +DEF +SG -> r o g n e t: INCORRECT. Should be 'r o g n a'
+<nob> g - s t r e n g +N +NDEF +PL -> g - s t r e n g e r: CORRECT!
+<nob> g - s t r e n g +N +DEF +SG -> g - s t r e n g e t: INCORRECT. Should be 'g - s t r e n g e n'
+<nob> g - s t r e n g +N +DEF +PL -> g - s t r e n g e n e: CORRECT!
+<nob> a r m b å n d +N +DEF +PL -> a r m b å n d e n e: CORRECT!
+<nob> a r m b å n d +N +NDEF +PL -> a r m b å n d: CORRECT!
+<nob> k o k o n g +N +DEF +SG -> k o k o n g e n: CORRECT!
+<nob> k o k o n g +N +NDEF +PL -> k o k o n g e r: CORRECT!
+<nob> k o k o n g +N +DEF +PL -> k o k o n g a a n e: INCORRECT. Should be 'k o k o n g e n e'
+<nob> m o r s +N +NDEF +PL -> m o r s e r: INCORRECT. Should be 'm o r s'
+<nob> m o r s +N +DEF +PL -> m o r s e n e: INCORRECT. Should be 'm o r s a'
+<nob> m o r s +N +DEF +SG -> m o r s e t: CORRECT!
+<nob> m o r s e +V +PST -> m o r s å g: INCORRECT. Should be 'm o r s a'
+<nob> p a t r u l j e r e +V +IMP -> p a t r u l j e r: CORRECT!
+<nob> p a t r u l j e r e +V +PRS -> p a t r u l j e r e r: CORRECT!
+<nob> p a t r u l j e r e +V +PST -> p a t r u l j e r t e: CORRECT!
+<nob> b l o d i g +ADJ +DEF +SG+PL -> b l o d i g e: CORRECT!
+<nob> b l o d i g +ADJ +NEUT +SG -> b l o d i g: CORRECT!
+<nob> f o r t o l k e +V +PST -> f o r t o l k e d: INCORRECT. Should be 'f o r t o l k a'
+<nob> f o r t o l k e +V +IMP -> f o r t o l k e: INCORRECT. Should be 'f o r t o l k'
+<nob> f o r t o l k e +V.PTCP +PRS -> f o r t o l k e n d e: CORRECT!
+<nob> f o r t o l k e +V +PRS -> f o r t o l k e r: CORRECT!
+<nob> s e y c h e l l e r +N +NDEF +PL -> s e y c h e l l e r e: CORRECT!
+<nob> s e y c h e l l e r +N +DEF +PL -> s e y c h e l l e r n e: CORRECT!
+<nob> b a k t e r i o l o g +N +DEF +PL -> b a k t e r i o l o g e n e: CORRECT!
+<nob> b a k t e r i o l o g +N +DEF +SG -> b a k t e r i o l o g e n: CORRECT!
+<nob> b a k t e r i o l o g +N +NDEF +PL -> b a k t e r i o l o g e r: CORRECT!
+<nob> k j ø k k e n h å n d k l e +N +DEF +PL -> k j ø k k e n h å n d k l e n e: INCORRECT. Should be 'k j ø k k e n h å n d k l æ r n e'
+<nob> k j ø k k e n h å n d k l e +N +NDEF +PL -> k j ø k k e n h å n d k l e r: INCORRECT. Should be 'k j ø k k e n h å n d k l æ r'
+<nob> s m å +ADJ +NEUT -> s m å t t a: INCORRECT. Should be 's m å t t'
+<nob> p r o p o r s j o n a l +ADJ +NEUT +SG -> p r o p o r s j o n a l: INCORRECT. Should be 'p r o p o r s j o n a l t'
+<nob> d o k u m e n t +N +NDEF +PL -> d o k u m e n t e r: CORRECT!
+<nob> d o k u m e n t +N +DEF +SG -> d o k u m e n t e t: CORRECT!
+<nob> d o k u m e n t +N +DEF +PL -> d o k u m e n t e n e: CORRECT!
+<nob> h v i l e +N +DEF +PL -> h v i l e n e: CORRECT!
+<nob> h v i l e +N +NDEF +PL -> h v i l e r: CORRECT!
+<nob> h v i l e +N +DEF +SG -> h v i l e n: INCORRECT. Should be 'h v i l a'
+<nob> s k r u t r e k k e r +N +DEF +SG -> s k r u t r e k k e r e n: CORRECT!
+<nob> s k r u t r e k k e r +N +NDEF +PL -> s k r u t r e k k e r e: CORRECT!
+<nob> s k r u t r e k k e r +N +DEF +PL -> s k r u t r e k k e r n e: CORRECT!
+<nob> p l a s t f o l i e +N +DEF +PL -> p l a s t f o l i e n e: CORRECT!
+<nob> p l a s t f o l i e +N +DEF +SG -> p l a s t f o l i e n: CORRECT!
+<nob> i n g r e d i e n s +N +DEF +PL -> i n g r e d i e n s e n e: CORRECT!
+<nob> i n g r e d i e n s +N +NDEF +PL -> i n g r e d i e n s e r: CORRECT!
+<nob> h u r t i g +ADJ +SPRL +NDEF -> h u r t i g e s t: INCORRECT. Should be 'h u r t i g s t'
+<nob> h u r t i g +ADJ +SPRL +DEF -> h u r t i g e t s: INCORRECT. Should be 'h u r t i g s t e'
+<nob> h u r t i g +ADJ +CMPR -> h u r t i g e: INCORRECT. Should be 'h u r t i g e r e'
+<nob> d u f t +N +DEF +PL -> d u f t a: INCORRECT. Should be 'd u f t e n e'
+<nob> d u f t +N +DEF +SG -> d u f t a: INCORRECT. Should be 'd u f t e n'
+<nob> k u n d e +N +DEF +SG -> k u n d a: INCORRECT. Should be 'k u n d e n'
+<nob> f e s t e +V.PTCP +PRS -> f e s t e e n d e: INCORRECT. Should be 'f e s t e n d e'
+<nob> f e s t e +V +IMP -> f e s t e: INCORRECT. Should be 'f e s t'
+<nob> n a t u r g a s s +N +DEF +PL -> n a t u r g a s s e n e: CORRECT!
+<nob> t e o l o g i +N +NDEF +PL -> t e o l o g i e r: CORRECT!
+<nob> t e o l o g i +N +DEF +SG -> t e o l o g i e t: INCORRECT. Should be 't e o l o g i e n'
+<nob> f ø l e l s e +N +DEF +SG -> f ø l e l s e n: CORRECT!
+<nob> f ø l e l s e +N +NDEF +PL -> f ø l e l s e r: CORRECT!
+<nob> f ø l e l s e +N +DEF +PL -> f ø l e l s e a: INCORRECT. Should be 'f ø l e l s e n e'
+<nob> m o r d v å p e n +N +DEF +PL -> m o r d v å p e n a: INCORRECT. Should be 'm o r d v å p n a'
+Correct: 61.82% (1552.8/2512)
